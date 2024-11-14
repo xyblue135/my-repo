@@ -1,0 +1,2284 @@
+----------------------------------------------------------------------------------------------------------
+spawn ssh -o HostKeyAlgorithms=+ssh-rsa -o PubkeyAcceptedKeyTypes=+ssh-rsa weihu@10.126.219.132
+weihu@10.126.219.132's password: 
+******************************************************************************
+* Copyright (c) 2004-2022 New H3C Technologies Co., Ltd. All rights reserved.*
+* Without the owner's prior written consent,                                 *
+* no decompiling or reverse-engineering shall be allowed.                    *
+******************************************************************************
+
+<HE-SJZKFQ-EYCX-S5554S-EI-D-1>ping -c 1 192.168.250.9
+Ping 192.168.250.9 (192.168.250.9): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.250.9: icmp_seq=0 ttl=255 time=0.795 ms
+
+--- Ping statistics for 192.168.250.9 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 0.795/0.795/0.795/0.000 ms
+<HE-SJZKFQ-EYCX-S5554S-EI-D-1>ping -c 1 192.168.250.10
+Ping 192.168.250.10 (192.168.250.10): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.250.10: icmp_seq=0 ttl=255 time=2.443 ms
+
+--- Ping statistics for 192.168.250.10 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 2.443/2.443/2.443/0.000 ms
+<HE-SJZKFQ-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8005:2801:3B00:5::100
+Ping6(56 data bytes) 2409:8005:2801:3B00:5::100 --> 2409:8005:2801:3B00:5::100, press CTRL+C to break
+56 bytes from 2409:8005:2801:3B00:5::100, icmp_seq=0 hlim=64 time=1.996 ms
+
+--- Ping6 statistics for 2409:8005:2801:3B00:5::100 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 1.996/1.996/1.996/0.000 ms
+<HE-SJZKFQ-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8005:2801:3B00:5::101
+Ping6(56 data bytes) 2409:8005:2801:3B00:5::100 --> 2409:8005:2801:3B00:5::101, press CTRL+C to break
+56 bytes from 2409:8005:2801:3B00:5::101, icmp_seq=0 hlim=64 time=3.383 ms
+
+--- Ping6 statistics for 2409:8005:2801:3B00:5::101 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 3.383/3.383/3.383/0.000 ms
+<HE-SJZKFQ-EYCX-S5554S-EI-D-1>ping -c 1 192.168.102.25
+Ping 192.168.102.25 (192.168.102.25): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.102.25: icmp_seq=0 ttl=255 time=1.150 ms
+
+--- Ping statistics for 192.168.102.25 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 1.150/1.150/1.150/0.000 ms
+<HE-SJZKFQ-EYCX-S5554S-EI-D-1>ping -c 1 192.168.102.26
+Ping 192.168.102.26 (192.168.102.26): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.102.26: icmp_seq=0 ttl=255 time=2.402 ms
+
+--- Ping statistics for 192.168.102.26 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 2.402/2.402/2.402/0.000 ms
+<HE-SJZKFQ-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8005:2801:300:2::100
+Ping6(56 data bytes) 2409:8005:2801:300:2::100 --> 2409:8005:2801:300:2::100, press CTRL+C to break
+56 bytes from 2409:8005:2801:300:2::100, icmp_seq=0 hlim=64 time=1.710 ms
+
+--- Ping6 statistics for 2409:8005:2801:300:2::100 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 1.710/1.710/1.710/0.000 ms
+<HE-SJZKFQ-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8005:2801:300:2::101
+Ping6(56 data bytes) 2409:8005:2801:300:2::100 --> 2409:8005:2801:300:2::101, press CTRL+C to break
+56 bytes from 2409:8005:2801:300:2::101, icmp_seq=0 hlim=64 time=5.301 ms
+
+--- Ping6 statistics for 2409:8005:2801:300:2::101 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 5.301/5.301/5.301/0.000 ms
+<HE-SJZKFQ-EYCX-S5554S-EI-D-1>ping -c 1 192.168.5.1
+Ping 192.168.5.1 (192.168.5.1): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.5.1: icmp_seq=0 ttl=255 time=3.516 ms
+
+--- Ping statistics for 192.168.5.1 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 3.516/3.516/3.516/0.000 ms
+<HE-SJZKFQ-EYCX-S5554S-EI-D-1>ping -c 1 192.168.5.2
+Ping 192.168.5.2 (192.168.5.2): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.5.2: icmp_seq=0 ttl=255 time=4.628 ms
+
+--- Ping statistics for 192.168.5.2 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 4.628/4.628/4.628/0.000 ms
+<HE-SJZKFQ-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8005:2A01:1900:101::100
+Ping6(56 data bytes) 2409:8005:2A01:1900:101::100 --> 2409:8005:2A01:1900:101::100, press CTRL+C to break
+56 bytes from 2409:8005:2A01:1900:101::100, icmp_seq=0 hlim=64 time=2.310 ms
+
+--- Ping6 statistics for 2409:8005:2A01:1900:101::100 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 2.310/2.310/2.310/0.000 ms
+<HE-SJZKFQ-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8005:2A01:1900:101::101
+Ping6(56 data bytes) 2409:8005:2A01:1900:101::100 --> 2409:8005:2A01:1900:101::101, press CTRL+C to break
+56 bytes from 2409:8005:2A01:1900:101::101, icmp_seq=0 hlim=64 time=2.921 ms
+
+--- Ping6 statistics for 2409:8005:2A01:1900:101::101 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 2.921/2.921/2.921/0.000 ms
+<HE-SJZKFQ-EYCX-S5554S-EI-D-1>ping -c 1 192.168.4.1
+Ping 192.168.4.1 (192.168.4.1): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.4.1: icmp_seq=0 ttl=255 time=3.988 ms
+
+--- Ping statistics for 192.168.4.1 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 3.988/3.988/3.988/0.000 ms
+<HE-SJZKFQ-EYCX-S5554S-EI-D-1>ping -c 1 192.168.4.2
+Ping 192.168.4.2 (192.168.4.2): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.4.2: icmp_seq=0 ttl=255 time=3.141 ms
+
+--- Ping statistics for 192.168.4.2 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 3.141/3.141/3.141/0.000 ms
+<HE-SJZKFQ-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8004:2810:1050::100
+Ping6(56 data bytes) 2409:8004:2810:1050::100 --> 2409:8004:2810:1050::100, press CTRL+C to break
+56 bytes from 2409:8004:2810:1050::100, icmp_seq=0 hlim=64 time=1.860 ms
+
+--- Ping6 statistics for 2409:8004:2810:1050::100 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 1.860/1.860/1.860/0.000 ms
+<HE-SJZKFQ-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8004:2810:1050::101
+Ping6(56 data bytes) 2409:8004:2810:1050::100 --> 2409:8004:2810:1050::101, press CTRL+C to break
+56 bytes from 2409:8004:2810:1050::101, icmp_seq=0 hlim=64 time=3.102 ms
+
+--- Ping6 statistics for 2409:8004:2810:1050::101 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 3.102/3.102/3.102/0.000 ms
+<HE-SJZKFQ-EYCX-S5554S-EI-D-1>ping -c 1 192.168.2.33
+Ping 192.168.2.33 (192.168.2.33): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.2.33: icmp_seq=0 ttl=255 time=3.790 ms
+
+--- Ping statistics for 192.168.2.33 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 3.790/3.790/3.790/0.000 ms
+<HE-SJZKFQ-EYCX-S5554S-EI-D-1>ping -c 1 192.168.2.34
+Ping 192.168.2.34 (192.168.2.34): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.2.34: icmp_seq=0 ttl=255 time=2.443 ms
+
+--- Ping statistics for 192.168.2.34 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 2.443/2.443/2.443/0.000 ms
+<HE-SJZKFQ-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8004:2811:1010::100
+Ping6(56 data bytes) 2409:8004:2811:1010::100 --> 2409:8004:2811:1010::100, press CTRL+C to break
+56 bytes from 2409:8004:2811:1010::100, icmp_seq=0 hlim=64 time=2.131 ms
+
+--- Ping6 statistics for 2409:8004:2811:1010::100 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 2.131/2.131/2.131/0.000 ms
+<HE-SJZKFQ-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8004:2811:1010::101
+Ping6(56 data bytes) 2409:8004:2811:1010::100 --> 2409:8004:2811:1010::101, press CTRL+C to break
+56 bytes from 2409:8004:2811:1010::101, icmp_seq=0 hlim=64 time=3.954 ms
+
+--- Ping6 statistics for 2409:8004:2811:1010::101 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 3.954/3.954/3.954/0.000 ms
+<HE-SJZKFQ-EYCX-S5554S-EI-D-1>ping -c 1 192.168.4.5
+Ping 192.168.4.5 (192.168.4.5): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.4.5: icmp_seq=0 ttl=255 time=0.996 ms
+
+--- Ping statistics for 192.168.4.5 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 0.996/0.996/0.996/0.000 ms
+<HE-SJZKFQ-EYCX-S5554S-EI-D-1>ping -c 1 192.168.4.6
+Ping 192.168.4.6 (192.168.4.6): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.4.6: icmp_seq=0 ttl=255 time=2.558 ms
+
+--- Ping statistics for 192.168.4.6 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 2.558/2.558/2.558/0.000 ms
+<HE-SJZKFQ-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8004:2810:1030::100
+Ping6(56 data bytes) 2409:8004:2810:1030::100 --> 2409:8004:2810:1030::100, press CTRL+C to break
+56 bytes from 2409:8004:2810:1030::100, icmp_seq=0 hlim=64 time=2.057 ms
+
+--- Ping6 statistics for 2409:8004:2810:1030::100 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 2.057/2.057/2.057/0.000 ms
+<HE-SJZKFQ-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8004:2810:1030::101
+Ping6(56 data bytes) 2409:8004:2810:1030::100 --> 2409:8004:2810:1030::101, press CTRL+C to break
+56 bytes from 2409:8004:2810:1030::101, icmp_seq=0 hlim=64 time=3.993 ms
+
+--- Ping6 statistics for 2409:8004:2810:1030::101 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 3.993/3.993/3.993/0.000 ms
+<HE-SJZKFQ-EYCX-S5554S-EI-D-1>exit
+Connection to 10.126.219.132 closed.
+----------------------------------------------------------------------------------------------------------
+spawn ssh -o HostKeyAlgorithms=+ssh-rsa -o PubkeyAcceptedKeyTypes=+ssh-rsa weihu@10.126.219.101
+weihu@10.126.219.101's password: 
+******************************************************************************
+* Copyright (c) 2004-2022 New H3C Technologies Co., Ltd. All rights reserved.*
+* Without the owner's prior written consent,                                 *
+* no decompiling or reverse-engineering shall be allowed.                    *
+******************************************************************************
+
+<HE-SJZDFL-EYCX-S5554S-EI-D-1>ping -c 1 192.168.4.9
+Ping 192.168.4.9 (192.168.4.9): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.4.9: icmp_seq=0 ttl=255 time=0.932 ms
+
+--- Ping statistics for 192.168.4.9 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 0.932/0.932/0.932/0.000 ms
+<HE-SJZDFL-EYCX-S5554S-EI-D-1>
+<HE-SJZDFL-EYCX-S5554S-EI-D-1>ping -c 1 192.168.4.10
+Ping 192.168.4.10 (192.168.4.10): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.4.10: icmp_seq=0 ttl=254 time=2.229 ms
+
+--- Ping statistics for 192.168.4.10 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 2.229/2.229/2.229/0.000 ms
+<HE-SJZDFL-EYCX-S5554S-EI-D-1>
+<HE-SJZDFL-EYCX-S5554S-EI-D-1>ping ipv6  -c 1  2409:8004:2810:1010::100
+Ping6(56 data bytes) 2409:8004:2810:1010::100 --> 2409:8004:2810:1010::100, press CTRL+C to break
+56 bytes from 2409:8004:2810:1010::100, icmp_seq=0 hlim=64 time=2.097 ms
+
+--- Ping6 statistics for 2409:8004:2810:1010::100 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 2.097/2.097/2.097/0.000 ms
+<HE-SJZDFL-EYCX-S5554S-EI-D-1>
+<HE-SJZDFL-EYCX-S5554S-EI-D-1>ping ipv6  -c 1  2409:8004:2810:1010::101
+Ping6(56 data bytes) 2409:8004:2810:1010::100 --> 2409:8004:2810:1010::101, press CTRL+C to break
+56 bytes from 2409:8004:2810:1010::101, icmp_seq=0 hlim=63 time=3.673 ms
+
+--- Ping6 statistics for 2409:8004:2810:1010::101 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 3.673/3.673/3.673/0.000 ms
+<HE-SJZDFL-EYCX-S5554S-EI-D-1>ping -c 1 192.168.205.9
+Ping 192.168.205.9 (192.168.205.9): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.205.9: icmp_seq=0 ttl=255 time=0.950 ms
+
+--- Ping statistics for 192.168.205.9 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 0.950/0.950/0.950/0.000 ms
+<HE-SJZDFL-EYCX-S5554S-EI-D-1>
+<HE-SJZDFL-EYCX-S5554S-EI-D-1>ping -c 1 192.168.205.10
+Ping 192.168.205.10 (192.168.205.10): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.205.10: icmp_seq=0 ttl=255 time=2.372 ms
+
+--- Ping statistics for 192.168.205.10 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 2.372/2.372/2.372/0.000 ms
+<HE-SJZDFL-EYCX-S5554S-EI-D-1>
+<HE-SJZDFL-EYCX-S5554S-EI-D-1>ping ipv6  -c 1  2409:8004:2801:30::100
+Ping6(56 data bytes) 2409:8004:2801:30::100 --> 2409:8004:2801:30::100, press CTRL+C to break
+56 bytes from 2409:8004:2801:30::100, icmp_seq=0 hlim=64 time=1.901 ms
+
+--- Ping6 statistics for 2409:8004:2801:30::100 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 1.901/1.901/1.901/0.000 ms
+<HE-SJZDFL-EYCX-S5554S-EI-D-1>
+<HE-SJZDFL-EYCX-S5554S-EI-D-1>ping ipv6  -c 1  2409:8004:2801:30::101
+Ping6(56 data bytes) 2409:8004:2801:30::100 --> 2409:8004:2801:30::101, press CTRL+C to break
+56 bytes from 2409:8004:2801:30::101, icmp_seq=0 hlim=64 time=3.472 ms
+
+--- Ping6 statistics for 2409:8004:2801:30::101 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 3.472/3.472/3.472/0.000 ms
+<HE-SJZDFL-EYCX-S5554S-EI-D-1>
+<HE-SJZDFL-EYCX-S5554S-EI-D-1>exit
+Connection to 10.126.219.101 closed.
+----------------------------------------------------------------------------------------------------------
+spawn ssh -o HostKeyAlgorithms=+ssh-rsa -o PubkeyAcceptedKeyTypes=+ssh-rsa weihu@10.126.220.115
+weihu@10.126.220.115's password: 
+******************************************************************************
+* Copyright (c) 2004-2022 New H3C Technologies Co., Ltd. All rights reserved.*
+* Without the owner's prior written consent,                                 *
+* no decompiling or reverse-engineering shall be allowed.                    *
+******************************************************************************
+
+<HE-SJZLQ-EYCX-S5554S-EI-D-1>ping -c 1 192.168.100.1
+Ping 192.168.100.1 (192.168.100.1): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.100.1: icmp_seq=0 ttl=255 time=1.040 ms
+
+--- Ping statistics for 192.168.100.1 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 1.040/1.040/1.040/0.000 ms
+<HE-SJZLQ-EYCX-S5554S-EI-D-1>ping -c 1 192.168.100.2
+Ping 192.168.100.2 (192.168.100.2): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.100.2: icmp_seq=0 ttl=255 time=6.243 ms
+
+--- Ping statistics for 192.168.100.2 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 6.243/6.243/6.243/0.000 ms
+<HE-SJZLQ-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8004:2810:1040::100
+Ping6(56 data bytes) 2409:8004:2810:1040::100 --> 2409:8004:2810:1040::100, press CTRL+C to break
+56 bytes from 2409:8004:2810:1040::100, icmp_seq=0 hlim=64 time=2.136 ms
+
+--- Ping6 statistics for 2409:8004:2810:1040::100 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 2.136/2.136/2.136/0.000 ms
+<HE-SJZLQ-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8004:2810:1040::101
+Ping6(56 data bytes) 2409:8004:2810:1040::100 --> 2409:8004:2810:1040::101, press CTRL+C to break
+56 bytes from 2409:8004:2810:1040::101, icmp_seq=0 hlim=64 time=3.391 ms
+
+--- Ping6 statistics for 2409:8004:2810:1040::101 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 3.391/3.391/3.391/0.000 ms
+<HE-SJZLQ-EYCX-S5554S-EI-D-1>ping -c 1 192.168.5.5
+Ping 192.168.5.5 (192.168.5.5): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.5.5: icmp_seq=0 ttl=255 time=1.095 ms
+
+--- Ping statistics for 192.168.5.5 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 1.095/1.095/1.095/0.000 ms
+<HE-SJZLQ-EYCX-S5554S-EI-D-1>ping -c 1 192.168.5.6
+Ping 192.168.5.6 (192.168.5.6): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.5.6: icmp_seq=0 ttl=255 time=2.328 ms
+
+--- Ping statistics for 192.168.5.6 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 2.328/2.328/2.328/0.000 ms
+<HE-SJZLQ-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8005:2A01:1900:103::100
+Ping6(56 data bytes) 2409:8005:2A01:1900:103::100 --> 2409:8005:2A01:1900:103::100, press CTRL+C to break
+56 bytes from 2409:8005:2A01:1900:103::100, icmp_seq=0 hlim=64 time=2.101 ms
+
+--- Ping6 statistics for 2409:8005:2A01:1900:103::100 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 2.101/2.101/2.101/0.000 ms
+<HE-SJZLQ-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8005:2A01:1900:103::101
+Ping6(56 data bytes) 2409:8005:2A01:1900:103::100 --> 2409:8005:2A01:1900:103::101, press CTRL+C to break
+56 bytes from 2409:8005:2A01:1900:103::101, icmp_seq=0 hlim=64 time=3.361 ms
+
+--- Ping6 statistics for 2409:8005:2A01:1900:103::101 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 3.361/3.361/3.361/0.000 ms
+<HE-SJZLQ-EYCX-S5554S-EI-D-1>ping -c 1 192.168.205.1
+Ping 192.168.205.1 (192.168.205.1): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.205.1: icmp_seq=0 ttl=255 time=0.985 ms
+
+--- Ping statistics for 192.168.205.1 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 0.985/0.985/0.985/0.000 ms
+<HE-SJZLQ-EYCX-S5554S-EI-D-1>ping -c 1 192.168.205.2
+Ping 192.168.205.2 (192.168.205.2): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.205.2: icmp_seq=0 ttl=255 time=2.082 ms
+
+--- Ping statistics for 192.168.205.2 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 2.082/2.082/2.082/0.000 ms
+<HE-SJZLQ-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8005:2801:900:3::100
+Ping6(56 data bytes) 2409:8005:2801:900:3::100 --> 2409:8005:2801:900:3::100, press CTRL+C to break
+56 bytes from 2409:8005:2801:900:3::100, icmp_seq=0 hlim=64 time=1.655 ms
+
+--- Ping6 statistics for 2409:8005:2801:900:3::100 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 1.655/1.655/1.655/0.000 ms
+<HE-SJZLQ-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8005:2801:900:3::101
+Ping6(56 data bytes) 2409:8005:2801:900:3::100 --> 2409:8005:2801:900:3::101, press CTRL+C to break
+56 bytes from 2409:8005:2801:900:3::101, icmp_seq=0 hlim=64 time=5.996 ms
+
+--- Ping6 statistics for 2409:8005:2801:900:3::101 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 5.996/5.996/5.996/0.000 ms
+<HE-SJZLQ-EYCX-S5554S-EI-D-1>ping -c 1 192.168.205.5
+Ping 192.168.205.5 (192.168.205.5): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.205.5: icmp_seq=0 ttl=255 time=1.032 ms
+
+--- Ping statistics for 192.168.205.5 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 1.032/1.032/1.032/0.000 ms
+<HE-SJZLQ-EYCX-S5554S-EI-D-1>ping -c 1 192.168.205.6
+Ping 192.168.205.6 (192.168.205.6): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.205.6: icmp_seq=0 ttl=255 time=3.427 ms
+
+--- Ping statistics for 192.168.205.6 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 3.427/3.427/3.427/0.000 ms
+<HE-SJZLQ-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8005:2801:900:7::100
+Ping6(56 data bytes) 2409:8005:2801:900:7::100 --> 2409:8005:2801:900:7::100, press CTRL+C to break
+56 bytes from 2409:8005:2801:900:7::100, icmp_seq=0 hlim=64 time=2.060 ms
+
+--- Ping6 statistics for 2409:8005:2801:900:7::100 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 2.060/2.060/2.060/0.000 ms
+<HE-SJZLQ-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8005:2801:900:7::101
+Ping6(56 data bytes) 2409:8005:2801:900:7::100 --> 2409:8005:2801:900:7::101, press CTRL+C to break
+56 bytes from 2409:8005:2801:900:7::101, icmp_seq=0 hlim=64 time=3.696 ms
+
+--- Ping6 statistics for 2409:8005:2801:900:7::101 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 3.696/3.696/3.696/0.000 ms
+<HE-SJZLQ-EYCX-S5554S-EI-D-1>exit
+Connection to 10.126.220.115 closed.
+----------------------------------------------------------------------------------------------------------
+spawn ssh -o HostKeyAlgorithms=+ssh-rsa -o PubkeyAcceptedKeyTypes=+ssh-rsa weihu@10.126.220.35
+weihu@10.126.220.35's password: 
+******************************************************************************
+* Copyright (c) 2004-2022 New H3C Technologies Co., Ltd. All rights reserved.*
+* Without the owner's prior written consent,                                 *
+* no decompiling or reverse-engineering shall be allowed.                    *
+******************************************************************************
+
+<HE-HSTCQ-EYCX-S5554S-EI-D-1>ping -c 1 192.168.205.65
+Ping 192.168.205.65 (192.168.205.65): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.205.65: icmp_seq=0 ttl=255 time=0.822 ms
+
+--- Ping statistics for 192.168.205.65 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 0.822/0.822/0.822/0.000 ms
+<HE-HSTCQ-EYCX-S5554S-EI-D-1>ping -c 1 192.168.205.66
+Ping 192.168.205.66 (192.168.205.66): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.205.66: icmp_seq=0 ttl=255 time=1.879 ms
+
+--- Ping statistics for 192.168.205.66 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 1.879/1.879/1.879/0.000 ms
+<HE-HSTCQ-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8005:2805:900:1::100
+Ping6(56 data bytes) 2409:8005:2805:900:1::100 --> 2409:8005:2805:900:1::100, press CTRL+C to break
+56 bytes from 2409:8005:2805:900:1::100, icmp_seq=0 hlim=64 time=2.002 ms
+
+--- Ping6 statistics for 2409:8005:2805:900:1::100 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 2.002/2.002/2.002/0.000 ms
+<HE-HSTCQ-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8005:2805:900:1::101
+Ping6(56 data bytes) 2409:8005:2805:900:1::100 --> 2409:8005:2805:900:1::101, press CTRL+C to break
+56 bytes from 2409:8005:2805:900:1::101, icmp_seq=0 hlim=64 time=5.881 ms
+
+--- Ping6 statistics for 2409:8005:2805:900:1::101 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 5.881/5.881/5.881/0.000 ms
+<HE-HSTCQ-EYCX-S5554S-EI-D-1>ping -c 1 192.168.230.1
+Ping 192.168.230.1 (192.168.230.1): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.230.1: icmp_seq=0 ttl=255 time=3.794 ms
+
+--- Ping statistics for 192.168.230.1 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 3.794/3.794/3.794/0.000 ms
+<HE-HSTCQ-EYCX-S5554S-EI-D-1>ping -c 1 192.168.230.2
+Ping 192.168.230.2 (192.168.230.2): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.230.2: icmp_seq=0 ttl=255 time=3.498 ms
+
+--- Ping statistics for 192.168.230.2 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 3.498/3.498/3.498/0.000 ms
+<HE-HSTCQ-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8004:5a06:5005:104::2
+Ping6(56 data bytes) 2409:8004:5A06:5005:104::2 --> 2409:8004:5A06:5005:104::2, press CTRL+C to break
+56 bytes from 2409:8004:5A06:5005:104::2, icmp_seq=0 hlim=64 time=2.577 ms
+
+--- Ping6 statistics for 2409:8004:5a06:5005:104::2 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 2.577/2.577/2.577/0.000 ms
+<HE-HSTCQ-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8004:5a06:5005:104::3
+Ping6(56 data bytes) 2409:8004:5A06:5005:104::2 --> 2409:8004:5A06:5005:104::3, press CTRL+C to break
+56 bytes from 2409:8004:5A06:5005:104::3, icmp_seq=0 hlim=64 time=5.671 ms
+
+--- Ping6 statistics for 2409:8004:5a06:5005:104::3 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 5.671/5.671/5.671/0.000 ms
+<HE-HSTCQ-EYCX-S5554S-EI-D-1>ping -c 1 192.168.205.73
+Ping 192.168.205.73 (192.168.205.73): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.205.73: icmp_seq=0 ttl=255 time=1.022 ms
+
+--- Ping statistics for 192.168.205.73 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 1.022/1.022/1.022/0.000 ms
+<HE-HSTCQ-EYCX-S5554S-EI-D-1>ping -c 1 192.168.205.74
+Ping 192.168.205.74 (192.168.205.74): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.205.74: icmp_seq=0 ttl=255 time=2.166 ms
+
+--- Ping statistics for 192.168.205.74 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 2.166/2.166/2.166/0.000 ms
+<HE-HSTCQ-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8005:2805:10::100
+Ping6(56 data bytes) 2409:8005:2805:10::100 --> 2409:8005:2805:10::100, press CTRL+C to break
+56 bytes from 2409:8005:2805:10::100, icmp_seq=0 hlim=64 time=3.024 ms
+
+--- Ping6 statistics for 2409:8005:2805:10::100 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 3.024/3.024/3.024/0.000 ms
+<HE-HSTCQ-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8005:2805:10::101
+Ping6(56 data bytes) 2409:8005:2805:10::100 --> 2409:8005:2805:10::101, press CTRL+C to break
+56 bytes from 2409:8005:2805:10::101, icmp_seq=0 hlim=64 time=5.678 ms
+
+--- Ping6 statistics for 2409:8005:2805:10::101 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 5.678/5.678/5.678/0.000 ms
+<HE-HSTCQ-EYCX-S5554S-EI-D-1>exit
+Connection to 10.126.220.35 closed.
+----------------------------------------------------------------------------------------------------------
+spawn ssh -o HostKeyAlgorithms=+ssh-rsa -o PubkeyAcceptedKeyTypes=+ssh-rsa weihu@10.126.220.51
+weihu@10.126.220.51's password: 
+******************************************************************************
+* Copyright (c) 2004-2022 New H3C Technologies Co., Ltd. All rights reserved.*
+* Without the owner's prior written consent,                                 *
+* no decompiling or reverse-engineering shall be allowed.                    *
+******************************************************************************
+
+<HE-HSRML-EYCX-S5554S-EI-D-1>ping -c 1 192.168.205.69
+Ping 192.168.205.69 (192.168.205.69): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.205.69: icmp_seq=0 ttl=255 time=3.895 ms
+
+--- Ping statistics for 192.168.205.69 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 3.895/3.895/3.895/0.000 ms
+<HE-HSRML-EYCX-S5554S-EI-D-1>ping -c 1 192.168.205.70
+Ping 192.168.205.70 (192.168.205.70): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.205.70: icmp_seq=0 ttl=255 time=2.652 ms
+
+--- Ping statistics for 192.168.205.70 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 2.652/2.652/2.652/0.000 ms
+<HE-HSRML-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8005:2805:900:3::100
+Ping6(56 data bytes) 2409:8005:2805:900:3::100 --> 2409:8005:2805:900:3::100, press CTRL+C to break
+56 bytes from 2409:8005:2805:900:3::100, icmp_seq=0 hlim=64 time=2.168 ms
+
+--- Ping6 statistics for 2409:8005:2805:900:3::100 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 2.168/2.168/2.168/0.000 ms
+<HE-HSRML-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8005:2805:900:3::101
+Ping6(56 data bytes) 2409:8005:2805:900:3::100 --> 2409:8005:2805:900:3::101, press CTRL+C to break
+Request time out
+
+--- Ping6 statistics for 2409:8005:2805:900:3::101 ---
+1 packet(s) transmitted, 0 packet(s) received, 100.0% packet loss
+<HE-HSRML-EYCX-S5554S-EI-D-1>ping -c 1 192.168.205.77
+Ping 192.168.205.77 (192.168.205.77): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.205.77: icmp_seq=0 ttl=255 time=3.909 ms
+
+--- Ping statistics for 192.168.205.77 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 3.909/3.909/3.909/0.000 ms
+<HE-HSRML-EYCX-S5554S-EI-D-1>ping -c 1 192.168.205.78
+Ping 192.168.205.78 (192.168.205.78): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.205.78: icmp_seq=0 ttl=255 time=4.659 ms
+
+--- Ping statistics for 192.168.205.78 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 4.659/4.659/4.659/0.000 ms
+<HE-HSRML-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8005:2805:30::100
+Ping6(56 data bytes) 2409:8005:2805:30::100 --> 2409:8005:2805:30::100, press CTRL+C to break
+56 bytes from 2409:8005:2805:30::100, icmp_seq=0 hlim=64 time=3.252 ms
+
+--- Ping6 statistics for 2409:8005:2805:30::100 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 3.252/3.252/3.252/0.000 ms
+<HE-HSRML-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8005:2805:30::101
+Ping6(56 data bytes) 2409:8005:2805:30::100 --> 2409:8005:2805:30::101, press CTRL+C to break
+56 bytes from 2409:8005:2805:30::101, icmp_seq=0 hlim=64 time=7.672 ms
+
+--- Ping6 statistics for 2409:8005:2805:30::101 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 7.672/7.672/7.672/0.000 ms
+<HE-HSRML-EYCX-S5554S-EI-D-1>exit
+Connection to 10.126.220.51 closed.
+----------------------------------------------------------------------------------------------------------
+spawn ssh -o HostKeyAlgorithms=+ssh-rsa -o PubkeyAcceptedKeyTypes=+ssh-rsa weihu@10.126.219.69
+weihu@10.126.219.69's password: 
+******************************************************************************
+* Copyright (c) 2004-2022 New H3C Technologies Co., Ltd. All rights reserved.*
+* Without the owner's prior written consent,                                 *
+* no decompiling or reverse-engineering shall be allowed.                    *
+******************************************************************************
+
+<HE-HDQQT-EYCX-S5554S-EI-D-1>ping -c 1 192.168.205.61
+Ping 192.168.205.61 (192.168.205.61): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.205.61: icmp_seq=0 ttl=255 time=1.044 ms
+
+--- Ping statistics for 192.168.205.61 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 1.044/1.044/1.044/0.000 ms
+<HE-HDQQT-EYCX-S5554S-EI-D-1>ping -c 1 192.168.205.62
+Ping 192.168.205.62 (192.168.205.62): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.205.62: icmp_seq=0 ttl=255 time=2.351 ms
+
+--- Ping statistics for 192.168.205.62 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 2.351/2.351/2.351/0.000 ms
+<HE-HDQQT-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8005:2810:900:3::100
+Ping6(56 data bytes) 2409:8005:2810:900:3::100 --> 2409:8005:2810:900:3::100, press CTRL+C to break
+56 bytes from 2409:8005:2810:900:3::100, icmp_seq=0 hlim=64 time=2.011 ms
+
+--- Ping6 statistics for 2409:8005:2810:900:3::100 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 2.011/2.011/2.011/0.000 ms
+<HE-HDQQT-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8005:2810:900:3::101
+Ping6(56 data bytes) 2409:8005:2810:900:3::100 --> 2409:8005:2810:900:3::101, press CTRL+C to break
+56 bytes from 2409:8005:2810:900:3::101, icmp_seq=0 hlim=64 time=5.650 ms
+
+--- Ping6 statistics for 2409:8005:2810:900:3::101 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 5.650/5.650/5.650/0.000 ms
+<HE-HDQQT-EYCX-S5554S-EI-D-1>ping -c 1 192.168.205.169
+Ping 192.168.205.169 (192.168.205.169): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.205.169: icmp_seq=0 ttl=255 time=1.185 ms
+
+--- Ping statistics for 192.168.205.169 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 1.185/1.185/1.185/0.000 ms
+<HE-HDQQT-EYCX-S5554S-EI-D-1>ping -c 1 192.168.205.170
+Ping 192.168.205.170 (192.168.205.170): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.205.170: icmp_seq=0 ttl=255 time=2.809 ms
+
+--- Ping statistics for 192.168.205.170 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 2.809/2.809/2.809/0.000 ms
+<HE-HDQQT-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8005:2810:900:7::100
+Ping6(56 data bytes) 2409:8005:2810:900:7::100 --> 2409:8005:2810:900:7::100, press CTRL+C to break
+56 bytes from 2409:8005:2810:900:7::100, icmp_seq=0 hlim=64 time=2.025 ms
+
+--- Ping6 statistics for 2409:8005:2810:900:7::100 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 2.025/2.025/2.025/0.000 ms
+<HE-HDQQT-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8005:2810:900:7::101
+Ping6(56 data bytes) 2409:8005:2810:900:7::100 --> 2409:8005:2810:900:7::101, press CTRL+C to break
+56 bytes from 2409:8005:2810:900:7::101, icmp_seq=0 hlim=64 time=4.209 ms
+
+--- Ping6 statistics for 2409:8005:2810:900:7::101 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 4.209/4.209/4.209/0.000 ms
+<HE-HDQQT-EYCX-S5554S-EI-D-1>ping -c 1 192.168.4.25
+Ping 192.168.4.25 (192.168.4.25): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.4.25: icmp_seq=0 ttl=255 time=1.047 ms
+
+--- Ping statistics for 192.168.4.25 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 1.047/1.047/1.047/0.000 ms
+<HE-HDQQT-EYCX-S5554S-EI-D-1>ping -c 1 192.168.4.26
+Ping 192.168.4.26 (192.168.4.26): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.4.26: icmp_seq=0 ttl=255 time=4.937 ms
+
+--- Ping statistics for 192.168.4.26 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 4.937/4.937/4.937/0.000 ms
+<HE-HDQQT-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8004:2820:1030::100
+Ping6(56 data bytes) 2409:8004:2820:1030::100 --> 2409:8004:2820:1030::100, press CTRL+C to break
+56 bytes from 2409:8004:2820:1030::100, icmp_seq=0 hlim=64 time=2.457 ms
+
+--- Ping6 statistics for 2409:8004:2820:1030::100 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 2.457/2.457/2.457/0.000 ms
+<HE-HDQQT-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8004:2820:1030::101
+Ping6(56 data bytes) 2409:8004:2820:1030::100 --> 2409:8004:2820:1030::101, press CTRL+C to break
+56 bytes from 2409:8004:2820:1030::101, icmp_seq=0 hlim=64 time=3.401 ms
+
+--- Ping6 statistics for 2409:8004:2820:1030::101 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 3.401/3.401/3.401/0.000 ms
+<HE-HDQQT-EYCX-S5554S-EI-D-1>exit
+Connection to 10.126.219.69 closed.
+----------------------------------------------------------------------------------------------------------
+spawn ssh -o HostKeyAlgorithms=+ssh-rsa -o PubkeyAcceptedKeyTypes=+ssh-rsa weihu@10.126.220.19
+weihu@10.126.220.19's password: 
+******************************************************************************
+* Copyright (c) 2004-2022 New H3C Technologies Co., Ltd. All rights reserved.*
+* Without the owner's prior written consent,                                 *
+* no decompiling or reverse-engineering shall be allowed.                    *
+******************************************************************************
+
+<HE-HDYDDS-EYCX-S5554S-EI-D-1>ping -c 1 192.168.205.53
+Ping 192.168.205.53 (192.168.205.53): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.205.53: icmp_seq=0 ttl=255 time=3.833 ms
+
+--- Ping statistics for 192.168.205.53 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 3.833/3.833/3.833/0.000 ms
+<HE-HDYDDS-EYCX-S5554S-EI-D-1>ping -c 1 192.168.205.54
+Ping 192.168.205.54 (192.168.205.54): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.205.54: icmp_seq=0 ttl=255 time=3.432 ms
+
+--- Ping statistics for 192.168.205.54 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 3.432/3.432/3.432/0.000 ms
+<HE-HDYDDS-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8005:2810:900:1::100
+Ping6(56 data bytes) 2409:8005:2810:900:1::100 --> 2409:8005:2810:900:1::100, press CTRL+C to break
+56 bytes from 2409:8005:2810:900:1::100, icmp_seq=0 hlim=64 time=2.078 ms
+
+--- Ping6 statistics for 2409:8005:2810:900:1::100 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 2.078/2.078/2.078/0.000 ms
+<HE-HDYDDS-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8005:2810:900:1::101
+Ping6(56 data bytes) 2409:8005:2810:900:1::100 --> 2409:8005:2810:900:1::101, press CTRL+C to break
+56 bytes from 2409:8005:2810:900:1::101, icmp_seq=0 hlim=64 time=5.474 ms
+
+--- Ping6 statistics for 2409:8005:2810:900:1::101 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 5.474/5.474/5.474/0.000 ms
+<HE-HDYDDS-EYCX-S5554S-EI-D-1>ping -c 1 192.168.205.57
+Ping 192.168.205.57 (192.168.205.57): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.205.57: icmp_seq=0 ttl=255 time=0.864 ms
+
+--- Ping statistics for 192.168.205.57 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 0.864/0.864/0.864/0.000 ms
+<HE-HDYDDS-EYCX-S5554S-EI-D-1>ping -c 1 192.168.205.58
+Ping 192.168.205.58 (192.168.205.58): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.205.58: icmp_seq=0 ttl=255 time=6.049 ms
+
+--- Ping statistics for 192.168.205.58 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 6.049/6.049/6.049/0.000 ms
+<HE-HDYDDS-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8005:2810:900:5::100
+Ping6(56 data bytes) 2409:8005:2810:900:5::100 --> 2409:8005:2810:900:5::100, press CTRL+C to break
+56 bytes from 2409:8005:2810:900:5::100, icmp_seq=0 hlim=64 time=2.044 ms
+
+--- Ping6 statistics for 2409:8005:2810:900:5::100 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 2.044/2.044/2.044/0.000 ms
+<HE-HDYDDS-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8005:2810:900:5::101
+Ping6(56 data bytes) 2409:8005:2810:900:5::100 --> 2409:8005:2810:900:5::101, press CTRL+C to break
+56 bytes from 2409:8005:2810:900:5::101, icmp_seq=0 hlim=64 time=3.198 ms
+
+--- Ping6 statistics for 2409:8005:2810:900:5::101 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 3.198/3.198/3.198/0.000 ms
+<HE-HDYDDS-EYCX-S5554S-EI-D-1>ping -c 1 192.168.200.1
+Ping 192.168.200.1 (192.168.200.1): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.200.1: icmp_seq=0 ttl=255 time=1.029 ms
+
+--- Ping statistics for 192.168.200.1 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 1.029/1.029/1.029/0.000 ms
+<HE-HDYDDS-EYCX-S5554S-EI-D-1>ping -c 1 192.168.200.2
+Ping 192.168.200.2 (192.168.200.2): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.200.2: icmp_seq=0 ttl=255 time=2.215 ms
+
+--- Ping statistics for 192.168.200.2 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 2.215/2.215/2.215/0.000 ms
+<HE-HDYDDS-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 FC00:2000::2
+Ping6(56 data bytes) FC00:2000::2 --> FC00:2000::2, press CTRL+C to break
+56 bytes from FC00:2000::2, icmp_seq=0 hlim=64 time=1.855 ms
+
+--- Ping6 statistics for FC00:2000::2 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 1.855/1.855/1.855/0.000 ms
+<HE-HDYDDS-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 FC00:2000::3
+Ping6(56 data bytes) FC00:2000::2 --> FC00:2000::3, press CTRL+C to break
+56 bytes from FC00:2000::3, icmp_seq=0 hlim=64 time=2.756 ms
+
+--- Ping6 statistics for FC00:2000::3 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 2.756/2.756/2.756/0.000 ms
+<HE-HDYDDS-EYCX-S5554S-EI-D-1>ping -c 1 192.168.4.21
+Ping 192.168.4.21 (192.168.4.21): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.4.21: icmp_seq=0 ttl=255 time=0.770 ms
+
+--- Ping statistics for 192.168.4.21 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 0.770/0.770/0.770/0.000 ms
+<HE-HDYDDS-EYCX-S5554S-EI-D-1>ping -c 1 192.168.4.22
+Ping 192.168.4.22 (192.168.4.22): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.4.22: icmp_seq=0 ttl=255 time=7.015 ms
+
+--- Ping statistics for 192.168.4.22 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 7.015/7.015/7.015/0.000 ms
+<HE-HDYDDS-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8004:2820:1010::100
+Ping6(56 data bytes) 2409:8004:2820:1010::100 --> 2409:8004:2820:1010::100, press CTRL+C to break
+56 bytes from 2409:8004:2820:1010::100, icmp_seq=0 hlim=64 time=2.035 ms
+
+--- Ping6 statistics for 2409:8004:2820:1010::100 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 2.035/2.035/2.035/0.000 ms
+<HE-HDYDDS-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8004:2820:1010::101
+Ping6(56 data bytes) 2409:8004:2820:1010::100 --> 2409:8004:2820:1010::101, press CTRL+C to break
+56 bytes from 2409:8004:2820:1010::101, icmp_seq=0 hlim=64 time=4.537 ms
+
+--- Ping6 statistics for 2409:8004:2820:1010::101 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 4.537/4.537/4.537/0.000 ms
+<HE-HDYDDS-EYCX-S5554S-EI-D-1>exit
+Connection to 10.126.220.19 closed.
+----------------------------------------------------------------------------------------------------------
+spawn ssh -o HostKeyAlgorithms=+ssh-rsa -o PubkeyAcceptedKeyTypes=+ssh-rsa weihu@10.126.220.148
+weihu@10.126.220.148's password: 
+******************************************************************************
+* Copyright (c) 2004-2022 New H3C Technologies Co., Ltd. All rights reserved.*
+* Without the owner's prior written consent,                                 *
+* no decompiling or reverse-engineering shall be allowed.                    *
+******************************************************************************
+
+<HE-XTDH-EYCX-S5554S-EI-D-1>ping -c 1 192.168.205.45
+Ping 192.168.205.45 (192.168.205.45): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.205.45: icmp_seq=0 ttl=255 time=0.969 ms
+
+--- Ping statistics for 192.168.205.45 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 0.969/0.969/0.969/0.000 ms
+<HE-XTDH-EYCX-S5554S-EI-D-1>ping -c 1 192.168.205.46
+Ping 192.168.205.46 (192.168.205.46): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.205.46: icmp_seq=0 ttl=255 time=1.942 ms
+
+--- Ping statistics for 192.168.205.46 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 1.942/1.942/1.942/0.000 ms
+<HE-XTDH-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8005:2803:900:3::100
+Ping6(56 data bytes) 2409:8005:2803:900:3::100 --> 2409:8005:2803:900:3::100, press CTRL+C to break
+56 bytes from 2409:8005:2803:900:3::100, icmp_seq=0 hlim=64 time=2.190 ms
+
+--- Ping6 statistics for 2409:8005:2803:900:3::100 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 2.190/2.190/2.190/0.000 ms
+<HE-XTDH-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8005:2803:900:3::101
+Ping6(56 data bytes) 2409:8005:2803:900:3::100 --> 2409:8005:2803:900:3::101, press CTRL+C to break
+56 bytes from 2409:8005:2803:900:3::101, icmp_seq=0 hlim=64 time=5.977 ms
+
+--- Ping6 statistics for 2409:8005:2803:900:3::101 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 5.977/5.977/5.977/0.000 ms
+<HE-XTDH-EYCX-S5554S-EI-D-1>ping -c 1 192.168.205.49
+Ping 192.168.205.49 (192.168.205.49): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.205.49: icmp_seq=0 ttl=255 time=2.096 ms
+
+--- Ping statistics for 192.168.205.49 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 2.096/2.096/2.096/0.000 ms
+<HE-XTDH-EYCX-S5554S-EI-D-1>ping -c 1 192.168.205.50
+Ping 192.168.205.50 (192.168.205.50): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.205.50: icmp_seq=0 ttl=255 time=1.919 ms
+
+--- Ping statistics for 192.168.205.50 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 1.919/1.919/1.919/0.000 ms
+<HE-XTDH-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8004:2803:10::100
+Ping6(56 data bytes) 2409:8004:2803:10::100 --> 2409:8004:2803:10::100, press CTRL+C to break
+56 bytes from 2409:8004:2803:10::100, icmp_seq=0 hlim=64 time=1.994 ms
+
+--- Ping6 statistics for 2409:8004:2803:10::100 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 1.994/1.994/1.994/0.000 ms
+<HE-XTDH-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8004:2803:10::101
+Ping6(56 data bytes) 2409:8004:2803:10::100 --> 2409:8004:2803:10::101, press CTRL+C to break
+56 bytes from 2409:8004:2803:10::101, icmp_seq=0 hlim=64 time=4.801 ms
+
+--- Ping6 statistics for 2409:8004:2803:10::101 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 4.801/4.801/4.801/0.000 ms
+<HE-XTDH-EYCX-S5554S-EI-D-1>ping -c 1 192.168.254.1
+Ping 192.168.254.1 (192.168.254.1): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.254.1: icmp_seq=0 ttl=255 time=0.863 ms
+
+--- Ping statistics for 192.168.254.1 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 0.863/0.863/0.863/0.000 ms
+<HE-XTDH-EYCX-S5554S-EI-D-1>ping -c 1 192.168.254.2
+Ping 192.168.254.2 (192.168.254.2): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.254.2: icmp_seq=0 ttl=255 time=2.263 ms
+
+--- Ping statistics for 192.168.254.2 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 2.263/2.263/2.263/0.000 ms
+<HE-XTDH-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 FC00:1000::2
+Ping6(56 data bytes) FC00:1000::2 --> FC00:1000::2, press CTRL+C to break
+56 bytes from FC00:1000::2, icmp_seq=0 hlim=64 time=2.945 ms
+
+--- Ping6 statistics for FC00:1000::2 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 2.945/2.945/2.945/0.000 ms
+<HE-XTDH-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 FC00:1000::3
+Ping6(56 data bytes) FC00:1000::2 --> FC00:1000::3, press CTRL+C to break
+56 bytes from FC00:1000::3, icmp_seq=0 hlim=64 time=2.826 ms
+
+--- Ping6 statistics for FC00:1000::3 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 2.826/2.826/2.826/0.000 ms
+<HE-XTDH-EYCX-S5554S-EI-D-1>exit
+Connection to 10.126.220.148 closed.
+----------------------------------------------------------------------------------------------------------
+spawn ssh -o HostKeyAlgorithms=+ssh-rsa -o PubkeyAcceptedKeyTypes=+ssh-rsa weihu@10.126.220.163
+weihu@10.126.220.163's password: 
+******************************************************************************
+* Copyright (c) 2004-2022 New H3C Technologies Co., Ltd. All rights reserved.*
+* Without the owner's prior written consent,                                 *
+* no decompiling or reverse-engineering shall be allowed.                    *
+******************************************************************************
+
+<HE-XTZHL-EYCX-S5554S-EI-D-1>ping -c 1 192.168.205.41
+Ping 192.168.205.41 (192.168.205.41): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.205.41: icmp_seq=0 ttl=255 time=3.850 ms
+
+--- Ping statistics for 192.168.205.41 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 3.850/3.850/3.850/0.000 ms
+<HE-XTZHL-EYCX-S5554S-EI-D-1>ping -c 1 192.168.205.42
+Ping 192.168.205.42 (192.168.205.42): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.205.42: icmp_seq=0 ttl=255 time=1.984 ms
+
+--- Ping statistics for 192.168.205.42 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 1.984/1.984/1.984/0.000 ms
+<HE-XTZHL-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8005:2803:900:1::100
+Ping6(56 data bytes) 2409:8005:2803:900:1::100 --> 2409:8005:2803:900:1::100, press CTRL+C to break
+56 bytes from 2409:8005:2803:900:1::100, icmp_seq=0 hlim=64 time=2.124 ms
+
+--- Ping6 statistics for 2409:8005:2803:900:1::100 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 2.124/2.124/2.124/0.000 ms
+<HE-XTZHL-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8005:2803:900:1::101
+Ping6(56 data bytes) 2409:8005:2803:900:1::100 --> 2409:8005:2803:900:1::101, press CTRL+C to break
+56 bytes from 2409:8005:2803:900:1::101, icmp_seq=0 hlim=64 time=5.158 ms
+
+--- Ping6 statistics for 2409:8005:2803:900:1::101 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 5.158/5.158/5.158/0.000 ms
+<HE-XTZHL-EYCX-S5554S-EI-D-1>exit
+Connection to 10.126.220.163 closed.
+----------------------------------------------------------------------------------------------------------
+spawn ssh -o HostKeyAlgorithms=+ssh-rsa -o PubkeyAcceptedKeyTypes=+ssh-rsa weihu@10.126.219.227
+weihu@10.126.219.227's password: 
+******************************************************************************
+* Copyright (c) 2004-2022 New H3C Technologies Co., Ltd. All rights reserved.*
+* Without the owner's prior written consent,                                 *
+* no decompiling or reverse-engineering shall be allowed.                    *
+******************************************************************************
+
+<HE-CZYDDL-EYCX-S5554S-EI-D-1>ping -c 1 192.168.206.9
+Ping 192.168.206.9 (192.168.206.9): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.206.9: icmp_seq=0 ttl=255 time=3.435 ms
+
+--- Ping statistics for 192.168.206.9 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 3.435/3.435/3.435/0.000 ms
+<HE-CZYDDL-EYCX-S5554S-EI-D-1>ping -c 1 192.168.206.10
+Ping 192.168.206.10 (192.168.206.10): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.206.10: icmp_seq=0 ttl=255 time=17.820 ms
+
+--- Ping statistics for 192.168.206.10 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 17.820/17.820/17.820/0.000 ms
+<HE-CZYDDL-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8005:2A04:0900:604::100
+Ping6(56 data bytes) 2409:8005:2A04:900:604::100 --> 2409:8005:2A04:900:604::100, press CTRL+C to break
+56 bytes from 2409:8005:2A04:900:604::100, icmp_seq=0 hlim=64 time=2.145 ms
+
+--- Ping6 statistics for 2409:8005:2A04:0900:604::100 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 2.145/2.145/2.145/0.000 ms
+<HE-CZYDDL-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8005:2A04:0900:604::101
+Ping6(56 data bytes) 2409:8005:2A04:900:604::100 --> 2409:8005:2A04:900:604::101, press CTRL+C to break
+56 bytes from 2409:8005:2A04:900:604::101, icmp_seq=0 hlim=64 time=4.207 ms
+
+--- Ping6 statistics for 2409:8005:2A04:0900:604::101 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 4.207/4.207/4.207/0.000 ms
+<HE-CZYDDL-EYCX-S5554S-EI-D-1>ping -c 1 192.168.205.85
+Ping 192.168.205.85 (192.168.205.85): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.205.85: icmp_seq=0 ttl=255 time=1.157 ms
+
+--- Ping statistics for 192.168.205.85 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 1.157/1.157/1.157/0.000 ms
+<HE-CZYDDL-EYCX-S5554S-EI-D-1>ping -c 1 192.168.205.86
+Ping 192.168.205.86 (192.168.205.86): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.205.86: icmp_seq=0 ttl=255 time=2.457 ms
+
+--- Ping statistics for 192.168.205.86 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 2.457/2.457/2.457/0.000 ms
+<HE-CZYDDL-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8005:2804:900:3::100
+Ping6(56 data bytes) 2409:8005:2804:900:3::100 --> 2409:8005:2804:900:3::100, press CTRL+C to break
+56 bytes from 2409:8005:2804:900:3::100, icmp_seq=0 hlim=64 time=1.792 ms
+
+--- Ping6 statistics for 2409:8005:2804:900:3::100 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 1.792/1.792/1.792/0.000 ms
+<HE-CZYDDL-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8005:2804:900:3::101
+Ping6(56 data bytes) 2409:8005:2804:900:3::100 --> 2409:8005:2804:900:3::101, press CTRL+C to break
+56 bytes from 2409:8005:2804:900:3::101, icmp_seq=0 hlim=64 time=5.700 ms
+
+--- Ping6 statistics for 2409:8005:2804:900:3::101 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 5.700/5.700/5.700/0.000 ms
+<HE-CZYDDL-EYCX-S5554S-EI-D-1>ping -c 1 192.168.205.89
+Ping 192.168.205.89 (192.168.205.89): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.205.89: icmp_seq=0 ttl=255 time=2.004 ms
+
+--- Ping statistics for 192.168.205.89 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 2.004/2.004/2.004/0.000 ms
+<HE-CZYDDL-EYCX-S5554S-EI-D-1>ping -c 1 192.168.205.90
+Ping 192.168.205.90 (192.168.205.90): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.205.90: icmp_seq=0 ttl=255 time=2.323 ms
+
+--- Ping statistics for 192.168.205.90 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 2.323/2.323/2.323/0.000 ms
+<HE-CZYDDL-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8005:2804:900:5::100
+Ping6(56 data bytes) 2409:8005:2804:900:5::100 --> 2409:8005:2804:900:5::100, press CTRL+C to break
+56 bytes from 2409:8005:2804:900:5::100, icmp_seq=0 hlim=64 time=2.047 ms
+
+--- Ping6 statistics for 2409:8005:2804:900:5::100 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 2.047/2.047/2.047/0.000 ms
+<HE-CZYDDL-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8005:2804:900:5::101
+Ping6(56 data bytes) 2409:8005:2804:900:5::100 --> 2409:8005:2804:900:5::101, press CTRL+C to break
+56 bytes from 2409:8005:2804:900:5::101, icmp_seq=0 hlim=64 time=5.340 ms
+
+--- Ping6 statistics for 2409:8005:2804:900:5::101 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 5.340/5.340/5.340/0.000 ms
+<HE-CZYDDL-EYCX-S5554S-EI-D-1>ping -c 1 192.168.205.93
+Ping 192.168.205.93 (192.168.205.93): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.205.93: icmp_seq=0 ttl=255 time=0.781 ms
+
+--- Ping statistics for 192.168.205.93 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 0.781/0.781/0.781/0.000 ms
+<HE-CZYDDL-EYCX-S5554S-EI-D-1>ping -c 1 192.168.205.94
+Ping 192.168.205.94 (192.168.205.94): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.205.94: icmp_seq=0 ttl=255 time=3.549 ms
+
+--- Ping statistics for 192.168.205.94 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 3.549/3.549/3.549/0.000 ms
+<HE-CZYDDL-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8005:2804:900:7::100
+Ping6(56 data bytes) 2409:8005:2804:900:7::100 --> 2409:8005:2804:900:7::100, press CTRL+C to break
+56 bytes from 2409:8005:2804:900:7::100, icmp_seq=0 hlim=64 time=1.540 ms
+
+--- Ping6 statistics for 2409:8005:2804:900:7::100 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 1.540/1.540/1.540/0.000 ms
+<HE-CZYDDL-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8005:2804:900:7::101
+Ping6(56 data bytes) 2409:8005:2804:900:7::100 --> 2409:8005:2804:900:7::101, press CTRL+C to break
+56 bytes from 2409:8005:2804:900:7::101, icmp_seq=0 hlim=64 time=3.648 ms
+
+--- Ping6 statistics for 2409:8005:2804:900:7::101 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 3.648/3.648/3.648/0.000 ms
+<HE-CZYDDL-EYCX-S5554S-EI-D-1>ping -c 1 192.168.250.1
+Ping 192.168.250.1 (192.168.250.1): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.250.1: icmp_seq=0 ttl=255 time=0.722 ms
+
+--- Ping statistics for 192.168.250.1 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 0.722/0.722/0.722/0.000 ms
+<HE-CZYDDL-EYCX-S5554S-EI-D-1>ping -c 1 192.168.250.2
+Ping 192.168.250.2 (192.168.250.2): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.250.2: icmp_seq=0 ttl=64 time=6.401 ms
+
+--- Ping statistics for 192.168.250.2 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 6.401/6.401/6.401/0.000 ms
+<HE-CZYDDL-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8004:2842:1020::102
+Ping6(56 data bytes) 2409:8004:2842:1020::102 --> 2409:8004:2842:1020::102, press CTRL+C to break
+56 bytes from 2409:8004:2842:1020::102, icmp_seq=0 hlim=64 time=2.059 ms
+
+--- Ping6 statistics for 2409:8004:2842:1020::102 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 2.059/2.059/2.059/0.000 ms
+<HE-CZYDDL-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8004:2842:1020::103
+Ping6(56 data bytes) 2409:8004:2842:1020::102 --> 2409:8004:2842:1020::103, press CTRL+C to break
+56 bytes from 2409:8004:2842:1020::103, icmp_seq=0 hlim=64 time=3.665 ms
+
+--- Ping6 statistics for 2409:8004:2842:1020::103 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 3.665/3.665/3.665/0.000 ms
+<HE-CZYDDL-EYCX-S5554S-EI-D-1>exit
+Connection to 10.126.219.227 closed.
+----------------------------------------------------------------------------------------------------------
+spawn ssh -o HostKeyAlgorithms=+ssh-rsa -o PubkeyAcceptedKeyTypes=+ssh-rsa weihu@10.126.219.211
+weihu@10.126.219.211's password: 
+******************************************************************************
+* Copyright (c) 2004-2022 New H3C Technologies Co., Ltd. All rights reserved.*
+* Without the owner's prior written consent,                                 *
+* no decompiling or reverse-engineering shall be allowed.                    *
+******************************************************************************
+
+<HE-CZSNL-EYCX-S5554S-EI-D-1>ping -c 1 192.168.207.9
+Ping 192.168.207.9 (192.168.207.9): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.207.9: icmp_seq=0 ttl=255 time=1.238 ms
+
+--- Ping statistics for 192.168.207.9 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 1.238/1.238/1.238/0.000 ms
+<HE-CZSNL-EYCX-S5554S-EI-D-1>ping -c 1 192.168.207.10
+Ping 192.168.207.10 (192.168.207.10): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.207.10: icmp_seq=0 ttl=255 time=2.648 ms
+
+--- Ping statistics for 192.168.207.10 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 2.648/2.648/2.648/0.000 ms
+<HE-CZSNL-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8005:2A04:0900:808::100
+Ping6(56 data bytes) 2409:8005:2A04:900:808::100 --> 2409:8005:2A04:900:808::100, press CTRL+C to break
+56 bytes from 2409:8005:2A04:900:808::100, icmp_seq=0 hlim=64 time=3.007 ms
+
+--- Ping6 statistics for 2409:8005:2A04:0900:808::100 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 3.007/3.007/3.007/0.000 ms
+<HE-CZSNL-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8005:2A04:0900:808::101
+Ping6(56 data bytes) 2409:8005:2A04:900:808::100 --> 2409:8005:2A04:900:808::101, press CTRL+C to break
+56 bytes from 2409:8005:2A04:900:808::101, icmp_seq=0 hlim=64 time=4.422 ms
+
+--- Ping6 statistics for 2409:8005:2A04:0900:808::101 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 4.422/4.422/4.422/0.000 ms
+<HE-CZSNL-EYCX-S5554S-EI-D-1>ping -c 1 192.168.205.81
+Ping 192.168.205.81 (192.168.205.81): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.205.81: icmp_seq=0 ttl=255 time=1.109 ms
+
+--- Ping statistics for 192.168.205.81 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 1.109/1.109/1.109/0.000 ms
+<HE-CZSNL-EYCX-S5554S-EI-D-1>ping -c 1 192.168.205.82
+Ping 192.168.205.82 (192.168.205.82): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.205.82: icmp_seq=0 ttl=255 time=2.163 ms
+
+--- Ping statistics for 192.168.205.82 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 2.163/2.163/2.163/0.000 ms
+<HE-CZSNL-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8005:2804:900:1::100
+Ping6(56 data bytes) 2409:8005:2804:900:1::100 --> 2409:8005:2804:900:1::100, press CTRL+C to break
+56 bytes from 2409:8005:2804:900:1::100, icmp_seq=0 hlim=64 time=1.771 ms
+
+--- Ping6 statistics for 2409:8005:2804:900:1::100 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 1.771/1.771/1.771/0.000 ms
+<HE-CZSNL-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8005:2804:900:1::101
+Ping6(56 data bytes) 2409:8005:2804:900:1::100 --> 2409:8005:2804:900:1::101, press CTRL+C to break
+56 bytes from 2409:8005:2804:900:1::101, icmp_seq=0 hlim=64 time=5.553 ms
+
+--- Ping6 statistics for 2409:8005:2804:900:1::101 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 5.553/5.553/5.553/0.000 ms
+<HE-CZSNL-EYCX-S5554S-EI-D-1>ping -c 1 192.168.205.97
+Ping 192.168.205.97 (192.168.205.97): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.205.97: icmp_seq=0 ttl=255 time=1.012 ms
+
+--- Ping statistics for 192.168.205.97 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 1.012/1.012/1.012/0.000 ms
+<HE-CZSNL-EYCX-S5554S-EI-D-1>ping -c 1 192.168.205.98
+Ping 192.168.205.98 (192.168.205.98): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.205.98: icmp_seq=0 ttl=255 time=2.597 ms
+
+--- Ping statistics for 192.168.205.98 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 2.597/2.597/2.597/0.000 ms
+<HE-CZSNL-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8005:2804:900:9::100
+Ping6(56 data bytes) 2409:8005:2804:900:9::100 --> 2409:8005:2804:900:9::100, press CTRL+C to break
+56 bytes from 2409:8005:2804:900:9::100, icmp_seq=0 hlim=64 time=3.156 ms
+
+--- Ping6 statistics for 2409:8005:2804:900:9::100 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 3.156/3.156/3.156/0.000 ms
+<HE-CZSNL-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8005:2804:900:9::101
+Ping6(56 data bytes) 2409:8005:2804:900:9::100 --> 2409:8005:2804:900:9::101, press CTRL+C to break
+56 bytes from 2409:8005:2804:900:9::101, icmp_seq=0 hlim=64 time=3.926 ms
+
+--- Ping6 statistics for 2409:8005:2804:900:9::101 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 3.926/3.926/3.926/0.000 ms
+<HE-CZSNL-EYCX-S5554S-EI-D-1>ping -c 1 192.168.205.101
+Ping 192.168.205.101 (192.168.205.101): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.205.101: icmp_seq=0 ttl=255 time=0.653 ms
+
+--- Ping statistics for 192.168.205.101 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 0.653/0.653/0.653/0.000 ms
+<HE-CZSNL-EYCX-S5554S-EI-D-1>ping -c 1 192.168.205.102
+Ping 192.168.205.102 (192.168.205.102): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.205.102: icmp_seq=0 ttl=255 time=2.423 ms
+
+--- Ping statistics for 192.168.205.102 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 2.423/2.423/2.423/0.000 ms
+<HE-CZSNL-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8004:2804:10::100
+Ping6(56 data bytes) 2409:8004:2804:10::100 --> 2409:8004:2804:10::100, press CTRL+C to break
+56 bytes from 2409:8004:2804:10::100, icmp_seq=0 hlim=64 time=2.029 ms
+
+--- Ping6 statistics for 2409:8004:2804:10::100 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 2.029/2.029/2.029/0.000 ms
+<HE-CZSNL-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8004:2804:10::101
+Ping6(56 data bytes) 2409:8004:2804:10::100 --> 2409:8004:2804:10::101, press CTRL+C to break
+56 bytes from 2409:8004:2804:10::101, icmp_seq=0 hlim=64 time=4.148 ms
+
+--- Ping6 statistics for 2409:8004:2804:10::101 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 4.148/4.148/4.148/0.000 ms
+<HE-CZSNL-EYCX-S5554S-EI-D-1>ping -c 1 192.168.250.9
+Ping 192.168.250.9 (192.168.250.9): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.250.9: icmp_seq=0 ttl=255 time=1.919 ms
+
+--- Ping statistics for 192.168.250.9 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 1.919/1.919/1.919/0.000 ms
+<HE-CZSNL-EYCX-S5554S-EI-D-1>ping -c 1 192.168.250.10
+Ping 192.168.250.10 (192.168.250.10): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.250.10: icmp_seq=0 ttl=64 time=5.230 ms
+
+--- Ping statistics for 192.168.250.10 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 5.230/5.230/5.230/0.000 ms
+<HE-CZSNL-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8004:2842:1020::100
+Ping6(56 data bytes) 2409:8004:2842:1020::100 --> 2409:8004:2842:1020::100, press CTRL+C to break
+56 bytes from 2409:8004:2842:1020::100, icmp_seq=0 hlim=64 time=2.108 ms
+
+--- Ping6 statistics for 2409:8004:2842:1020::100 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 2.108/2.108/2.108/0.000 ms
+<HE-CZSNL-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8004:2842:1020::101
+Ping6(56 data bytes) 2409:8004:2842:1020::100 --> 2409:8004:2842:1020::101, press CTRL+C to break
+56 bytes from 2409:8004:2842:1020::101, icmp_seq=0 hlim=64 time=4.028 ms
+
+--- Ping6 statistics for 2409:8004:2842:1020::101 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 4.028/4.028/4.028/0.000 ms
+<HE-CZSNL-EYCX-S5554S-EI-D-1>exit
+Connection to 10.126.219.211 closed.
+----------------------------------------------------------------------------------------------------------
+spawn ssh -o HostKeyAlgorithms=+ssh-rsa -o PubkeyAcceptedKeyTypes=+ssh-rsa weihu@10.126.219.40
+weihu@10.126.219.40's password: 
+******************************************************************************
+* Copyright (c) 2004-2022 New H3C Technologies Co., Ltd. All rights reserved.*
+* Without the owner's prior written consent,                                 *
+* no decompiling or reverse-engineering shall be allowed.                    *
+******************************************************************************
+
+<HE-BDSJZX-EYCX-S5554S-EI-D-1>ping -c 1 192.168.205.13
+Ping 192.168.205.13 (192.168.205.13): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.205.13: icmp_seq=0 ttl=255 time=1.218 ms
+
+--- Ping statistics for 192.168.205.13 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 1.218/1.218/1.218/0.000 ms
+<HE-BDSJZX-EYCX-S5554S-EI-D-1>ping -c 1 192.168.205.14
+Ping 192.168.205.14 (192.168.205.14): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.205.14: icmp_seq=0 ttl=255 time=2.357 ms
+
+--- Ping statistics for 192.168.205.14 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 2.357/2.357/2.357/0.000 ms
+<HE-BDSJZX-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8005:2806:900:5::100
+Ping6(56 data bytes) 2409:8005:2806:900:5::100 --> 2409:8005:2806:900:5::100, press CTRL+C to break
+56 bytes from 2409:8005:2806:900:5::100, icmp_seq=0 hlim=64 time=2.076 ms
+
+--- Ping6 statistics for 2409:8005:2806:900:5::100 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 2.076/2.076/2.076/0.000 ms
+<HE-BDSJZX-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8005:2806:900:5::101
+Ping6(56 data bytes) 2409:8005:2806:900:5::100 --> 2409:8005:2806:900:5::101, press CTRL+C to break
+56 bytes from 2409:8005:2806:900:5::101, icmp_seq=0 hlim=64 time=3.521 ms
+
+--- Ping6 statistics for 2409:8005:2806:900:5::101 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 3.521/3.521/3.521/0.000 ms
+<HE-BDSJZX-EYCX-S5554S-EI-D-1>ping -c 1 192.168.102.29
+Ping 192.168.102.29 (192.168.102.29): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.102.29: icmp_seq=0 ttl=255 time=1.056 ms
+
+--- Ping statistics for 192.168.102.29 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 1.056/1.056/1.056/0.000 ms
+<HE-BDSJZX-EYCX-S5554S-EI-D-1>ping -c 1 192.168.102.30
+Ping 192.168.102.30 (192.168.102.30): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.102.30: icmp_seq=0 ttl=255 time=1.896 ms
+
+--- Ping statistics for 192.168.102.30 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 1.896/1.896/1.896/0.000 ms
+<HE-BDSJZX-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8005:2801:300:2::200
+Ping6(56 data bytes) 2409:8005:2801:300:2::200 --> 2409:8005:2801:300:2::200, press CTRL+C to break
+56 bytes from 2409:8005:2801:300:2::200, icmp_seq=0 hlim=64 time=2.008 ms
+
+--- Ping6 statistics for 2409:8005:2801:300:2::200 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 2.008/2.008/2.008/0.000 ms
+<HE-BDSJZX-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8005:2801:300:2::201
+Ping6(56 data bytes) 2409:8005:2801:300:2::200 --> 2409:8005:2801:300:2::201, press CTRL+C to break
+56 bytes from 2409:8005:2801:300:2::201, icmp_seq=0 hlim=64 time=3.589 ms
+
+--- Ping6 statistics for 2409:8005:2801:300:2::201 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 3.589/3.589/3.589/0.000 ms
+<HE-BDSJZX-EYCX-S5554S-EI-D-1>ping -c 1 192.168.205.17
+Ping 192.168.205.17 (192.168.205.17): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.205.17: icmp_seq=0 ttl=255 time=0.699 ms
+
+--- Ping statistics for 192.168.205.17 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 0.699/0.699/0.699/0.000 ms
+<HE-BDSJZX-EYCX-S5554S-EI-D-1>ping -c 1 192.168.205.18
+Ping 192.168.205.18 (192.168.205.18): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.205.18: icmp_seq=0 ttl=255 time=2.348 ms
+
+--- Ping statistics for 192.168.205.18 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 2.348/2.348/2.348/0.000 ms
+<HE-BDSJZX-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8004:2806:50::100
+Ping6(56 data bytes) 2409:8004:2806:50::100 --> 2409:8004:2806:50::100, press CTRL+C to break
+56 bytes from 2409:8004:2806:50::100, icmp_seq=0 hlim=64 time=2.092 ms
+
+--- Ping6 statistics for 2409:8004:2806:50::100 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 2.092/2.092/2.092/0.000 ms
+<HE-BDSJZX-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8004:2806:50::101
+Ping6(56 data bytes) 2409:8004:2806:50::100 --> 2409:8004:2806:50::101, press CTRL+C to break
+56 bytes from 2409:8004:2806:50::101, icmp_seq=0 hlim=64 time=3.275 ms
+
+--- Ping6 statistics for 2409:8004:2806:50::101 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 3.275/3.275/3.275/0.000 ms
+<HE-BDSJZX-EYCX-S5554S-EI-D-1>ping -c 1 192.168.205.21
+Ping 192.168.205.21 (192.168.205.21): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.205.21: icmp_seq=0 ttl=255 time=0.860 ms
+
+--- Ping statistics for 192.168.205.21 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 0.860/0.860/0.860/0.000 ms
+<HE-BDSJZX-EYCX-S5554S-EI-D-1>ping -c 1 192.168.205.22
+Ping 192.168.205.22 (192.168.205.22): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.205.22: icmp_seq=0 ttl=254 time=4.096 ms
+
+--- Ping statistics for 192.168.205.22 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 4.096/4.096/4.096/0.000 ms
+<HE-BDSJZX-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8004:2806:50::100
+Ping6(56 data bytes) 2409:8004:2806:50::100 --> 2409:8004:2806:50::100, press CTRL+C to break
+56 bytes from 2409:8004:2806:50::100, icmp_seq=0 hlim=64 time=1.245 ms
+
+--- Ping6 statistics for 2409:8004:2806:50::100 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 1.245/1.245/1.245/0.000 ms
+<HE-BDSJZX-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8004:2806:50::101
+Ping6(56 data bytes) 2409:8004:2806:50::100 --> 2409:8004:2806:50::101, press CTRL+C to break
+56 bytes from 2409:8004:2806:50::101, icmp_seq=0 hlim=64 time=2.695 ms
+
+--- Ping6 statistics for 2409:8004:2806:50::101 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 2.695/2.695/2.695/0.000 ms
+<HE-BDSJZX-EYCX-S5554S-EI-D-1>ping -c 1 192.168.4.13
+Ping 192.168.4.13 (192.168.4.13): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.4.13: icmp_seq=0 ttl=255 time=3.675 ms
+
+--- Ping statistics for 192.168.4.13 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 3.675/3.675/3.675/0.000 ms
+<HE-BDSJZX-EYCX-S5554S-EI-D-1>ping -c 1 192.168.4.14
+Ping 192.168.4.14 (192.168.4.14): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.4.14: icmp_seq=0 ttl=255 time=2.501 ms
+
+--- Ping statistics for 192.168.4.14 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 2.501/2.501/2.501/0.000 ms
+<HE-BDSJZX-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8004:2860:1030::100
+Ping6(56 data bytes) 2409:8004:2860:1030::100 --> 2409:8004:2860:1030::100, press CTRL+C to break
+56 bytes from 2409:8004:2860:1030::100, icmp_seq=0 hlim=64 time=2.004 ms
+
+--- Ping6 statistics for 2409:8004:2860:1030::100 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 2.004/2.004/2.004/0.000 ms
+<HE-BDSJZX-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8004:2860:1030::101
+Ping6(56 data bytes) 2409:8004:2860:1030::100 --> 2409:8004:2860:1030::101, press CTRL+C to break
+56 bytes from 2409:8004:2860:1030::101, icmp_seq=0 hlim=64 time=3.455 ms
+
+--- Ping6 statistics for 2409:8004:2860:1030::101 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 3.455/3.455/3.455/0.000 ms
+<HE-BDSJZX-EYCX-S5554S-EI-D-1>exit
+Connection to 10.126.219.40 closed.
+----------------------------------------------------------------------------------------------------------
+spawn ssh -o HostKeyAlgorithms=+ssh-rsa -o PubkeyAcceptedKeyTypes=+ssh-rsa weihu@10.126.219.6
+weihu@10.126.219.6's password: 
+******************************************************************************
+* Copyright (c) 2004-2022 New H3C Technologies Co., Ltd. All rights reserved.*
+* Without the owner's prior written consent,                                 *
+* no decompiling or reverse-engineering shall be allowed.                    *
+******************************************************************************
+
+<HE-BDQY-EYCX-S5554S-EI-D-1>ping -c 1 192.168.205.33
+Ping 192.168.205.33 (192.168.205.33): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.205.33: icmp_seq=0 ttl=255 time=4.295 ms
+
+--- Ping statistics for 192.168.205.33 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 4.295/4.295/4.295/0.000 ms
+<HE-BDQY-EYCX-S5554S-EI-D-1>ping -c 1 192.168.205.34
+Ping 192.168.205.34 (192.168.205.34): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.205.34: icmp_seq=0 ttl=255 time=2.331 ms
+
+--- Ping statistics for 192.168.205.34 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 2.331/2.331/2.331/0.000 ms
+<HE-BDQY-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8005:2806:900:3::100
+Ping6(56 data bytes) 2409:8005:2806:900:3::100 --> 2409:8005:2806:900:3::100, press CTRL+C to break
+56 bytes from 2409:8005:2806:900:3::100, icmp_seq=0 hlim=64 time=2.111 ms
+
+--- Ping6 statistics for 2409:8005:2806:900:3::100 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 2.111/2.111/2.111/0.000 ms
+<HE-BDQY-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8005:2806:900:3::101
+Ping6(56 data bytes) 2409:8005:2806:900:3::100 --> 2409:8005:2806:900:3::101, press CTRL+C to break
+56 bytes from 2409:8005:2806:900:3::101, icmp_seq=0 hlim=64 time=3.269 ms
+
+--- Ping6 statistics for 2409:8005:2806:900:3::101 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 3.269/3.269/3.269/0.000 ms
+<HE-BDQY-EYCX-S5554S-EI-D-1>ping -c 1 192.168.255.249
+Ping 192.168.255.249 (192.168.255.249): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.255.249: icmp_seq=0 ttl=255 time=0.983 ms
+
+--- Ping statistics for 192.168.255.249 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 0.983/0.983/0.983/0.000 ms
+<HE-BDQY-EYCX-S5554S-EI-D-1>ping -c 1 192.168.255.250
+Ping 192.168.255.250 (192.168.255.250): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.255.250: icmp_seq=0 ttl=255 time=3.692 ms
+
+--- Ping statistics for 192.168.255.250 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 3.692/3.692/3.692/0.000 ms
+<HE-BDQY-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8005:2A06:1900:103::100
+Ping6(56 data bytes) 2409:8005:2A06:1900:103::100 --> 2409:8005:2A06:1900:103::100, press CTRL+C to break
+56 bytes from 2409:8005:2A06:1900:103::100, icmp_seq=0 hlim=64 time=2.464 ms
+
+--- Ping6 statistics for 2409:8005:2A06:1900:103::100 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 2.464/2.464/2.464/0.000 ms
+<HE-BDQY-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8005:2A06:1900:103::101
+Ping6(56 data bytes) 2409:8005:2A06:1900:103::100 --> 2409:8005:2A06:1900:103::101, press CTRL+C to break
+56 bytes from 2409:8005:2A06:1900:103::101, icmp_seq=0 hlim=64 time=2.986 ms
+
+--- Ping6 statistics for 2409:8005:2A06:1900:103::101 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 2.986/2.986/2.986/0.000 ms
+<HE-BDQY-EYCX-S5554S-EI-D-1>ping -c 1 192.168.102.33
+Ping 192.168.102.33 (192.168.102.33): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.102.33: icmp_seq=0 ttl=255 time=1.170 ms
+
+--- Ping statistics for 192.168.102.33 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 1.170/1.170/1.170/0.000 ms
+<HE-BDQY-EYCX-S5554S-EI-D-1>ping -c 1 192.168.102.34
+Ping 192.168.102.34 (192.168.102.34): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.102.34: icmp_seq=0 ttl=255 time=2.116 ms
+
+--- Ping statistics for 192.168.102.34 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 2.116/2.116/2.116/0.000 ms
+<HE-BDQY-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8005:2801:300:2::300
+Ping6(56 data bytes) 2409:8005:2801:300:2::300 --> 2409:8005:2801:300:2::300, press CTRL+C to break
+56 bytes from 2409:8005:2801:300:2::300, icmp_seq=0 hlim=64 time=2.370 ms
+
+--- Ping6 statistics for 2409:8005:2801:300:2::300 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 2.370/2.370/2.370/0.000 ms
+<HE-BDQY-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8005:2801:300:2::301
+Ping6(56 data bytes) 2409:8005:2801:300:2::300 --> 2409:8005:2801:300:2::301, press CTRL+C to break
+56 bytes from 2409:8005:2801:300:2::301, icmp_seq=0 hlim=64 time=3.555 ms
+
+--- Ping6 statistics for 2409:8005:2801:300:2::301 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 3.555/3.555/3.555/0.000 ms
+<HE-BDQY-EYCX-S5554S-EI-D-1>ping -c 1 192.168.205.37
+Ping 192.168.205.37 (192.168.205.37): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.205.37: icmp_seq=0 ttl=255 time=1.080 ms
+
+--- Ping statistics for 192.168.205.37 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 1.080/1.080/1.080/0.000 ms
+<HE-BDQY-EYCX-S5554S-EI-D-1>ping -c 1 192.168.205.38
+Ping 192.168.205.38 (192.168.205.38): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.205.38: icmp_seq=0 ttl=255 time=4.647 ms
+
+--- Ping statistics for 192.168.205.38 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 4.647/4.647/4.647/0.000 ms
+<HE-BDQY-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8004:2806:70::100
+Ping6(56 data bytes) 2409:8004:2806:70::100 --> 2409:8004:2806:70::100, press CTRL+C to break
+56 bytes from 2409:8004:2806:70::100, icmp_seq=0 hlim=64 time=2.109 ms
+
+--- Ping6 statistics for 2409:8004:2806:70::100 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 2.109/2.109/2.109/0.000 ms
+<HE-BDQY-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8004:2806:70::101
+Ping6(56 data bytes) 2409:8004:2806:70::100 --> 2409:8004:2806:70::101, press CTRL+C to break
+56 bytes from 2409:8004:2806:70::101, icmp_seq=0 hlim=64 time=3.334 ms
+
+--- Ping6 statistics for 2409:8004:2806:70::101 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 3.334/3.334/3.334/0.000 ms
+<HE-BDQY-EYCX-S5554S-EI-D-1>ping -c 1 192.168.4.17
+Ping 192.168.4.17 (192.168.4.17): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.4.17: icmp_seq=0 ttl=255 time=3.918 ms
+
+--- Ping statistics for 192.168.4.17 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 3.918/3.918/3.918/0.000 ms
+<HE-BDQY-EYCX-S5554S-EI-D-1>ping -c 1 192.168.4.18
+Ping 192.168.4.18 (192.168.4.18): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.4.18: icmp_seq=0 ttl=255 time=6.499 ms
+
+--- Ping statistics for 192.168.4.18 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 6.499/6.499/6.499/0.000 ms
+<HE-BDQY-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8004:2860:1010::100
+Ping6(56 data bytes) 2409:8004:2860:1010::100 --> 2409:8004:2860:1010::100, press CTRL+C to break
+56 bytes from 2409:8004:2860:1010::100, icmp_seq=0 hlim=64 time=3.046 ms
+
+--- Ping6 statistics for 2409:8004:2860:1010::100 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 3.046/3.046/3.046/0.000 ms
+<HE-BDQY-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8004:2860:1010::101
+Ping6(56 data bytes) 2409:8004:2860:1010::100 --> 2409:8004:2860:1010::101, press CTRL+C to break
+56 bytes from 2409:8004:2860:1010::101, icmp_seq=0 hlim=64 time=3.569 ms
+
+--- Ping6 statistics for 2409:8004:2860:1010::101 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 3.569/3.569/3.569/0.000 ms
+<HE-BDQY-EYCX-S5554S-EI-D-1>exit
+Connection to 10.126.219.6 closed.
+----------------------------------------------------------------------------------------------------------
+spawn ssh -o HostKeyAlgorithms=+ssh-rsa -o PubkeyAcceptedKeyTypes=+ssh-rsa weihu@10.126.219.195
+weihu@10.126.219.195's password: 
+******************************************************************************
+* Copyright (c) 2004-2022 New H3C Technologies Co., Ltd. All rights reserved.*
+* Without the owner's prior written consent,                                 *
+* no decompiling or reverse-engineering shall be allowed.                    *
+******************************************************************************
+
+<HE-BDJDL-EYCX-S5554S-EI-D-1>ping -c 1 192.168.205.25
+Ping 192.168.205.25 (192.168.205.25): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.205.25: icmp_seq=0 ttl=255 time=1.052 ms
+
+--- Ping statistics for 192.168.205.25 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 1.052/1.052/1.052/0.000 ms
+<HE-BDJDL-EYCX-S5554S-EI-D-1>ping -c 1 192.168.205.26
+Ping 192.168.205.26 (192.168.205.26): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.205.26: icmp_seq=0 ttl=255 time=2.340 ms
+
+--- Ping statistics for 192.168.205.26 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 2.340/2.340/2.340/0.000 ms
+<HE-BDJDL-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8005:2806:900:1::100
+Ping6(56 data bytes) 2409:8005:2806:900:1::100 --> 2409:8005:2806:900:1::100, press CTRL+C to break
+56 bytes from 2409:8005:2806:900:1::100, icmp_seq=0 hlim=64 time=2.060 ms
+
+--- Ping6 statistics for 2409:8005:2806:900:1::100 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 2.060/2.060/2.060/0.000 ms
+<HE-BDJDL-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8005:2806:900:1::101
+Ping6(56 data bytes) 2409:8005:2806:900:1::100 --> 2409:8005:2806:900:1::101, press CTRL+C to break
+56 bytes from 2409:8005:2806:900:1::101, icmp_seq=0 hlim=64 time=3.166 ms
+
+--- Ping6 statistics for 2409:8005:2806:900:1::101 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 3.166/3.166/3.166/0.000 ms
+<HE-BDJDL-EYCX-S5554S-EI-D-1>ping -c 1 192.168.255.253
+Ping 192.168.255.253 (192.168.255.253): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.255.253: icmp_seq=0 ttl=255 time=0.994 ms
+
+--- Ping statistics for 192.168.255.253 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 0.994/0.994/0.994/0.000 ms
+<HE-BDJDL-EYCX-S5554S-EI-D-1>ping -c 1 192.168.255.254
+Ping 192.168.255.254 (192.168.255.254): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.255.254: icmp_seq=0 ttl=255 time=4.694 ms
+
+--- Ping statistics for 192.168.255.254 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 4.694/4.694/4.694/0.000 ms
+<HE-BDJDL-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8005:2A06:1900:101::100
+Ping6(56 data bytes) 2409:8005:2A06:1900:101::100 --> 2409:8005:2A06:1900:101::100, press CTRL+C to break
+56 bytes from 2409:8005:2A06:1900:101::100, icmp_seq=0 hlim=64 time=1.960 ms
+
+--- Ping6 statistics for 2409:8005:2A06:1900:101::100 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 1.960/1.960/1.960/0.000 ms
+<HE-BDJDL-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8005:2A06:1900:101::100
+Ping6(56 data bytes) 2409:8005:2A06:1900:101::100 --> 2409:8005:2A06:1900:101::100, press CTRL+C to break
+56 bytes from 2409:8005:2A06:1900:101::100, icmp_seq=0 hlim=64 time=0.871 ms
+
+--- Ping6 statistics for 2409:8005:2A06:1900:101::100 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 0.871/0.871/0.871/0.000 ms
+<HE-BDJDL-EYCX-S5554S-EI-D-1>ping -c 1 192.168.205.29
+Ping 192.168.205.29 (192.168.205.29): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.205.29: icmp_seq=0 ttl=255 time=1.010 ms
+
+--- Ping statistics for 192.168.205.29 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 1.010/1.010/1.010/0.000 ms
+<HE-BDJDL-EYCX-S5554S-EI-D-1>ping -c 1 192.168.205.30
+Ping 192.168.205.30 (192.168.205.30): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.205.30: icmp_seq=0 ttl=255 time=2.418 ms
+
+--- Ping statistics for 192.168.205.30 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 2.418/2.418/2.418/0.000 ms
+<HE-BDJDL-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8005:2806:900:7::100
+Ping6(56 data bytes) 2409:8005:2806:900:7::100 --> 2409:8005:2806:900:7::100, press CTRL+C to break
+56 bytes from 2409:8005:2806:900:7::100, icmp_seq=0 hlim=64 time=2.168 ms
+
+--- Ping6 statistics for 2409:8005:2806:900:7::100 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 2.168/2.168/2.168/0.000 ms
+<HE-BDJDL-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8005:2806:900:7::101
+Ping6(56 data bytes) 2409:8005:2806:900:7::100 --> 2409:8005:2806:900:7::101, press CTRL+C to break
+56 bytes from 2409:8005:2806:900:7::101, icmp_seq=0 hlim=64 time=3.028 ms
+
+--- Ping6 statistics for 2409:8005:2806:900:7::101 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 3.028/3.028/3.028/0.000 ms
+<HE-BDJDL-EYCX-S5554S-EI-D-1>exit
+Connection to 10.126.219.195 closed.
+----------------------------------------------------------------------------------------------------------
+spawn ssh -o HostKeyAlgorithms=+ssh-rsa -o PubkeyAcceptedKeyTypes=+ssh-rsa weihu@10.126.219.243
+weihu@10.126.219.243's password: 
+******************************************************************************
+* Copyright (c) 2004-2022 New H3C Technologies Co., Ltd. All rights reserved.*
+* Without the owner's prior written consent,                                 *
+* no decompiling or reverse-engineering shall be allowed.                    *
+******************************************************************************
+
+<HE-CDKFQ-EYCX-S5554S-EI-D-1>ping -c 1 192.168.205.153
+Ping 192.168.205.153 (192.168.205.153): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.205.153: icmp_seq=0 ttl=255 time=3.626 ms
+
+--- Ping statistics for 192.168.205.153 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 3.626/3.626/3.626/0.000 ms
+<HE-CDKFQ-EYCX-S5554S-EI-D-1>ping -c 1 192.168.205.154
+Ping 192.168.205.154 (192.168.205.154): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.205.154: icmp_seq=0 ttl=255 time=4.709 ms
+
+--- Ping statistics for 192.168.205.154 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 4.709/4.709/4.709/0.000 ms
+<HE-CDKFQ-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8005:2810:900:1::100
+Ping6(56 data bytes) 2409:8005:2810:900:1::100 --> 2409:8005:2810:900:1::100, press CTRL+C to break
+56 bytes from 2409:8005:2810:900:1::100, icmp_seq=0 hlim=64 time=1.732 ms
+
+--- Ping6 statistics for 2409:8005:2810:900:1::100 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 1.732/1.732/1.732/0.000 ms
+<HE-CDKFQ-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8005:2810:900:1::101
+Ping6(56 data bytes) 2409:8005:2810:900:1::100 --> 2409:8005:2810:900:1::101, press CTRL+C to break
+56 bytes from 2409:8005:2810:900:1::101, icmp_seq=0 hlim=64 time=5.723 ms
+
+--- Ping6 statistics for 2409:8005:2810:900:1::101 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 5.723/5.723/5.723/0.000 ms
+<HE-CDKFQ-EYCX-S5554S-EI-D-1>ping -c 1 172.16.1.1
+Ping 172.16.1.1 (172.16.1.1): 56 data bytes, press CTRL+C to break
+56 bytes from 172.16.1.1: icmp_seq=0 ttl=255 time=0.964 ms
+
+--- Ping statistics for 172.16.1.1 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 0.964/0.964/0.964/0.000 ms
+<HE-CDKFQ-EYCX-S5554S-EI-D-1>ping -c 1 172.16.1.2
+Ping 172.16.1.2 (172.16.1.2): 56 data bytes, press CTRL+C to break
+56 bytes from 172.16.1.2: icmp_seq=0 ttl=255 time=2.337 ms
+
+--- Ping statistics for 172.16.1.2 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 2.337/2.337/2.337/0.000 ms
+<HE-CDKFQ-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 fdfe::1102/127
+ping6: Unknown host.
+<HE-CDKFQ-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 fdfe::1102/128
+ping6: Unknown host.
+<HE-CDKFQ-EYCX-S5554S-EI-D-1>ping -c 1 192.168.205.165
+Ping 192.168.205.165 (192.168.205.165): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.205.165: icmp_seq=0 ttl=255 time=1.264 ms
+
+--- Ping statistics for 192.168.205.165 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 1.264/1.264/1.264/0.000 ms
+<HE-CDKFQ-EYCX-S5554S-EI-D-1>ping -c 1 192.168.205.166
+Ping 192.168.205.166 (192.168.205.166): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.205.166: icmp_seq=0 ttl=255 time=1.933 ms
+
+--- Ping statistics for 192.168.205.166 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 1.933/1.933/1.933/0.000 ms
+<HE-CDKFQ-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8005:2810:30::100
+Ping6(56 data bytes) 2409:8005:2810:30::100 --> 2409:8005:2810:30::100, press CTRL+C to break
+56 bytes from 2409:8005:2810:30::100, icmp_seq=0 hlim=64 time=1.995 ms
+
+--- Ping6 statistics for 2409:8005:2810:30::100 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 1.995/1.995/1.995/0.000 ms
+<HE-CDKFQ-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8005:2810:30::101
+Ping6(56 data bytes) 2409:8005:2810:30::100 --> 2409:8005:2810:30::101, press CTRL+C to break
+56 bytes from 2409:8005:2810:30::101, icmp_seq=0 hlim=64 time=5.918 ms
+
+--- Ping6 statistics for 2409:8005:2810:30::101 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 5.918/5.918/5.918/0.000 ms
+<HE-CDKFQ-EYCX-S5554S-EI-D-1>exit
+Connection to 10.126.219.243 closed.
+----------------------------------------------------------------------------------------------------------
+spawn ssh -o HostKeyAlgorithms=+ssh-rsa -o PubkeyAcceptedKeyTypes=+ssh-rsa weihu@10.126.220.3
+weihu@10.126.220.3's password: 
+******************************************************************************
+* Copyright (c) 2004-2022 New H3C Technologies Co., Ltd. All rights reserved.*
+* Without the owner's prior written consent,                                 *
+* no decompiling or reverse-engineering shall be allowed.                    *
+******************************************************************************
+
+<HE-CDWLL-EYCX-S5554S-EI-D-1>ping -c 1 192.168.205.157
+Ping 192.168.205.157 (192.168.205.157): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.205.157: icmp_seq=0 ttl=255 time=0.719 ms
+
+--- Ping statistics for 192.168.205.157 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 0.719/0.719/0.719/0.000 ms
+<HE-CDWLL-EYCX-S5554S-EI-D-1>ping -c 1 192.168.205.158
+Ping 192.168.205.158 (192.168.205.158): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.205.158: icmp_seq=0 ttl=255 time=2.255 ms
+
+--- Ping statistics for 192.168.205.158 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 2.255/2.255/2.255/0.000 ms
+<HE-CDWLL-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8005:2810:900:3::100
+Ping6(56 data bytes) 2409:8005:2810:900:3::100 --> 2409:8005:2810:900:3::100, press CTRL+C to break
+56 bytes from 2409:8005:2810:900:3::100, icmp_seq=0 hlim=64 time=2.372 ms
+
+--- Ping6 statistics for 2409:8005:2810:900:3::100 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 2.372/2.372/2.372/0.000 ms
+<HE-CDWLL-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8005:2810:900:3::101
+Ping6(56 data bytes) 2409:8005:2810:900:3::100 --> 2409:8005:2810:900:3::101, press CTRL+C to break
+56 bytes from 2409:8005:2810:900:3::101, icmp_seq=0 hlim=64 time=3.685 ms
+
+--- Ping6 statistics for 2409:8005:2810:900:3::101 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 3.685/3.685/3.685/0.000 ms
+<HE-CDWLL-EYCX-S5554S-EI-D-1>ping -c 1 192.168.205.161
+Ping 192.168.205.161 (192.168.205.161): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.205.161: icmp_seq=0 ttl=255 time=0.902 ms
+
+--- Ping statistics for 192.168.205.161 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 0.902/0.902/0.902/0.000 ms
+<HE-CDWLL-EYCX-S5554S-EI-D-1>ping -c 1 192.168.205.162
+Ping 192.168.205.162 (192.168.205.162): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.205.162: icmp_seq=0 ttl=255 time=2.250 ms
+
+--- Ping statistics for 192.168.205.162 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 2.250/2.250/2.250/0.000 ms
+<HE-CDWLL-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8005:2810:10::100
+Ping6(56 data bytes) 2409:8005:2810:10::100 --> 2409:8005:2810:10::100, press CTRL+C to break
+56 bytes from 2409:8005:2810:10::100, icmp_seq=0 hlim=64 time=1.825 ms
+
+--- Ping6 statistics for 2409:8005:2810:10::100 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 1.825/1.825/1.825/0.000 ms
+<HE-CDWLL-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8005:2810:10::101
+Ping6(56 data bytes) 2409:8005:2810:10::100 --> 2409:8005:2810:10::101, press CTRL+C to break
+56 bytes from 2409:8005:2810:10::101, icmp_seq=0 hlim=64 time=7.105 ms
+
+--- Ping6 statistics for 2409:8005:2810:10::101 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 7.105/7.105/7.105/0.000 ms
+<HE-CDWLL-EYCX-S5554S-EI-D-1>exit
+Connection to 10.126.220.3 closed.
+----------------------------------------------------------------------------------------------------------
+spawn ssh -o HostKeyAlgorithms=+ssh-rsa -o PubkeyAcceptedKeyTypes=+ssh-rsa weihu@10.126.220.83
+weihu@10.126.220.83's password: 
+******************************************************************************
+* Copyright (c) 2004-2022 New H3C Technologies Co., Ltd. All rights reserved.*
+* Without the owner's prior written consent,                                 *
+* no decompiling or reverse-engineering shall be allowed.                    *
+******************************************************************************
+
+<HE-QHDSCL-EYCX-S5554S-EI-D-1>ping -c 1 192.168.205.145
+Ping 192.168.205.145 (192.168.205.145): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.205.145: icmp_seq=0 ttl=255 time=3.527 ms
+
+--- Ping statistics for 192.168.205.145 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 3.527/3.527/3.527/0.000 ms
+<HE-QHDSCL-EYCX-S5554S-EI-D-1>ping -c 1 192.168.205.146
+Ping 192.168.205.146 (192.168.205.146): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.205.146: icmp_seq=0 ttl=255 time=2.215 ms
+
+--- Ping statistics for 192.168.205.146 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 2.215/2.215/2.215/0.000 ms
+<HE-QHDSCL-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8005:2809:900:1::100
+Ping6(56 data bytes) 2409:8005:2809:900:1::100 --> 2409:8005:2809:900:1::100, press CTRL+C to break
+56 bytes from 2409:8005:2809:900:1::100, icmp_seq=0 hlim=64 time=2.074 ms
+
+--- Ping6 statistics for 2409:8005:2809:900:1::100 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 2.074/2.074/2.074/0.000 ms
+<HE-QHDSCL-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8005:2809:900:1::101
+Ping6(56 data bytes) 2409:8005:2809:900:1::100 --> 2409:8005:2809:900:1::101, press CTRL+C to break
+56 bytes from 2409:8005:2809:900:1::101, icmp_seq=0 hlim=64 time=6.010 ms
+
+--- Ping6 statistics for 2409:8005:2809:900:1::101 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 6.010/6.010/6.010/0.000 ms
+<HE-QHDSCL-EYCX-S5554S-EI-D-1>ping -c 1 172.22.0.1
+Ping 172.22.0.1 (172.22.0.1): 56 data bytes, press CTRL+C to break
+56 bytes from 172.22.0.1: icmp_seq=0 ttl=255 time=1.082 ms
+
+--- Ping statistics for 172.22.0.1 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 1.082/1.082/1.082/0.000 ms
+<HE-QHDSCL-EYCX-S5554S-EI-D-1>ping -c 1 172.22.0.2
+Ping 172.22.0.2 (172.22.0.2): 56 data bytes, press CTRL+C to break
+56 bytes from 172.22.0.2: icmp_seq=0 ttl=255 time=3.268 ms
+
+--- Ping statistics for 172.22.0.2 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 3.268/3.268/3.268/0.000 ms
+<HE-QHDSCL-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8005:2A09:0900:1::100
+Ping6(56 data bytes) 2409:8005:2A09:900:1::100 --> 2409:8005:2A09:900:1::100, press CTRL+C to break
+56 bytes from 2409:8005:2A09:900:1::100, icmp_seq=0 hlim=64 time=1.749 ms
+
+--- Ping6 statistics for 2409:8005:2A09:0900:1::100 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 1.749/1.749/1.749/0.000 ms
+<HE-QHDSCL-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8005:2A09:0900:1::101
+Ping6(56 data bytes) 2409:8005:2A09:900:1::100 --> 2409:8005:2A09:900:1::101, press CTRL+C to break
+56 bytes from 2409:8005:2A09:900:1::101, icmp_seq=0 hlim=64 time=4.987 ms
+
+--- Ping6 statistics for 2409:8005:2A09:0900:1::101 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 4.987/4.987/4.987/0.000 ms
+<HE-QHDSCL-EYCX-S5554S-EI-D-1>ping -c 1 192.168.205.137
+Ping 192.168.205.137 (192.168.205.137): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.205.137: icmp_seq=0 ttl=255 time=0.766 ms
+
+--- Ping statistics for 192.168.205.137 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 0.766/0.766/0.766/0.000 ms
+<HE-QHDSCL-EYCX-S5554S-EI-D-1>ping -c 1 192.168.205.138
+Ping 192.168.205.138 (192.168.205.138): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.205.138: icmp_seq=0 ttl=255 time=4.753 ms
+
+--- Ping statistics for 192.168.205.138 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 4.753/4.753/4.753/0.000 ms
+<HE-QHDSCL-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8005:2809:10::100
+Ping6(56 data bytes) 2409:8005:2809:10::100 --> 2409:8005:2809:10::100, press CTRL+C to break
+56 bytes from 2409:8005:2809:10::100, icmp_seq=0 hlim=64 time=1.919 ms
+
+--- Ping6 statistics for 2409:8005:2809:10::100 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 1.919/1.919/1.919/0.000 ms
+<HE-QHDSCL-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8005:2809:10::101
+Ping6(56 data bytes) 2409:8005:2809:10::100 --> 2409:8005:2809:10::101, press CTRL+C to break
+56 bytes from 2409:8005:2809:10::101, icmp_seq=0 hlim=64 time=6.850 ms
+
+--- Ping6 statistics for 2409:8005:2809:10::101 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 6.850/6.850/6.850/0.000 ms
+<HE-QHDSCL-EYCX-S5554S-EI-D-1>exit
+Connection to 10.126.220.83 closed.
+----------------------------------------------------------------------------------------------------------
+spawn ssh -o HostKeyAlgorithms=+ssh-rsa -o PubkeyAcceptedKeyTypes=+ssh-rsa weihu@10.126.220.100
+weihu@10.126.220.100's password: 
+******************************************************************************
+* Copyright (c) 2004-2022 New H3C Technologies Co., Ltd. All rights reserved.*
+* Without the owner's prior written consent,                                 *
+* no decompiling or reverse-engineering shall be allowed.                    *
+******************************************************************************
+
+<HE-QHDZHL-EYCX-S5554S-EI-D-1>ping -c 1 192.168.205.149
+Ping 192.168.205.149 (192.168.205.149): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.205.149: icmp_seq=0 ttl=255 time=1.221 ms
+
+--- Ping statistics for 192.168.205.149 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 1.221/1.221/1.221/0.000 ms
+<HE-QHDZHL-EYCX-S5554S-EI-D-1>ping -c 1 192.168.205.150
+Ping 192.168.205.150 (192.168.205.150): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.205.150: icmp_seq=0 ttl=255 time=2.402 ms
+
+--- Ping statistics for 192.168.205.150 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 2.402/2.402/2.402/0.000 ms
+<HE-QHDZHL-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8005:2809:900:3::100
+Ping6(56 data bytes) 2409:8005:2809:900:3::100 --> 2409:8005:2809:900:3::100, press CTRL+C to break
+56 bytes from 2409:8005:2809:900:3::100, icmp_seq=0 hlim=64 time=2.825 ms
+
+--- Ping6 statistics for 2409:8005:2809:900:3::100 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 2.825/2.825/2.825/0.000 ms
+<HE-QHDZHL-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8005:2809:900:3::101
+Ping6(56 data bytes) 2409:8005:2809:900:3::100 --> 2409:8005:2809:900:3::101, press CTRL+C to break
+56 bytes from 2409:8005:2809:900:3::101, icmp_seq=0 hlim=64 time=5.873 ms
+
+--- Ping6 statistics for 2409:8005:2809:900:3::101 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 5.873/5.873/5.873/0.000 ms
+<HE-QHDZHL-EYCX-S5554S-EI-D-1>ping -c 1 192.168.205.141
+Ping 192.168.205.141 (192.168.205.141): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.205.141: icmp_seq=0 ttl=255 time=1.065 ms
+
+--- Ping statistics for 192.168.205.141 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 1.065/1.065/1.065/0.000 ms
+<HE-QHDZHL-EYCX-S5554S-EI-D-1>ping -c 1 192.168.205.142
+Ping 192.168.205.142 (192.168.205.142): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.205.142: icmp_seq=0 ttl=255 time=2.197 ms
+
+--- Ping statistics for 192.168.205.142 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 2.197/2.197/2.197/0.000 ms
+<HE-QHDZHL-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8005:2809:30::100
+Ping6(56 data bytes) 2409:8005:2809:30::100 --> 2409:8005:2809:30::100, press CTRL+C to break
+56 bytes from 2409:8005:2809:30::100, icmp_seq=0 hlim=64 time=3.085 ms
+
+--- Ping6 statistics for 2409:8005:2809:30::100 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 3.085/3.085/3.085/0.000 ms
+<HE-QHDZHL-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8005:2809:30::101
+Ping6(56 data bytes) 2409:8005:2809:30::100 --> 2409:8005:2809:30::101, press CTRL+C to break
+56 bytes from 2409:8005:2809:30::101, icmp_seq=0 hlim=64 time=8.529 ms
+
+--- Ping6 statistics for 2409:8005:2809:30::101 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 8.529/8.529/8.529/0.000 ms
+<HE-QHDZHL-EYCX-S5554S-EI-D-1>exit
+Connection to 10.126.220.100 closed.
+----------------------------------------------------------------------------------------------------------
+spawn ssh -o HostKeyAlgorithms=+ssh-rsa -o PubkeyAcceptedKeyTypes=+ssh-rsa weihu@10.126.220.179
+weihu@10.126.220.179's password: 
+******************************************************************************
+* Copyright (c) 2004-2022 New H3C Technologies Co., Ltd. All rights reserved.*
+* Without the owner's prior written consent,                                 *
+* no decompiling or reverse-engineering shall be allowed.                    *
+******************************************************************************
+
+<HE-ZJKBSJ-EYCX-S5554S-EI-D-1>ping -c 1 192.168.205.129
+Ping 192.168.205.129 (192.168.205.129): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.205.129: icmp_seq=0 ttl=255 time=1.054 ms
+
+--- Ping statistics for 192.168.205.129 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 1.054/1.054/1.054/0.000 ms
+<HE-ZJKBSJ-EYCX-S5554S-EI-D-1>ping -c 1 192.168.205.130
+Ping 192.168.205.130 (192.168.205.130): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.205.130: icmp_seq=0 ttl=255 time=2.724 ms
+
+--- Ping statistics for 192.168.205.130 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 2.724/2.724/2.724/0.000 ms
+<HE-ZJKBSJ-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8005:2811:10::100
+Ping6(56 data bytes) 2409:8005:2811:10::100 --> 2409:8005:2811:10::100, press CTRL+C to break
+56 bytes from 2409:8005:2811:10::100, icmp_seq=0 hlim=64 time=2.249 ms
+
+--- Ping6 statistics for 2409:8005:2811:10::100 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 2.249/2.249/2.249/0.000 ms
+<HE-ZJKBSJ-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8005:2811:10::101
+Ping6(56 data bytes) 2409:8005:2811:10::100 --> 2409:8005:2811:10::101, press CTRL+C to break
+56 bytes from 2409:8005:2811:10::101, icmp_seq=0 hlim=64 time=5.179 ms
+
+--- Ping6 statistics for 2409:8005:2811:10::101 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 5.179/5.179/5.179/0.000 ms
+<HE-ZJKBSJ-EYCX-S5554S-EI-D-1>exit
+Connection to 10.126.220.179 closed.
+----------------------------------------------------------------------------------------------------------
+spawn ssh -o HostKeyAlgorithms=+ssh-rsa -o PubkeyAcceptedKeyTypes=+ssh-rsa weihu@10.126.220.196
+weihu@10.126.220.196's password: 
+******************************************************************************
+* Copyright (c) 2004-2022 New H3C Technologies Co., Ltd. All rights reserved.*
+* Without the owner's prior written consent,                                 *
+* no decompiling or reverse-engineering shall be allowed.                    *
+******************************************************************************
+
+<HE-ZJKWSL-EYCX-S5554S-EI-D-1>ping -c 1 192.168.205.125
+Ping 192.168.205.125 (192.168.205.125): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.205.125: icmp_seq=0 ttl=255 time=2.178 ms
+
+--- Ping statistics for 192.168.205.125 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 2.178/2.178/2.178/0.000 ms
+<HE-ZJKWSL-EYCX-S5554S-EI-D-1>ping -c 1 192.168.205.126
+Ping 192.168.205.126 (192.168.205.126): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.205.126: icmp_seq=0 ttl=255 time=4.553 ms
+
+--- Ping statistics for 192.168.205.126 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 4.553/4.553/4.553/0.000 ms
+<HE-ZJKWSL-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8005:2811:900:1::100
+Ping6(56 data bytes) 2409:8005:2811:900:1::100 --> 2409:8005:2811:900:1::100, press CTRL+C to break
+56 bytes from 2409:8005:2811:900:1::100, icmp_seq=0 hlim=64 time=1.705 ms
+
+--- Ping6 statistics for 2409:8005:2811:900:1::100 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 1.705/1.705/1.705/0.000 ms
+<HE-ZJKWSL-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8005:2811:900:1::101
+Ping6(56 data bytes) 2409:8005:2811:900:1::100 --> 2409:8005:2811:900:1::101, press CTRL+C to break
+56 bytes from 2409:8005:2811:900:1::101, icmp_seq=0 hlim=64 time=5.356 ms
+
+--- Ping6 statistics for 2409:8005:2811:900:1::101 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 5.356/5.356/5.356/0.000 ms
+<HE-ZJKWSL-EYCX-S5554S-EI-D-1>ping -c 1 192.168.150.1
+Ping 192.168.150.1 (192.168.150.1): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.150.1: icmp_seq=0 ttl=255 time=1.165 ms
+
+--- Ping statistics for 192.168.150.1 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 1.165/1.165/1.165/0.000 ms
+<HE-ZJKWSL-EYCX-S5554S-EI-D-1>ping -c 1 192.168.150.2
+Ping 192.168.150.2 (192.168.150.2): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.150.2: icmp_seq=0 ttl=255 time=3.435 ms
+
+--- Ping statistics for 192.168.150.2 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 3.435/3.435/3.435/0.000 ms
+<HE-ZJKWSL-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8005:2A0B:0900:1::100
+Ping6(56 data bytes) 2409:8005:2A0B:900:1::100 --> 2409:8005:2A0B:900:1::100, press CTRL+C to break
+56 bytes from 2409:8005:2A0B:900:1::100, icmp_seq=0 hlim=64 time=2.069 ms
+
+--- Ping6 statistics for 2409:8005:2A0B:0900:1::100 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 2.069/2.069/2.069/0.000 ms
+<HE-ZJKWSL-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8005:2A0B:0900:1::101
+Ping6(56 data bytes) 2409:8005:2A0B:900:1::100 --> 2409:8005:2A0B:900:1::101, press CTRL+C to break
+56 bytes from 2409:8005:2A0B:900:1::101, icmp_seq=0 hlim=64 time=4.765 ms
+
+--- Ping6 statistics for 2409:8005:2A0B:0900:1::101 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 4.765/4.765/4.765/0.000 ms
+<HE-ZJKWSL-EYCX-S5554S-EI-D-1>ping -c 1 192.168.205.133
+Ping 192.168.205.133 (192.168.205.133): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.205.133: icmp_seq=0 ttl=255 time=0.958 ms
+
+--- Ping statistics for 192.168.205.133 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 0.958/0.958/0.958/0.000 ms
+<HE-ZJKWSL-EYCX-S5554S-EI-D-1>ping -c 1 192.168.205.134
+Ping 192.168.205.134 (192.168.205.134): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.205.134: icmp_seq=0 ttl=255 time=2.276 ms
+
+--- Ping statistics for 192.168.205.134 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 2.276/2.276/2.276/0.000 ms
+<HE-ZJKWSL-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8005:2811:30::100
+Ping6(56 data bytes) 2409:8005:2811:30::100 --> 2409:8005:2811:30::100, press CTRL+C to break
+56 bytes from 2409:8005:2811:30::100, icmp_seq=0 hlim=64 time=2.015 ms
+
+--- Ping6 statistics for 2409:8005:2811:30::100 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 2.015/2.015/2.015/0.000 ms
+<HE-ZJKWSL-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8005:2811:30::101
+Ping6(56 data bytes) 2409:8005:2811:30::100 --> 2409:8005:2811:30::101, press CTRL+C to break
+56 bytes from 2409:8005:2811:30::101, icmp_seq=0 hlim=64 time=8.979 ms
+
+--- Ping6 statistics for 2409:8005:2811:30::101 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 8.979/8.979/8.979/0.000 ms
+<HE-ZJKWSL-EYCX-S5554S-EI-D-1>exit
+Connection to 10.126.220.196 closed.
+----------------------------------------------------------------------------------------------------------
+spawn ssh -o HostKeyAlgorithms=+ssh-rsa -o PubkeyAcceptedKeyTypes=+ssh-rsa weihu@10.126.219.165
+weihu@10.126.219.165's password: 
+******************************************************************************
+* Copyright (c) 2004-2022 New H3C Technologies Co., Ltd. All rights reserved.*
+* Without the owner's prior written consent,                                 *
+* no decompiling or reverse-engineering shall be allowed.                    *
+******************************************************************************
+
+<HE-TSFN-EYCX-S5554S-EI-D-1>ping -c 1 192.168.205.109
+Ping 192.168.205.109 (192.168.205.109): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.205.109: icmp_seq=0 ttl=255 time=1.335 ms
+
+--- Ping statistics for 192.168.205.109 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 1.335/1.335/1.335/0.000 ms
+<HE-TSFN-EYCX-S5554S-EI-D-1>ping -c 1 192.168.205.110
+Ping 192.168.205.110 (192.168.205.110): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.205.110: icmp_seq=0 ttl=255 time=5.080 ms
+
+--- Ping statistics for 192.168.205.110 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 5.080/5.080/5.080/0.000 ms
+<HE-TSFN-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8005:2808:900:1::100
+Ping6(56 data bytes) 2409:8005:2808:900:1::100 --> 2409:8005:2808:900:1::100, press CTRL+C to break
+56 bytes from 2409:8005:2808:900:1::100, icmp_seq=0 hlim=64 time=2.249 ms
+
+--- Ping6 statistics for 2409:8005:2808:900:1::100 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 2.249/2.249/2.249/0.000 ms
+<HE-TSFN-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8005:2808:900:1::101
+Ping6(56 data bytes) 2409:8005:2808:900:1::100 --> 2409:8005:2808:900:1::101, press CTRL+C to break
+56 bytes from 2409:8005:2808:900:1::101, icmp_seq=0 hlim=64 time=5.655 ms
+
+--- Ping6 statistics for 2409:8005:2808:900:1::101 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 5.655/5.655/5.655/0.000 ms
+<HE-TSFN-EYCX-S5554S-EI-D-1>ping -c 1 192.168.2.1
+Ping 192.168.2.1 (192.168.2.1): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.2.1: icmp_seq=0 ttl=255 time=3.842 ms
+
+--- Ping statistics for 192.168.2.1 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 3.842/3.842/3.842/0.000 ms
+<HE-TSFN-EYCX-S5554S-EI-D-1>ping -c 1 192.168.2.2
+Ping 192.168.2.2 (192.168.2.2): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.2.2: icmp_seq=0 ttl=255 time=3.458 ms
+
+--- Ping statistics for 192.168.2.2 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 3.458/3.458/3.458/0.000 ms
+<HE-TSFN-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8005:2A08:1A00:101::100
+Ping6(56 data bytes) 2409:8005:2A08:1A00:101::100 --> 2409:8005:2A08:1A00:101::100, press CTRL+C to break
+56 bytes from 2409:8005:2A08:1A00:101::100, icmp_seq=0 hlim=64 time=2.025 ms
+
+--- Ping6 statistics for 2409:8005:2A08:1A00:101::100 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 2.025/2.025/2.025/0.000 ms
+<HE-TSFN-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8005:2A08:1A00:101::101
+Ping6(56 data bytes) 2409:8005:2A08:1A00:101::100 --> 2409:8005:2A08:1A00:101::101, press CTRL+C to break
+56 bytes from 2409:8005:2A08:1A00:101::101, icmp_seq=0 hlim=64 time=3.238 ms
+
+--- Ping6 statistics for 2409:8005:2A08:1A00:101::101 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 3.238/3.238/3.238/0.000 ms
+<HE-TSFN-EYCX-S5554S-EI-D-1>ping -c 1 192.168.205.117
+Ping 192.168.205.117 (192.168.205.117): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.205.117: icmp_seq=0 ttl=255 time=0.946 ms
+
+--- Ping statistics for 192.168.205.117 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 0.946/0.946/0.946/0.000 ms
+<HE-TSFN-EYCX-S5554S-EI-D-1>ping -c 1 192.168.205.118
+Ping 192.168.205.118 (192.168.205.118): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.205.118: icmp_seq=0 ttl=255 time=2.491 ms
+
+--- Ping statistics for 192.168.205.118 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 2.491/2.491/2.491/0.000 ms
+<HE-TSFN-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8005:2808:900:5::100
+Ping6(56 data bytes) 2409:8005:2808:900:5::100 --> 2409:8005:2808:900:5::100, press CTRL+C to break
+56 bytes from 2409:8005:2808:900:5::100, icmp_seq=0 hlim=64 time=2.053 ms
+
+--- Ping6 statistics for 2409:8005:2808:900:5::100 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 2.053/2.053/2.053/0.000 ms
+<HE-TSFN-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8005:2808:900:5::101
+Ping6(56 data bytes) 2409:8005:2808:900:5::100 --> 2409:8005:2808:900:5::101, press CTRL+C to break
+56 bytes from 2409:8005:2808:900:5::101, icmp_seq=0 hlim=64 time=4.115 ms
+
+--- Ping6 statistics for 2409:8005:2808:900:5::101 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 4.115/4.115/4.115/0.000 ms
+<HE-TSFN-EYCX-S5554S-EI-D-1>ping -c 1 192.168.250.17
+Ping 192.168.250.17 (192.168.250.17): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.250.17: icmp_seq=0 ttl=255 time=0.957 ms
+
+--- Ping statistics for 192.168.250.17 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 0.957/0.957/0.957/0.000 ms
+<HE-TSFN-EYCX-S5554S-EI-D-1>ping -c 1 192.168.250.18
+Ping 192.168.250.18 (192.168.250.18): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.250.18: icmp_seq=0 ttl=64 time=4.094 ms
+
+--- Ping statistics for 192.168.250.18 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 4.094/4.094/4.094/0.000 ms
+<HE-TSFN-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8004:2882:10B0::100
+Ping6(56 data bytes) 2409:8004:2882:10B0::100 --> 2409:8004:2882:10B0::100, press CTRL+C to break
+56 bytes from 2409:8004:2882:10B0::100, icmp_seq=0 hlim=64 time=2.148 ms
+
+--- Ping6 statistics for 2409:8004:2882:10B0::100 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 2.148/2.148/2.148/0.000 ms
+<HE-TSFN-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8004:2882:10B0::101
+Ping6(56 data bytes) 2409:8004:2882:10B0::100 --> 2409:8004:2882:10B0::101, press CTRL+C to break
+56 bytes from 2409:8004:2882:10B0::101, icmp_seq=0 hlim=64 time=3.957 ms
+
+--- Ping6 statistics for 2409:8004:2882:10B0::101 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 3.957/3.957/3.957/0.000 ms
+<HE-TSFN-EYCX-S5554S-EI-D-1>exit
+Connection to 10.126.219.165 closed.
+----------------------------------------------------------------------------------------------------------
+spawn ssh -o HostKeyAlgorithms=+ssh-rsa -o PubkeyAcceptedKeyTypes=+ssh-rsa weihu@10.126.220.132
+weihu@10.126.220.132's password: 
+******************************************************************************
+* Copyright (c) 2004-2022 New H3C Technologies Co., Ltd. All rights reserved.*
+* Without the owner's prior written consent,                                 *
+* no decompiling or reverse-engineering shall be allowed.                    *
+******************************************************************************
+
+<HE-TSTY-EYCX-S5554S-EI-D-1>ping -c 1 192.168.205.121
+Ping 192.168.205.121 (192.168.205.121): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.205.121: icmp_seq=0 ttl=255 time=3.683 ms
+
+--- Ping statistics for 192.168.205.121 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 3.683/3.683/3.683/0.000 ms
+<HE-TSTY-EYCX-S5554S-EI-D-1>ping -c 1 192.168.205.122
+Ping 192.168.205.122 (192.168.205.122): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.205.122: icmp_seq=0 ttl=255 time=2.401 ms
+
+--- Ping statistics for 192.168.205.122 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 2.401/2.401/2.401/0.000 ms
+<HE-TSTY-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8005:2808:900:7::100
+Ping6(56 data bytes) 2409:8005:2808:900:7::100 --> 2409:8005:2808:900:7::100, press CTRL+C to break
+56 bytes from 2409:8005:2808:900:7::100, icmp_seq=0 hlim=64 time=1.754 ms
+
+--- Ping6 statistics for 2409:8005:2808:900:7::100 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 1.754/1.754/1.754/0.000 ms
+<HE-TSTY-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8005:2808:900:7::101
+Ping6(56 data bytes) 2409:8005:2808:900:7::100 --> 2409:8005:2808:900:7::101, press CTRL+C to break
+56 bytes from 2409:8005:2808:900:7::101, icmp_seq=0 hlim=64 time=3.631 ms
+
+--- Ping6 statistics for 2409:8005:2808:900:7::101 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 3.631/3.631/3.631/0.000 ms
+<HE-TSTY-EYCX-S5554S-EI-D-1>ping -c 1 192.168.2.5
+Ping 192.168.2.5 (192.168.2.5): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.2.5: icmp_seq=0 ttl=255 time=1.443 ms
+
+--- Ping statistics for 192.168.2.5 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 1.443/1.443/1.443/0.000 ms
+<HE-TSTY-EYCX-S5554S-EI-D-1>ping -c 1 192.168.2.6
+Ping 192.168.2.6 (192.168.2.6): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.2.6: icmp_seq=0 ttl=255 time=4.387 ms
+
+--- Ping statistics for 192.168.2.6 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 4.387/4.387/4.387/0.000 ms
+<HE-TSTY-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8005:2A08:1A00:103::100
+Ping6(56 data bytes) 2409:8005:2A08:1A00:103::100 --> 2409:8005:2A08:1A00:103::100, press CTRL+C to break
+56 bytes from 2409:8005:2A08:1A00:103::100, icmp_seq=0 hlim=64 time=2.114 ms
+
+--- Ping6 statistics for 2409:8005:2A08:1A00:103::100 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 2.114/2.114/2.114/0.000 ms
+<HE-TSTY-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8005:2A08:1A00:103::101
+Ping6(56 data bytes) 2409:8005:2A08:1A00:103::100 --> 2409:8005:2A08:1A00:103::101, press CTRL+C to break
+56 bytes from 2409:8005:2A08:1A00:103::101, icmp_seq=0 hlim=64 time=3.270 ms
+
+--- Ping6 statistics for 2409:8005:2A08:1A00:103::101 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 3.270/3.270/3.270/0.000 ms
+<HE-TSTY-EYCX-S5554S-EI-D-1>ping -c 1 192.168.205.113
+Ping 192.168.205.113 (192.168.205.113): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.205.113: icmp_seq=0 ttl=255 time=1.008 ms
+
+--- Ping statistics for 192.168.205.113 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 1.008/1.008/1.008/0.000 ms
+<HE-TSTY-EYCX-S5554S-EI-D-1>ping -c 1 192.168.205.114
+Ping 192.168.205.114 (192.168.205.114): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.205.114: icmp_seq=0 ttl=255 time=2.645 ms
+
+--- Ping statistics for 192.168.205.114 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 2.645/2.645/2.645/0.000 ms
+<HE-TSTY-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8005:2808:900:3::100
+Ping6(56 data bytes) 2409:8005:2808:900:3::100 --> 2409:8005:2808:900:3::100, press CTRL+C to break
+56 bytes from 2409:8005:2808:900:3::100, icmp_seq=0 hlim=64 time=3.218 ms
+
+--- Ping6 statistics for 2409:8005:2808:900:3::100 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 3.218/3.218/3.218/0.000 ms
+<HE-TSTY-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8005:2808:900:3::101
+Ping6(56 data bytes) 2409:8005:2808:900:3::100 --> 2409:8005:2808:900:3::101, press CTRL+C to break
+56 bytes from 2409:8005:2808:900:3::101, icmp_seq=0 hlim=64 time=5.601 ms
+
+--- Ping6 statistics for 2409:8005:2808:900:3::101 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 5.601/5.601/5.601/0.000 ms
+<HE-TSTY-EYCX-S5554S-EI-D-1>ping -c 1 192.168.250.25
+Ping 192.168.250.25 (192.168.250.25): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.250.25: icmp_seq=0 ttl=255 time=1.031 ms
+
+--- Ping statistics for 192.168.250.25 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 1.031/1.031/1.031/0.000 ms
+<HE-TSTY-EYCX-S5554S-EI-D-1>ping -c 1 192.168.250.26
+Ping 192.168.250.26 (192.168.250.26): 56 data bytes, press CTRL+C to break
+56 bytes from 192.168.250.26: icmp_seq=0 ttl=64 time=2.813 ms
+
+--- Ping statistics for 192.168.250.26 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 2.813/2.813/2.813/0.000 ms
+<HE-TSTY-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8004:2882:1010::100
+Ping6(56 data bytes) 2409:8004:2882:1010::100 --> 2409:8004:2882:1010::100, press CTRL+C to break
+56 bytes from 2409:8004:2882:1010::100, icmp_seq=0 hlim=64 time=2.103 ms
+
+--- Ping6 statistics for 2409:8004:2882:1010::100 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 2.103/2.103/2.103/0.000 ms
+<HE-TSTY-EYCX-S5554S-EI-D-1>ping ipv6  -c 1 2409:8004:2882:1010::101
+Ping6(56 data bytes) 2409:8004:2882:1010::100 --> 2409:8004:2882:1010::101, press CTRL+C to break
+56 bytes from 2409:8004:2882:1010::101, icmp_seq=0 hlim=64 time=3.857 ms
+
+--- Ping6 statistics for 2409:8004:2882:1010::101 ---
+1 packet(s) transmitted, 1 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 3.857/3.857/3.857/0.000 ms
+<HE-TSTY-EYCX-S5554S-EI-D-1>exit
+Connection to 10.126.220.132 closed.
+----------------------------------------------------------------------------------------------------------
+spawn ssh -o HostKeyAlgorithms=+ssh-rsa -o PubkeyAcceptedKeyTypes=+ssh-rsa weihu@10.126.220.213

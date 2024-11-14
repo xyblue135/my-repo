@@ -1,0 +1,1535 @@
+Special Line: ===============ji_fang河北石家庄开发区机房sjz_kaifaqu 10.126.219.132
+Line: 17
+Host: 192.168.250.9 (IP: 192.168.250.9)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 0.958/0.958/0.958/0.000 ms
+--------------------------------------------------------------------------------
+Line: 25
+Host: 192.168.250.10 (IP: 192.168.250.10)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.547/2.547/2.547/0.000 ms
+--------------------------------------------------------------------------------
+Line: 33
+Host: ipv6 (IP: 2409:8005:2801:3B00:5::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 3.179/3.179/3.179/0.000 ms
+--------------------------------------------------------------------------------
+Line: 41
+Host: ipv6 (IP: 2409:8005:2801:3B00:5::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 3.503/3.503/3.503/0.000 ms
+--------------------------------------------------------------------------------
+Line: 49
+Host: 192.168.102.25 (IP: 192.168.102.25)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 1.425/1.425/1.425/0.000 ms
+--------------------------------------------------------------------------------
+Line: 57
+Host: 192.168.102.26 (IP: 192.168.102.26)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.670/2.670/2.670/0.000 ms
+--------------------------------------------------------------------------------
+Line: 65
+Host: ipv6 (IP: 2409:8005:2801:300:2::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.177/2.177/2.177/0.000 ms
+--------------------------------------------------------------------------------
+Line: 73
+Host: ipv6 (IP: 2409:8005:2801:300:2::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 5.538/5.538/5.538/0.000 ms
+--------------------------------------------------------------------------------
+Line: 81
+Host: 192.168.5.1 (IP: 192.168.5.1)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 1.087/1.087/1.087/0.000 ms
+--------------------------------------------------------------------------------
+Line: 89
+Host: 192.168.5.2 (IP: 192.168.5.2)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 5.001/5.001/5.001/0.000 ms
+--------------------------------------------------------------------------------
+Line: 97
+Host: ipv6 (IP: 2409:8005:2A01:1900:101::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 1.828/1.828/1.828/0.000 ms
+--------------------------------------------------------------------------------
+Line: 105
+Host: ipv6 (IP: 2409:8005:2A01:1900:101::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 3.470/3.470/3.470/0.000 ms
+--------------------------------------------------------------------------------
+Line: 113
+Host: 192.168.4.1 (IP: 192.168.4.1)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 0.973/0.973/0.973/0.000 ms
+--------------------------------------------------------------------------------
+Line: 121
+Host: 192.168.4.2 (IP: 192.168.4.2)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 3.270/3.270/3.270/0.000 ms
+--------------------------------------------------------------------------------
+Line: 129
+Host: ipv6 (IP: 2409:8004:2810:1050::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.670/2.670/2.670/0.000 ms
+--------------------------------------------------------------------------------
+Line: 137
+Host: ipv6 (IP: 2409:8004:2810:1050::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 5.382/5.382/5.382/0.000 ms
+--------------------------------------------------------------------------------
+Line: 145
+Host: 192.168.2.33 (IP: 192.168.2.33)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 1.239/1.239/1.239/0.000 ms
+--------------------------------------------------------------------------------
+Line: 153
+Host: 192.168.2.34 (IP: 192.168.2.34)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.080/2.080/2.080/0.000 ms
+--------------------------------------------------------------------------------
+Line: 161
+Host: ipv6 (IP: 2409:8004:2811:1010::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 3.235/3.235/3.235/0.000 ms
+--------------------------------------------------------------------------------
+Line: 169
+Host: ipv6 (IP: 2409:8004:2811:1010::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 7.003/7.003/7.003/0.000 ms
+--------------------------------------------------------------------------------
+Line: 177
+Host: 192.168.4.5 (IP: 192.168.4.5)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 0.770/0.770/0.770/0.000 ms
+--------------------------------------------------------------------------------
+Line: 185
+Host: 192.168.4.6 (IP: 192.168.4.6)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 4.903/4.903/4.903/0.000 ms
+--------------------------------------------------------------------------------
+Line: 193
+Host: ipv6 (IP: 2409:8004:2810:1030::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.144/2.144/2.144/0.000 ms
+--------------------------------------------------------------------------------
+Line: 201
+Host: ipv6 (IP: 2409:8004:2810:1030::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 3.848/3.848/3.848/0.000 ms
+--------------------------------------------------------------------------------
+Special Line: ===============ji_fang河北石家庄东风路机房sjz_dongfenglu 10.126.219.101
+Line: 229
+Host: 192.168.4.9 (IP: 192.168.4.9)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 0.981/0.981/0.981/0.000 ms
+--------------------------------------------------------------------------------
+Line: 239
+Host: 192.168.4.10 (IP: 192.168.4.10)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.693/2.693/2.693/0.000 ms
+--------------------------------------------------------------------------------
+Line: 249
+Host: ipv6 (IP: 2409:8004:2810:1010::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 1.832/1.832/1.832/0.000 ms
+--------------------------------------------------------------------------------
+Line: 259
+Host: ipv6 (IP: 2409:8004:2810:1010::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 6.019/6.019/6.019/0.000 ms
+--------------------------------------------------------------------------------
+Line: 267
+Host: 192.168.205.9 (IP: 192.168.205.9)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 0.984/0.984/0.984/0.000 ms
+--------------------------------------------------------------------------------
+Line: 277
+Host: 192.168.205.10 (IP: 192.168.205.10)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 4.883/4.883/4.883/0.000 ms
+--------------------------------------------------------------------------------
+Line: 287
+Host: ipv6 (IP: 2409:8004:2801:30::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.006/2.006/2.006/0.000 ms
+--------------------------------------------------------------------------------
+Line: 297
+Host: ipv6 (IP: 2409:8004:2801:30::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 3.504/3.504/3.504/0.000 ms
+--------------------------------------------------------------------------------
+Special Line: ===============ji_fang河北石家庄鹿泉机房sjz_luquan 10.126.220.115
+Line: 327
+Host: 192.168.100.1 (IP: 192.168.100.1)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 1.208/1.208/1.208/0.000 ms
+--------------------------------------------------------------------------------
+Line: 335
+Host: 192.168.100.2 (IP: 192.168.100.2)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 1.795/1.795/1.795/0.000 ms
+--------------------------------------------------------------------------------
+Line: 343
+Host: ipv6 (IP: 2409:8004:2810:1040::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.142/2.142/2.142/0.000 ms
+--------------------------------------------------------------------------------
+Line: 351
+Host: ipv6 (IP: 2409:8004:2810:1040::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 3.236/3.236/3.236/0.000 ms
+--------------------------------------------------------------------------------
+Line: 359
+Host: 192.168.5.5 (IP: 192.168.5.5)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 1.198/1.198/1.198/0.000 ms
+--------------------------------------------------------------------------------
+Line: 367
+Host: 192.168.5.6 (IP: 192.168.5.6)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.236/2.236/2.236/0.000 ms
+--------------------------------------------------------------------------------
+Line: 375
+Host: ipv6 (IP: 2409:8005:2A01:1900:103::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.072/2.072/2.072/0.000 ms
+--------------------------------------------------------------------------------
+Line: 383
+Host: ipv6 (IP: 2409:8005:2A01:1900:103::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 3.246/3.246/3.246/0.000 ms
+--------------------------------------------------------------------------------
+Line: 391
+Host: 192.168.205.1 (IP: 192.168.205.1)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 3.764/3.764/3.764/0.000 ms
+--------------------------------------------------------------------------------
+Line: 399
+Host: 192.168.205.2 (IP: 192.168.205.2)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 4.747/4.747/4.747/0.000 ms
+--------------------------------------------------------------------------------
+Line: 407
+Host: ipv6 (IP: 2409:8005:2801:900:3::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.109/2.109/2.109/0.000 ms
+--------------------------------------------------------------------------------
+Line: 415
+Host: ipv6 (IP: 2409:8005:2801:900:3::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 6.063/6.063/6.063/0.000 ms
+--------------------------------------------------------------------------------
+Line: 423
+Host: 192.168.205.5 (IP: 192.168.205.5)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 0.936/0.936/0.936/0.000 ms
+--------------------------------------------------------------------------------
+Line: 431
+Host: 192.168.205.6 (IP: 192.168.205.6)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.061/2.061/2.061/0.000 ms
+--------------------------------------------------------------------------------
+Line: 439
+Host: ipv6 (IP: 2409:8005:2801:900:7::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 3.152/3.152/3.152/0.000 ms
+--------------------------------------------------------------------------------
+Line: 447
+Host: ipv6 (IP: 2409:8005:2801:900:7::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 4.264/4.264/4.264/0.000 ms
+--------------------------------------------------------------------------------
+Special Line: ===============ji_fang河北衡水和平路机房hs_hepinglu 10.126.220.35
+Line: 475
+Host: 192.168.205.65 (IP: 192.168.205.65)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 1.079/1.079/1.079/0.000 ms
+--------------------------------------------------------------------------------
+Line: 483
+Host: 192.168.205.66 (IP: 192.168.205.66)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 1.952/1.952/1.952/0.000 ms
+--------------------------------------------------------------------------------
+Line: 491
+Host: ipv6 (IP: 2409:8005:2805:900:1::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.276/2.276/2.276/0.000 ms
+--------------------------------------------------------------------------------
+Line: 499
+Host: ipv6 (IP: 2409:8005:2805:900:1::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 6.064/6.064/6.064/0.000 ms
+--------------------------------------------------------------------------------
+Line: 507
+Host: 192.168.230.1 (IP: 192.168.230.1)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 3.872/3.872/3.872/0.000 ms
+--------------------------------------------------------------------------------
+Line: 515
+Host: 192.168.230.2 (IP: 192.168.230.2)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.333/2.333/2.333/0.000 ms
+--------------------------------------------------------------------------------
+Line: 523
+Host: ipv6 (IP: 2409:8004:5a06:5005:104::2)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.073/2.073/2.073/0.000 ms
+--------------------------------------------------------------------------------
+Line: 531
+Host: ipv6 (IP: 2409:8004:5a06:5005:104::3)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 5.308/5.308/5.308/0.000 ms
+--------------------------------------------------------------------------------
+Line: 539
+Host: 192.168.205.73 (IP: 192.168.205.73)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 0.799/0.799/0.799/0.000 ms
+--------------------------------------------------------------------------------
+Line: 547
+Host: 192.168.205.74 (IP: 192.168.205.74)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 1.871/1.871/1.871/0.000 ms
+--------------------------------------------------------------------------------
+Line: 555
+Host: ipv6 (IP: 2409:8005:2805:10::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.103/2.103/2.103/0.000 ms
+--------------------------------------------------------------------------------
+Line: 563
+Host: ipv6 (IP: 2409:8005:2805:10::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 8.492/8.492/8.492/0.000 ms
+--------------------------------------------------------------------------------
+Special Line: ===============ji_fang河北衡水人民路机房hs_renminlu 10.126.220.51
+Line: 591
+Host: 192.168.205.69 (IP: 192.168.205.69)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 0.934/0.934/0.934/0.000 ms
+--------------------------------------------------------------------------------
+Line: 599
+Host: 192.168.205.70 (IP: 192.168.205.70)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.337/2.337/2.337/0.000 ms
+--------------------------------------------------------------------------------
+Line: 607
+Host: ipv6 (IP: 2409:8005:2805:900:3::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 1.985/1.985/1.985/0.000 ms
+--------------------------------------------------------------------------------
+Line: 615
+Host: ipv6 (IP: 2409:8005:2805:900:3::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 5.889/5.889/5.889/0.000 ms
+--------------------------------------------------------------------------------
+Line: 623
+Host: 192.168.205.77 (IP: 192.168.205.77)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 1.234/1.234/1.234/0.000 ms
+--------------------------------------------------------------------------------
+Line: 631
+Host: 192.168.205.78 (IP: 192.168.205.78)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.258/2.258/2.258/0.000 ms
+--------------------------------------------------------------------------------
+Line: 639
+Host: ipv6 (IP: 2409:8005:2805:30::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.256/2.256/2.256/0.000 ms
+--------------------------------------------------------------------------------
+Line: 647
+Host: ipv6 (IP: 2409:8005:2805:30::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 6.308/6.308/6.308/0.000 ms
+--------------------------------------------------------------------------------
+Special Line: ===============ji_fang河北邯郸全球通机房hd_quanqiutong 10.126.219.69
+Line: 675
+Host: 192.168.205.61 (IP: 192.168.205.61)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 1.107/1.107/1.107/0.000 ms
+--------------------------------------------------------------------------------
+Line: 683
+Host: 192.168.205.62 (IP: 192.168.205.62)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.542/2.542/2.542/0.000 ms
+--------------------------------------------------------------------------------
+Line: 691
+Host: ipv6 (IP: 2409:8005:2810:900:3::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.003/2.003/2.003/0.000 ms
+--------------------------------------------------------------------------------
+Line: 699
+Host: ipv6 (IP: 2409:8005:2810:900:3::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 5.456/5.456/5.456/0.000 ms
+--------------------------------------------------------------------------------
+Line: 707
+Host: 192.168.205.169 (IP: 192.168.205.169)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 1.091/1.091/1.091/0.000 ms
+--------------------------------------------------------------------------------
+Line: 715
+Host: 192.168.205.170 (IP: 192.168.205.170)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.571/2.571/2.571/0.000 ms
+--------------------------------------------------------------------------------
+Line: 723
+Host: ipv6 (IP: 2409:8005:2810:900:7::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.297/2.297/2.297/0.000 ms
+--------------------------------------------------------------------------------
+Line: 731
+Host: ipv6 (IP: 2409:8005:2810:900:7::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 3.738/3.738/3.738/0.000 ms
+--------------------------------------------------------------------------------
+Line: 739
+Host: 192.168.4.25 (IP: 192.168.4.25)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 4.146/4.146/4.146/0.000 ms
+--------------------------------------------------------------------------------
+Line: 747
+Host: 192.168.4.26 (IP: 192.168.4.26)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.452/2.452/2.452/0.000 ms
+--------------------------------------------------------------------------------
+Line: 755
+Host: ipv6 (IP: 2409:8004:2820:1030::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.007/2.007/2.007/0.000 ms
+--------------------------------------------------------------------------------
+Line: 763
+Host: ipv6 (IP: 2409:8004:2820:1030::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 3.631/3.631/3.631/0.000 ms
+--------------------------------------------------------------------------------
+Special Line: ===============ji_fang河北邯郸yidongdasha机房hd_yidongdasha  10.126.220.19
+Line: 791
+Host: 192.168.205.53 (IP: 192.168.205.53)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 0.984/0.984/0.984/0.000 ms
+--------------------------------------------------------------------------------
+Line: 799
+Host: 192.168.205.54 (IP: 192.168.205.54)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 4.651/4.651/4.651/0.000 ms
+--------------------------------------------------------------------------------
+Line: 807
+Host: ipv6 (IP: 2409:8005:2810:900:1::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.107/2.107/2.107/0.000 ms
+--------------------------------------------------------------------------------
+Line: 815
+Host: ipv6 (IP: 2409:8005:2810:900:1::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 5.639/5.639/5.639/0.000 ms
+--------------------------------------------------------------------------------
+Line: 823
+Host: 192.168.205.57 (IP: 192.168.205.57)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 0.825/0.825/0.825/0.000 ms
+--------------------------------------------------------------------------------
+Line: 831
+Host: 192.168.205.58 (IP: 192.168.205.58)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 3.030/3.030/3.030/0.000 ms
+--------------------------------------------------------------------------------
+Line: 839
+Host: ipv6 (IP: 2409:8005:2810:900:5::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 1.709/1.709/1.709/0.000 ms
+--------------------------------------------------------------------------------
+Line: 847
+Host: ipv6 (IP: 2409:8005:2810:900:5::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 4.498/4.498/4.498/0.000 ms
+--------------------------------------------------------------------------------
+Line: 855
+Host: 192.168.200.1 (IP: 192.168.200.1)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 1.237/1.237/1.237/0.000 ms
+--------------------------------------------------------------------------------
+Line: 863
+Host: 192.168.200.2 (IP: 192.168.200.2)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.517/2.517/2.517/0.000 ms
+--------------------------------------------------------------------------------
+Line: 871
+Host: ipv6 (IP: FC00:2000::2)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 3.380/3.380/3.380/0.000 ms
+--------------------------------------------------------------------------------
+Line: 879
+Host: ipv6 (IP: FC00:2000::3)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 4.125/4.125/4.125/0.000 ms
+--------------------------------------------------------------------------------
+Line: 887
+Host: 192.168.4.21 (IP: 192.168.4.21)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 0.813/0.813/0.813/0.000 ms
+--------------------------------------------------------------------------------
+Line: 895
+Host: 192.168.4.22 (IP: 192.168.4.22)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.390/2.390/2.390/0.000 ms
+--------------------------------------------------------------------------------
+Line: 903
+Host: ipv6 (IP: 2409:8004:2820:1010::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.037/2.037/2.037/0.000 ms
+--------------------------------------------------------------------------------
+Line: 911
+Host: ipv6 (IP: 2409:8004:2820:1010::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 3.233/3.233/3.233/0.000 ms
+--------------------------------------------------------------------------------
+Special Line: ===============ji_fang河北邢台东环机房xt_donghuan 10.126.220.148
+Line: 939
+Host: 192.168.205.45 (IP: 192.168.205.45)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 1.160/1.160/1.160/0.000 ms
+--------------------------------------------------------------------------------
+Line: 947
+Host: 192.168.205.46 (IP: 192.168.205.46)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.253/2.253/2.253/0.000 ms
+--------------------------------------------------------------------------------
+Line: 955
+Host: ipv6 (IP: 2409:8005:2803:900:3::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 3.204/3.204/3.204/0.000 ms
+--------------------------------------------------------------------------------
+Line: 963
+Host: ipv6 (IP: 2409:8005:2803:900:3::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 5.665/5.665/5.665/0.000 ms
+--------------------------------------------------------------------------------
+Line: 971
+Host: 192.168.205.49 (IP: 192.168.205.49)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 1.148/1.148/1.148/0.000 ms
+--------------------------------------------------------------------------------
+Line: 979
+Host: 192.168.205.50 (IP: 192.168.205.50)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.568/2.568/2.568/0.000 ms
+--------------------------------------------------------------------------------
+Line: 987
+Host: ipv6 (IP: 2409:8004:2803:10::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.065/2.065/2.065/0.000 ms
+--------------------------------------------------------------------------------
+Line: 995
+Host: ipv6 (IP: 2409:8004:2803:10::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 7.910/7.910/7.910/0.000 ms
+--------------------------------------------------------------------------------
+Line: 1003
+Host: 192.168.254.1 (IP: 192.168.254.1)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 1.068/1.068/1.068/0.000 ms
+--------------------------------------------------------------------------------
+Line: 1011
+Host: 192.168.254.2 (IP: 192.168.254.2)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 4.436/4.436/4.436/0.000 ms
+--------------------------------------------------------------------------------
+Line: 1019
+Host: ipv6 (IP: FC00:1000::2)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 1.962/1.962/1.962/0.000 ms
+--------------------------------------------------------------------------------
+Line: 1027
+Host: ipv6 (IP: FC00:1000::3)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 3.324/3.324/3.324/0.000 ms
+--------------------------------------------------------------------------------
+Special Line: ===============ji_fang河北邢台综合楼机房xt_zonghelou 10.126.220.163
+Line: 1055
+Host: 192.168.205.41 (IP: 192.168.205.41)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 1.081/1.081/1.081/0.000 ms
+--------------------------------------------------------------------------------
+Line: 1063
+Host: 192.168.205.42 (IP: 192.168.205.42)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.718/2.718/2.718/0.000 ms
+--------------------------------------------------------------------------------
+Line: 1071
+Host: ipv6 (IP: 2409:8005:2803:900:1::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.097/2.097/2.097/0.000 ms
+--------------------------------------------------------------------------------
+Line: 1079
+Host: ipv6 (IP: 2409:8005:2803:900:1::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 5.669/5.669/5.669/0.000 ms
+--------------------------------------------------------------------------------
+Special Line: ===============ji_fang河北沧州移动大楼机房cz_yidongdalou 10.126.219.227
+Line: 1107
+Host: 192.168.206.9 (IP: 192.168.206.9)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 0.793/0.793/0.793/0.000 ms
+--------------------------------------------------------------------------------
+Line: 1115
+Host: 192.168.206.10 (IP: 192.168.206.10)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 3.194/3.194/3.194/0.000 ms
+--------------------------------------------------------------------------------
+Line: 1123
+Host: ipv6 (IP: 2409:8005:2A04:0900:604::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.057/2.057/2.057/0.000 ms
+--------------------------------------------------------------------------------
+Line: 1131
+Host: ipv6 (IP: 2409:8005:2A04:0900:604::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 4.115/4.115/4.115/0.000 ms
+--------------------------------------------------------------------------------
+Line: 1139
+Host: 192.168.205.85 (IP: 192.168.205.85)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 0.980/0.980/0.980/0.000 ms
+--------------------------------------------------------------------------------
+Line: 1147
+Host: 192.168.205.86 (IP: 192.168.205.86)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.336/2.336/2.336/0.000 ms
+--------------------------------------------------------------------------------
+Line: 1155
+Host: ipv6 (IP: 2409:8005:2804:900:3::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 1.940/1.940/1.940/0.000 ms
+--------------------------------------------------------------------------------
+Line: 1163
+Host: ipv6 (IP: 2409:8005:2804:900:3::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 6.185/6.185/6.185/0.000 ms
+--------------------------------------------------------------------------------
+Line: 1171
+Host: 192.168.205.89 (IP: 192.168.205.89)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 3.737/3.737/3.737/0.000 ms
+--------------------------------------------------------------------------------
+Line: 1179
+Host: 192.168.205.90 (IP: 192.168.205.90)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 4.116/4.116/4.116/0.000 ms
+--------------------------------------------------------------------------------
+Line: 1187
+Host: ipv6 (IP: 2409:8005:2804:900:5::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.006/2.006/2.006/0.000 ms
+--------------------------------------------------------------------------------
+Line: 1195
+Host: ipv6 (IP: 2409:8005:2804:900:5::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 5.429/5.429/5.429/0.000 ms
+--------------------------------------------------------------------------------
+Line: 1203
+Host: 192.168.205.93 (IP: 192.168.205.93)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 3.597/3.597/3.597/0.000 ms
+--------------------------------------------------------------------------------
+Line: 1211
+Host: 192.168.205.94 (IP: 192.168.205.94)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 1.978/1.978/1.978/0.000 ms
+--------------------------------------------------------------------------------
+Line: 1219
+Host: ipv6 (IP: 2409:8005:2804:900:7::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.195/2.195/2.195/0.000 ms
+--------------------------------------------------------------------------------
+Line: 1227
+Host: ipv6 (IP: 2409:8005:2804:900:7::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 3.377/3.377/3.377/0.000 ms
+--------------------------------------------------------------------------------
+Line: 1235
+Host: 192.168.250.1 (IP: 192.168.250.1)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 4.118/4.118/4.118/0.000 ms
+--------------------------------------------------------------------------------
+Line: 1243
+Host: 192.168.250.2 (IP: 192.168.250.2)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 3.912/3.912/3.912/0.000 ms
+--------------------------------------------------------------------------------
+Line: 1251
+Host: ipv6 (IP: 2409:8004:2842:1020::102)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 3.106/3.106/3.106/0.000 ms
+--------------------------------------------------------------------------------
+Line: 1259
+Host: ipv6 (IP: 2409:8004:2842:1020::103)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 4.106/4.106/4.106/0.000 ms
+--------------------------------------------------------------------------------
+Special Line: ===============ji_fang河北沧州枢纽楼机房cz_shuniulou 10.126.219.211
+Line: 1287
+Host: 192.168.207.9 (IP: 192.168.207.9)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 7.539/7.539/7.539/0.000 ms
+--------------------------------------------------------------------------------
+Line: 1295
+Host: 192.168.207.10 (IP: 192.168.207.10)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 3.292/3.292/3.292/0.000 ms
+--------------------------------------------------------------------------------
+Line: 1303
+Host: ipv6 (IP: 2409:8005:2A04:0900:808::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.123/2.123/2.123/0.000 ms
+--------------------------------------------------------------------------------
+Line: 1311
+Host: ipv6 (IP: 2409:8005:2A04:0900:808::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 4.341/4.341/4.341/0.000 ms
+--------------------------------------------------------------------------------
+Line: 1319
+Host: 192.168.205.81 (IP: 192.168.205.81)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 1.248/1.248/1.248/0.000 ms
+--------------------------------------------------------------------------------
+Line: 1327
+Host: 192.168.205.82 (IP: 192.168.205.82)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 1.850/1.850/1.850/0.000 ms
+--------------------------------------------------------------------------------
+Line: 1335
+Host: ipv6 (IP: 2409:8005:2804:900:1::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 1.839/1.839/1.839/0.000 ms
+--------------------------------------------------------------------------------
+Line: 1343
+Host: ipv6 (IP: 2409:8005:2804:900:1::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 5.612/5.612/5.612/0.000 ms
+--------------------------------------------------------------------------------
+Line: 1351
+Host: 192.168.205.97 (IP: 192.168.205.97)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 0.767/0.767/0.767/0.000 ms
+--------------------------------------------------------------------------------
+Line: 1359
+Host: 192.168.205.98 (IP: 192.168.205.98)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.369/2.369/2.369/0.000 ms
+--------------------------------------------------------------------------------
+Line: 1367
+Host: ipv6 (IP: 2409:8005:2804:900:9::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.168/2.168/2.168/0.000 ms
+--------------------------------------------------------------------------------
+Line: 1375
+Host: ipv6 (IP: 2409:8005:2804:900:9::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 3.938/3.938/3.938/0.000 ms
+--------------------------------------------------------------------------------
+Line: 1383
+Host: 192.168.205.101 (IP: 192.168.205.101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 1.067/1.067/1.067/0.000 ms
+--------------------------------------------------------------------------------
+Line: 1391
+Host: 192.168.205.102 (IP: 192.168.205.102)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.265/2.265/2.265/0.000 ms
+--------------------------------------------------------------------------------
+Line: 1399
+Host: ipv6 (IP: 2409:8004:2804:10::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.082/2.082/2.082/0.000 ms
+--------------------------------------------------------------------------------
+Line: 1407
+Host: ipv6 (IP: 2409:8004:2804:10::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 4.065/4.065/4.065/0.000 ms
+--------------------------------------------------------------------------------
+Line: 1415
+Host: 192.168.250.9 (IP: 192.168.250.9)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.478/2.478/2.478/0.000 ms
+--------------------------------------------------------------------------------
+Line: 1423
+Host: 192.168.250.10 (IP: 192.168.250.10)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 10.975/10.975/10.975/0.000 ms
+--------------------------------------------------------------------------------
+Line: 1431
+Host: ipv6 (IP: 2409:8004:2842:1020::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 1.760/1.760/1.760/0.000 ms
+--------------------------------------------------------------------------------
+Line: 1439
+Host: ipv6 (IP: 2409:8004:2842:1020::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 4.841/4.841/4.841/0.000 ms
+--------------------------------------------------------------------------------
+Special Line: ===============ji_fang河北保定数据中心机房bd_shujuzhongxin   10.126.219.40
+Line: 1467
+Host: 192.168.205.13 (IP: 192.168.205.13)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 0.758/0.758/0.758/0.000 ms
+--------------------------------------------------------------------------------
+Line: 1475
+Host: 192.168.205.14 (IP: 192.168.205.14)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.313/2.313/2.313/0.000 ms
+--------------------------------------------------------------------------------
+Line: 1483
+Host: ipv6 (IP: 2409:8005:2806:900:5::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.311/2.311/2.311/0.000 ms
+--------------------------------------------------------------------------------
+Line: 1491
+Host: ipv6 (IP: 2409:8005:2806:900:5::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 3.383/3.383/3.383/0.000 ms
+--------------------------------------------------------------------------------
+Line: 1499
+Host: 192.168.102.29 (IP: 192.168.102.29)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 0.708/0.708/0.708/0.000 ms
+--------------------------------------------------------------------------------
+Line: 1507
+Host: 192.168.102.30 (IP: 192.168.102.30)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 1.917/1.917/1.917/0.000 ms
+--------------------------------------------------------------------------------
+Line: 1515
+Host: ipv6 (IP: 2409:8005:2801:300:2::200)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.014/2.014/2.014/0.000 ms
+--------------------------------------------------------------------------------
+Line: 1523
+Host: ipv6 (IP: 2409:8005:2801:300:2::201)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 3.101/3.101/3.101/0.000 ms
+--------------------------------------------------------------------------------
+Line: 1531
+Host: 192.168.205.17 (IP: 192.168.205.17)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 0.886/0.886/0.886/0.000 ms
+--------------------------------------------------------------------------------
+Line: 1539
+Host: 192.168.205.18 (IP: 192.168.205.18)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.211/2.211/2.211/0.000 ms
+--------------------------------------------------------------------------------
+Line: 1547
+Host: ipv6 (IP: 2409:8004:2806:50::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.042/2.042/2.042/0.000 ms
+--------------------------------------------------------------------------------
+Line: 1555
+Host: ipv6 (IP: 2409:8004:2806:50::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 3.586/3.586/3.586/0.000 ms
+--------------------------------------------------------------------------------
+Line: 1563
+Host: 192.168.205.21 (IP: 192.168.205.21)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 1.090/1.090/1.090/0.000 ms
+--------------------------------------------------------------------------------
+Line: 1571
+Host: 192.168.205.22 (IP: 192.168.205.22)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.480/2.480/2.480/0.000 ms
+--------------------------------------------------------------------------------
+Line: 1579
+Host: ipv6 (IP: 2409:8004:2806:50::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 0.972/0.972/0.972/0.000 ms
+--------------------------------------------------------------------------------
+Line: 1587
+Host: ipv6 (IP: 2409:8004:2806:50::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 3.242/3.242/3.242/0.000 ms
+--------------------------------------------------------------------------------
+Line: 1595
+Host: 192.168.4.13 (IP: 192.168.4.13)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 3.695/3.695/3.695/0.000 ms
+--------------------------------------------------------------------------------
+Line: 1603
+Host: 192.168.4.14 (IP: 192.168.4.14)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.303/2.303/2.303/0.000 ms
+--------------------------------------------------------------------------------
+Line: 1611
+Host: ipv6 (IP: 2409:8004:2860:1030::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.096/2.096/2.096/0.000 ms
+--------------------------------------------------------------------------------
+Line: 1619
+Host: ipv6 (IP: 2409:8004:2860:1030::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 3.235/3.235/3.235/0.000 ms
+--------------------------------------------------------------------------------
+Special Line: ===============ji_fang河北保定清苑机房bd_qingyuan    10.126.219.6
+Line: 1647
+Host: 192.168.205.33 (IP: 192.168.205.33)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 0.885/0.885/0.885/0.000 ms
+--------------------------------------------------------------------------------
+Line: 1655
+Host: 192.168.205.34 (IP: 192.168.205.34)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.289/2.289/2.289/0.000 ms
+--------------------------------------------------------------------------------
+Line: 1663
+Host: ipv6 (IP: 2409:8005:2806:900:3::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 3.309/3.309/3.309/0.000 ms
+--------------------------------------------------------------------------------
+Line: 1671
+Host: ipv6 (IP: 2409:8005:2806:900:3::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.793/2.793/2.793/0.000 ms
+--------------------------------------------------------------------------------
+Line: 1679
+Host: 192.168.255.249 (IP: 192.168.255.249)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 1.367/1.367/1.367/0.000 ms
+--------------------------------------------------------------------------------
+Line: 1687
+Host: 192.168.255.250 (IP: 192.168.255.250)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 1.924/1.924/1.924/0.000 ms
+--------------------------------------------------------------------------------
+Line: 1695
+Host: ipv6 (IP: 2409:8005:2A06:1900:103::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.085/2.085/2.085/0.000 ms
+--------------------------------------------------------------------------------
+Line: 1703
+Host: ipv6 (IP: 2409:8005:2A06:1900:103::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.935/2.935/2.935/0.000 ms
+--------------------------------------------------------------------------------
+Line: 1711
+Host: 192.168.102.33 (IP: 192.168.102.33)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 0.979/0.979/0.979/0.000 ms
+--------------------------------------------------------------------------------
+Line: 1719
+Host: 192.168.102.34 (IP: 192.168.102.34)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 1.925/1.925/1.925/0.000 ms
+--------------------------------------------------------------------------------
+Line: 1727
+Host: ipv6 (IP: 2409:8005:2801:300:2::300)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 1.975/1.975/1.975/0.000 ms
+--------------------------------------------------------------------------------
+Line: 1735
+Host: ipv6 (IP: 2409:8005:2801:300:2::301)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 3.171/3.171/3.171/0.000 ms
+--------------------------------------------------------------------------------
+Line: 1743
+Host: 192.168.205.37 (IP: 192.168.205.37)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 3.764/3.764/3.764/0.000 ms
+--------------------------------------------------------------------------------
+Line: 1751
+Host: 192.168.205.38 (IP: 192.168.205.38)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.687/2.687/2.687/0.000 ms
+--------------------------------------------------------------------------------
+Line: 1759
+Host: ipv6 (IP: 2409:8004:2806:70::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 1.999/1.999/1.999/0.000 ms
+--------------------------------------------------------------------------------
+Line: 1767
+Host: ipv6 (IP: 2409:8004:2806:70::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 3.744/3.744/3.744/0.000 ms
+--------------------------------------------------------------------------------
+Line: 1775
+Host: 192.168.4.17 (IP: 192.168.4.17)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 3.781/3.781/3.781/0.000 ms
+--------------------------------------------------------------------------------
+Line: 1783
+Host: 192.168.4.18 (IP: 192.168.4.18)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.900/2.900/2.900/0.000 ms
+--------------------------------------------------------------------------------
+Line: 1791
+Host: ipv6 (IP: 2409:8004:2860:1010::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 1.684/1.684/1.684/0.000 ms
+--------------------------------------------------------------------------------
+Line: 1799
+Host: ipv6 (IP: 2409:8004:2860:1010::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 3.745/3.745/3.745/0.000 ms
+--------------------------------------------------------------------------------
+Special Line: ===============ji_fang河北保定金迪路机房bd_jindilu   10.126.219.195
+Line: 1827
+Host: 192.168.205.25 (IP: 192.168.205.25)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 0.718/0.718/0.718/0.000 ms
+--------------------------------------------------------------------------------
+Line: 1835
+Host: 192.168.205.26 (IP: 192.168.205.26)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.557/2.557/2.557/0.000 ms
+--------------------------------------------------------------------------------
+Line: 1843
+Host: ipv6 (IP: 2409:8005:2806:900:1::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.126/2.126/2.126/0.000 ms
+--------------------------------------------------------------------------------
+Line: 1851
+Host: ipv6 (IP: 2409:8005:2806:900:1::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 3.751/3.751/3.751/0.000 ms
+--------------------------------------------------------------------------------
+Line: 1859
+Host: 192.168.255.253 (IP: 192.168.255.253)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 1.002/1.002/1.002/0.000 ms
+--------------------------------------------------------------------------------
+Line: 1867
+Host: 192.168.255.254 (IP: 192.168.255.254)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 3.568/3.568/3.568/0.000 ms
+--------------------------------------------------------------------------------
+Line: 1875
+Host: ipv6 (IP: 2409:8005:2A06:1900:101::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.088/2.088/2.088/0.000 ms
+--------------------------------------------------------------------------------
+Line: 1883
+Host: ipv6 (IP: 2409:8005:2A06:1900:101::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 0.933/0.933/0.933/0.000 ms
+--------------------------------------------------------------------------------
+Line: 1891
+Host: 192.168.205.29 (IP: 192.168.205.29)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 0.972/0.972/0.972/0.000 ms
+--------------------------------------------------------------------------------
+Line: 1899
+Host: 192.168.205.30 (IP: 192.168.205.30)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 4.051/4.051/4.051/0.000 ms
+--------------------------------------------------------------------------------
+Line: 1907
+Host: ipv6 (IP: 2409:8005:2806:900:7::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.456/2.456/2.456/0.000 ms
+--------------------------------------------------------------------------------
+Line: 1915
+Host: ipv6 (IP: 2409:8005:2806:900:7::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 3.250/3.250/3.250/0.000 ms
+--------------------------------------------------------------------------------
+Special Line: ===============ji_fang河北承德开发区机房cd_kaifaqu   10.126.219.243
+Line: 1943
+Host: 192.168.205.153 (IP: 192.168.205.153)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.239/2.239/2.239/0.000 ms
+--------------------------------------------------------------------------------
+Line: 1951
+Host: 192.168.205.154 (IP: 192.168.205.154)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.249/2.249/2.249/0.000 ms
+--------------------------------------------------------------------------------
+Line: 1959
+Host: ipv6 (IP: 2409:8005:2810:900:1::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 1.786/1.786/1.786/0.000 ms
+--------------------------------------------------------------------------------
+Line: 1967
+Host: ipv6 (IP: 2409:8005:2810:900:1::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 5.372/5.372/5.372/0.000 ms
+--------------------------------------------------------------------------------
+Line: 1975
+Host: 172.16.1.1 (IP: 172.16.1.1)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.705/2.705/2.705/0.000 ms
+--------------------------------------------------------------------------------
+Line: 1983
+Host: 172.16.1.2 (IP: 172.16.1.2)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.679/2.679/2.679/0.000 ms
+--------------------------------------------------------------------------------
+Line: 1997
+Host: 192.168.205.165 (IP: 192.168.205.165)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 0.968/0.968/0.968/0.000 ms
+--------------------------------------------------------------------------------
+Line: 2005
+Host: 192.168.205.166 (IP: 192.168.205.166)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.303/2.303/2.303/0.000 ms
+--------------------------------------------------------------------------------
+Line: 2013
+Host: ipv6 (IP: 2409:8005:2810:30::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.175/2.175/2.175/0.000 ms
+--------------------------------------------------------------------------------
+Line: 2021
+Host: ipv6 (IP: 2409:8005:2810:30::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 4.404/4.404/4.404/0.000 ms
+--------------------------------------------------------------------------------
+Special Line: ===============ji_fang河北承德武烈路机房cd_wulielu   10.126.220.3
+Line: 2049
+Host: 192.168.205.157 (IP: 192.168.205.157)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 1.073/1.073/1.073/0.000 ms
+--------------------------------------------------------------------------------
+Line: 2057
+Host: 192.168.205.158 (IP: 192.168.205.158)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.418/2.418/2.418/0.000 ms
+--------------------------------------------------------------------------------
+Line: 2065
+Host: ipv6 (IP: 2409:8005:2810:900:3::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.107/2.107/2.107/0.000 ms
+--------------------------------------------------------------------------------
+Line: 2073
+Host: ipv6 (IP: 2409:8005:2810:900:3::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.952/2.952/2.952/0.000 ms
+--------------------------------------------------------------------------------
+Line: 2081
+Host: 192.168.205.161 (IP: 192.168.205.161)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 0.813/0.813/0.813/0.000 ms
+--------------------------------------------------------------------------------
+Line: 2089
+Host: 192.168.205.162 (IP: 192.168.205.162)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.234/2.234/2.234/0.000 ms
+--------------------------------------------------------------------------------
+Line: 2097
+Host: ipv6 (IP: 2409:8005:2810:10::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.678/2.678/2.678/0.000 ms
+--------------------------------------------------------------------------------
+Line: 2105
+Host: ipv6 (IP: 2409:8005:2810:10::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 4.528/4.528/4.528/0.000 ms
+--------------------------------------------------------------------------------
+Special Line: ===============ji_fang河北秦皇岛生产楼机房qhd_shengchanlou 10.126.220.83
+Line: 2133
+Host: 192.168.205.145 (IP: 192.168.205.145)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 1.134/1.134/1.134/0.000 ms
+--------------------------------------------------------------------------------
+Line: 2141
+Host: 192.168.205.146 (IP: 192.168.205.146)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.121/2.121/2.121/0.000 ms
+--------------------------------------------------------------------------------
+Line: 2149
+Host: ipv6 (IP: 2409:8005:2809:900:1::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 1.967/1.967/1.967/0.000 ms
+--------------------------------------------------------------------------------
+Line: 2157
+Host: ipv6 (IP: 2409:8005:2809:900:1::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 5.778/5.778/5.778/0.000 ms
+--------------------------------------------------------------------------------
+Line: 2165
+Host: 172.22.0.1 (IP: 172.22.0.1)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 0.844/0.844/0.844/0.000 ms
+--------------------------------------------------------------------------------
+Line: 2173
+Host: 172.22.0.2 (IP: 172.22.0.2)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 4.414/4.414/4.414/0.000 ms
+--------------------------------------------------------------------------------
+Line: 2181
+Host: ipv6 (IP: 2409:8005:2A09:0900:1::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 1.588/1.588/1.588/0.000 ms
+--------------------------------------------------------------------------------
+Line: 2189
+Host: ipv6 (IP: 2409:8005:2A09:0900:1::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 5.678/5.678/5.678/0.000 ms
+--------------------------------------------------------------------------------
+Line: 2197
+Host: 192.168.205.137 (IP: 192.168.205.137)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 1.170/1.170/1.170/0.000 ms
+--------------------------------------------------------------------------------
+Line: 2205
+Host: 192.168.205.138 (IP: 192.168.205.138)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.205/2.205/2.205/0.000 ms
+--------------------------------------------------------------------------------
+Line: 2213
+Host: ipv6 (IP: 2409:8005:2809:10::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.092/2.092/2.092/0.000 ms
+--------------------------------------------------------------------------------
+Line: 2221
+Host: ipv6 (IP: 2409:8005:2809:10::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 4.756/4.756/4.756/0.000 ms
+--------------------------------------------------------------------------------
+Special Line: ===============ji_fang河北秦皇岛综合楼机房qhd_zonghelou 10.126.220.100
+Line: 2249
+Host: 192.168.205.149 (IP: 192.168.205.149)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 0.974/0.974/0.974/0.000 ms
+--------------------------------------------------------------------------------
+Line: 2257
+Host: 192.168.205.150 (IP: 192.168.205.150)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 1.859/1.859/1.859/0.000 ms
+--------------------------------------------------------------------------------
+Line: 2265
+Host: ipv6 (IP: 2409:8005:2809:900:3::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 3.135/3.135/3.135/0.000 ms
+--------------------------------------------------------------------------------
+Line: 2273
+Host: ipv6 (IP: 2409:8005:2809:900:3::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 5.560/5.560/5.560/0.000 ms
+--------------------------------------------------------------------------------
+Line: 2281
+Host: 192.168.205.141 (IP: 192.168.205.141)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 1.636/1.636/1.636/0.000 ms
+--------------------------------------------------------------------------------
+Line: 2289
+Host: 192.168.205.142 (IP: 192.168.205.142)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 3.609/3.609/3.609/0.000 ms
+--------------------------------------------------------------------------------
+Line: 2297
+Host: ipv6 (IP: 2409:8005:2809:30::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.019/2.019/2.019/0.000 ms
+--------------------------------------------------------------------------------
+Line: 2305
+Host: ipv6 (IP: 2409:8005:2809:30::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 7.977/7.977/7.977/0.000 ms
+--------------------------------------------------------------------------------
+Special Line: ===============ji_fang河北张家口宝善街机房zjk_baoshanjie 10.126.220.179
+Line: 2333
+Host: 192.168.205.129 (IP: 192.168.205.129)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 0.957/0.957/0.957/0.000 ms
+--------------------------------------------------------------------------------
+Line: 2341
+Host: 192.168.205.130 (IP: 192.168.205.130)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.395/2.395/2.395/0.000 ms
+--------------------------------------------------------------------------------
+Line: 2349
+Host: ipv6 (IP: 2409:8005:2811:10::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.010/2.010/2.010/0.000 ms
+--------------------------------------------------------------------------------
+Line: 2357
+Host: ipv6 (IP: 2409:8005:2811:10::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 5.332/5.332/5.332/0.000 ms
+--------------------------------------------------------------------------------
+Special Line: ===============ji_fang河北张家口纬三路机房zjk_weisanlu 10.126.220.196
+Line: 2385
+Host: 192.168.205.125 (IP: 192.168.205.125)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.841/2.841/2.841/0.000 ms
+--------------------------------------------------------------------------------
+Line: 2393
+Host: 192.168.205.126 (IP: 192.168.205.126)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 1.995/1.995/1.995/0.000 ms
+--------------------------------------------------------------------------------
+Line: 2401
+Host: ipv6 (IP: 2409:8005:2811:900:1::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.139/2.139/2.139/0.000 ms
+--------------------------------------------------------------------------------
+Line: 2409
+Host: ipv6 (IP: 2409:8005:2811:900:1::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 6.478/6.478/6.478/0.000 ms
+--------------------------------------------------------------------------------
+Line: 2417
+Host: 192.168.150.1 (IP: 192.168.150.1)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 1.025/1.025/1.025/0.000 ms
+--------------------------------------------------------------------------------
+Line: 2425
+Host: 192.168.150.2 (IP: 192.168.150.2)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 4.157/4.157/4.157/0.000 ms
+--------------------------------------------------------------------------------
+Line: 2433
+Host: ipv6 (IP: 2409:8005:2A0B:0900:1::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.059/2.059/2.059/0.000 ms
+--------------------------------------------------------------------------------
+Line: 2441
+Host: ipv6 (IP: 2409:8005:2A0B:0900:1::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 5.065/5.065/5.065/0.000 ms
+--------------------------------------------------------------------------------
+Line: 2449
+Host: 192.168.205.133 (IP: 192.168.205.133)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 0.927/0.927/0.927/0.000 ms
+--------------------------------------------------------------------------------
+Line: 2457
+Host: 192.168.205.134 (IP: 192.168.205.134)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.208/2.208/2.208/0.000 ms
+--------------------------------------------------------------------------------
+Line: 2465
+Host: ipv6 (IP: 2409:8005:2811:30::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.172/2.172/2.172/0.000 ms
+--------------------------------------------------------------------------------
+Line: 2473
+Host: ipv6 (IP: 2409:8005:2811:30::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 4.578/4.578/4.578/0.000 ms
+--------------------------------------------------------------------------------
+Special Line: ===============ji_fang河北唐山丰南机房ts_fengnan 10.126.219.165
+Line: 2501
+Host: 192.168.205.109 (IP: 192.168.205.109)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 3.642/3.642/3.642/0.000 ms
+--------------------------------------------------------------------------------
+Line: 2509
+Host: 192.168.205.110 (IP: 192.168.205.110)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.244/2.244/2.244/0.000 ms
+--------------------------------------------------------------------------------
+Line: 2517
+Host: ipv6 (IP: 2409:8005:2808:900:1::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.516/2.516/2.516/0.000 ms
+--------------------------------------------------------------------------------
+Line: 2525
+Host: ipv6 (IP: 2409:8005:2808:900:1::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 5.591/5.591/5.591/0.000 ms
+--------------------------------------------------------------------------------
+Line: 2533
+Host: 192.168.2.1 (IP: 192.168.2.1)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 0.988/0.988/0.988/0.000 ms
+--------------------------------------------------------------------------------
+Line: 2541
+Host: 192.168.2.2 (IP: 192.168.2.2)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.289/2.289/2.289/0.000 ms
+--------------------------------------------------------------------------------
+Line: 2549
+Host: ipv6 (IP: 2409:8005:2A08:1A00:101::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.057/2.057/2.057/0.000 ms
+--------------------------------------------------------------------------------
+Line: 2557
+Host: ipv6 (IP: 2409:8005:2A08:1A00:101::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 3.271/3.271/3.271/0.000 ms
+--------------------------------------------------------------------------------
+Line: 2565
+Host: 192.168.205.117 (IP: 192.168.205.117)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 0.931/0.931/0.931/0.000 ms
+--------------------------------------------------------------------------------
+Line: 2573
+Host: 192.168.205.118 (IP: 192.168.205.118)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.569/2.569/2.569/0.000 ms
+--------------------------------------------------------------------------------
+Line: 2581
+Host: ipv6 (IP: 2409:8005:2808:900:5::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.078/2.078/2.078/0.000 ms
+--------------------------------------------------------------------------------
+Line: 2589
+Host: ipv6 (IP: 2409:8005:2808:900:5::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 3.558/3.558/3.558/0.000 ms
+--------------------------------------------------------------------------------
+Line: 2597
+Host: 192.168.250.17 (IP: 192.168.250.17)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 0.997/0.997/0.997/0.000 ms
+--------------------------------------------------------------------------------
+Line: 2605
+Host: 192.168.250.18 (IP: 192.168.250.18)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.805/2.805/2.805/0.000 ms
+--------------------------------------------------------------------------------
+Line: 2613
+Host: ipv6 (IP: 2409:8004:2882:10B0::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.021/2.021/2.021/0.000 ms
+--------------------------------------------------------------------------------
+Line: 2621
+Host: ipv6 (IP: 2409:8004:2882:10B0::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 7.485/7.485/7.485/0.000 ms
+--------------------------------------------------------------------------------
+Special Line: ===============ji_fang河北唐山天元机房ts_tianyuan 10.126.220.132
+Line: 2649
+Host: 192.168.205.121 (IP: 192.168.205.121)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 1.193/1.193/1.193/0.000 ms
+--------------------------------------------------------------------------------
+Line: 2657
+Host: 192.168.205.122 (IP: 192.168.205.122)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.240/2.240/2.240/0.000 ms
+--------------------------------------------------------------------------------
+Line: 2665
+Host: ipv6 (IP: 2409:8005:2808:900:7::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.126/2.126/2.126/0.000 ms
+--------------------------------------------------------------------------------
+Line: 2673
+Host: ipv6 (IP: 2409:8005:2808:900:7::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 3.642/3.642/3.642/0.000 ms
+--------------------------------------------------------------------------------
+Line: 2681
+Host: 192.168.2.5 (IP: 192.168.2.5)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 3.661/3.661/3.661/0.000 ms
+--------------------------------------------------------------------------------
+Line: 2689
+Host: 192.168.2.6 (IP: 192.168.2.6)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.868/2.868/2.868/0.000 ms
+--------------------------------------------------------------------------------
+Line: 2697
+Host: ipv6 (IP: 2409:8005:2A08:1A00:103::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.085/2.085/2.085/0.000 ms
+--------------------------------------------------------------------------------
+Line: 2705
+Host: ipv6 (IP: 2409:8005:2A08:1A00:103::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.729/2.729/2.729/0.000 ms
+--------------------------------------------------------------------------------
+Line: 2713
+Host: 192.168.205.113 (IP: 192.168.205.113)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 0.955/0.955/0.955/0.000 ms
+--------------------------------------------------------------------------------
+Line: 2721
+Host: 192.168.205.114 (IP: 192.168.205.114)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 1.947/1.947/1.947/0.000 ms
+--------------------------------------------------------------------------------
+Line: 2729
+Host: ipv6 (IP: 2409:8005:2808:900:3::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 1.984/1.984/1.984/0.000 ms
+--------------------------------------------------------------------------------
+Line: 2737
+Host: ipv6 (IP: 2409:8005:2808:900:3::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 6.131/6.131/6.131/0.000 ms
+--------------------------------------------------------------------------------
+Line: 2745
+Host: 192.168.250.25 (IP: 192.168.250.25)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 0.929/0.929/0.929/0.000 ms
+--------------------------------------------------------------------------------
+Line: 2753
+Host: 192.168.250.26 (IP: 192.168.250.26)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 6.598/6.598/6.598/0.000 ms
+--------------------------------------------------------------------------------
+Line: 2761
+Host: ipv6 (IP: 2409:8004:2882:1010::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 1.696/1.696/1.696/0.000 ms
+--------------------------------------------------------------------------------
+Line: 2769
+Host: ipv6 (IP: 2409:8004:2882:1010::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 9.273/9.273/9.273/0.000 ms
+--------------------------------------------------------------------------------
+Special Line: ===============ji_fang河北廊坊数据中心机房lf_shujuzhongxin 10.126.220.213
+Line: 2797
+Host: 192.168.205.173 (IP: 192.168.205.173)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 0.784/0.784/0.784/0.000 ms
+--------------------------------------------------------------------------------
+Line: 2805
+Host: 192.168.205.174 (IP: 192.168.205.174)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 6.185/6.185/6.185/0.000 ms
+--------------------------------------------------------------------------------
+Line: 2813
+Host: ipv6 (IP: 2409:8005:2807:900:3::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.665/2.665/2.665/0.000 ms
+--------------------------------------------------------------------------------
+Line: 2821
+Host: ipv6 (IP: 2409:8005:2807:900:3::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 3.255/3.255/3.255/0.000 ms
+--------------------------------------------------------------------------------
+Special Line: ===============ji_fang河北廊坊移动大楼机房lf_yidongdalou 10.126.220.67
+Line: 2849
+Host: 192.168.205.105 (IP: 192.168.205.105)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 1.109/1.109/1.109/0.000 ms
+--------------------------------------------------------------------------------
+Line: 2857
+Host: 192.168.205.106 (IP: 192.168.205.106)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 1.895/1.895/1.895/0.000 ms
+--------------------------------------------------------------------------------
+Line: 2865
+Host: ipv6 (IP: 2409:8005:2807:900:1::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 1.826/1.826/1.826/0.000 ms
+--------------------------------------------------------------------------------
+Line: 2873
+Host: ipv6 (IP: 2409:8005:2807:900:1::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 4.906/4.906/4.906/0.000 ms
+--------------------------------------------------------------------------------
+Line: 2881
+Host: 192.168.110.1 (IP: 192.168.110.1)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 0.874/0.874/0.874/0.000 ms
+--------------------------------------------------------------------------------
+Line: 2889
+Host: 192.168.110.2 (IP: 192.168.110.2)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 3.283/3.283/3.283/0.000 ms
+--------------------------------------------------------------------------------
+Line: 2897
+Host: ipv6 (IP: 2409:8005:2A07:0900:1::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.510/2.510/2.510/0.000 ms
+--------------------------------------------------------------------------------
+Line: 2905
+Host: ipv6 (IP: 2409:8005:2A07:0900:1::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 5.727/5.727/5.727/0.000 ms
+--------------------------------------------------------------------------------
+Special Line: ===============ji_fang河北错误机房验证_无需理会结果  cuowu_yanzheng

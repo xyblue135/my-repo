@@ -1,0 +1,895 @@
+ji_fang河北石家庄开发区机房sjz_kaifaqu 10.126.219.132
+spawn ssh -o HostKeyAlgorithms=+ssh-rsa -o PubkeyAcceptedKeyTypes=+ssh-rsa weihu@10.126.219.132
+weihu@10.126.219.132's password: 
+******************************************************************************
+* Copyright (c) 2004-2022 New H3C Technologies Co., Ltd. All rights reserved.*
+* Without the owner's prior written consent,                                 *
+* no decompiling or reverse-engineering shall be allowed.                    *
+******************************************************************************
+
+<HE-SJZKFQ-EYCX-S5554S-EI-D-1>display interface GigabitEthernet1/0/3 brief
+Brief information on interfaces in bridge mode:
+Link: ADM - administratively down; Stby - standby
+Speed: (a) - auto
+Duplex: (a)/A - auto; H - half; F - full
+Type: A - access; T - trunk; H - hybrid
+Interface            Link Speed     Duplex Type PVID Description              
+GE1/0/3              UP   1G(a)     F(a)   T    1    To_L02-HE-SJZKFQ-EYCX-SPI
+<HE-SJZKFQ-EYCX-S5554S-EI-D-1>display interface GigabitEthernet1/0/6 brief
+Brief information on interfaces in bridge mode:
+Link: ADM - administratively down; Stby - standby
+Speed: (a) - auto
+Duplex: (a)/A - auto; H - half; F - full
+Type: A - access; T - trunk; H - hybrid
+Interface            Link Speed     Duplex Type PVID Description              
+GE1/0/6              UP   1G(a)     F(a)   T    1    To_L02-HE-SJZKFQ-EYCX-SPI
+<HE-SJZKFQ-EYCX-S5554S-EI-D-1>display interface GigabitEthernet1/0/9 brief
+Brief information on interfaces in bridge mode:
+Link: ADM - administratively down; Stby - standby
+Speed: (a) - auto
+Duplex: (a)/A - auto; H - half; F - full
+Type: A - access; T - trunk; H - hybrid
+Interface            Link Speed     Duplex Type PVID Description              
+GE1/0/9              UP   1G(a)     F(a)   T    1    To_L03-HE-SJZKFQ-EYCX-SPI
+<HE-SJZKFQ-EYCX-S5554S-EI-D-1>display interface GigabitEthernet1/0/12 brief
+Brief information on interfaces in bridge mode:
+Link: ADM - administratively down; Stby - standby
+Speed: (a) - auto
+Duplex: (a)/A - auto; H - half; F - full
+Type: A - access; T - trunk; H - hybrid
+Interface            Link Speed     Duplex Type PVID Description              
+GE1/0/12             UP   1G(a)     F(a)   T    1    To_L06-HE-SJZKFQ-EYCX-SPI
+<HE-SJZKFQ-EYCX-S5554S-EI-D-1>display interface GigabitEthernet1/0/15 brief
+Brief information on interfaces in bridge mode:
+Link: ADM - administratively down; Stby - standby
+Speed: (a) - auto
+Duplex: (a)/A - auto; H - half; F - full
+Type: A - access; T - trunk; H - hybrid
+Interface            Link Speed     Duplex Type PVID Description              
+GE1/0/15             UP   1G(a)     F(a)   T    1    To_L07-HE-SJZKFQ-EYCX-SPI
+<HE-SJZKFQ-EYCX-S5554S-EI-D-1>exit
+Connection to 10.126.219.132 closed.
+ji_fang河北石家庄东风路机房sjz_dongfenglu 10.126.219.101
+spawn ssh -o HostKeyAlgorithms=+ssh-rsa -o PubkeyAcceptedKeyTypes=+ssh-rsa weihu@10.126.219.101
+weihu@10.126.219.101's password: 
+******************************************************************************
+* Copyright (c) 2004-2022 New H3C Technologies Co., Ltd. All rights reserved.*
+* Without the owner's prior written consent,                                 *
+* no decompiling or reverse-engineering shall be allowed.                    *
+******************************************************************************
+
+<HE-SJZDFL-EYCX-S5554S-EI-D-1>display interface GigabitEthernet1/0/3 brief
+Brief information on interfaces in bridge mode:
+Link: ADM - administratively down; Stby - standby
+Speed: (a) - auto
+Duplex: (a)/A - auto; H - half; F - full
+Type: A - access; T - trunk; H - hybrid
+Interface            Link Speed     Duplex Type PVID Description              
+GE1/0/3              UP   1G(a)     F(a)   T    1    To_L08-SJZDFL-EYCX-SPI811
+<HE-SJZDFL-EYCX-S5554S-EI-D-1>display interface GigabitEthernet1/0/6 brief
+Brief information on interfaces in bridge mode:
+Link: ADM - administratively down; Stby - standby
+Speed: (a) - auto
+Duplex: (a)/A - auto; H - half; F - full
+Type: A - access; T - trunk; H - hybrid
+Interface            Link Speed     Duplex Type PVID Description              
+GE1/0/6              UP   1G(a)     F(a)   T    1    To_L08-SJZDFL-EYCX-SPI811
+<HE-SJZDFL-EYCX-S5554S-EI-D-1>display interface GigabitEthernet1/0/9 brief
+Brief information on interfaces in bridge mode:
+Link: ADM - administratively down; Stby - standby
+Speed: (a) - auto
+Duplex: (a)/A - auto; H - half; F - full
+Type: A - access; T - trunk; H - hybrid
+Interface            Link Speed     Duplex Type PVID Description              
+GE1/0/9              UP   1G(a)     F(a)   T    1    To_L08-SJZDFL-EYCX-SPI811
+<HE-SJZDFL-EYCX-S5554S-EI-D-1>exit
+Connection to 10.126.219.101 closed.
+ji_fang河北石家庄鹿泉机房sjz_luquan 10.126.220.115
+spawn ssh -o HostKeyAlgorithms=+ssh-rsa -o PubkeyAcceptedKeyTypes=+ssh-rsa weihu@10.126.220.115
+weihu@10.126.220.115's password: 
+******************************************************************************
+* Copyright (c) 2004-2022 New H3C Technologies Co., Ltd. All rights reserved.*
+* Without the owner's prior written consent,                                 *
+* no decompiling or reverse-engineering shall be allowed.                    *
+******************************************************************************
+
+<HE-SJZLQ-EYCX-S5554S-EI-D-1>display interface GigabitEthernet1/0/3 brief
+Brief information on interfaces in bridge mode:
+Link: ADM - administratively down; Stby - standby
+Speed: (a) - auto
+Duplex: (a)/A - auto; H - half; F - full
+Type: A - access; T - trunk; H - hybrid
+Interface            Link Speed     Duplex Type PVID Description              
+GE1/0/3              UP   1G(a)     F(a)   T    1    To_I13-HE-SJZLQ-EYCX-SPI8
+<HE-SJZLQ-EYCX-S5554S-EI-D-1>display interface GigabitEthernet1/0/10 brief
+Brief information on interfaces in bridge mode:
+Link: ADM - administratively down; Stby - standby
+Speed: (a) - auto
+Duplex: (a)/A - auto; H - half; F - full
+Type: A - access; T - trunk; H - hybrid
+Interface            Link Speed     Duplex Type PVID Description              
+GE1/0/10             UP   1G(a)     F(a)   T    1    To_I13-HE-SJZLQ-EYCX-SPI8
+<HE-SJZLQ-EYCX-S5554S-EI-D-1>display interface GigabitEthernet1/0/13 brief
+Brief information on interfaces in bridge mode:
+Link: ADM - administratively down; Stby - standby
+Speed: (a) - auto
+Duplex: (a)/A - auto; H - half; F - full
+Type: A - access; T - trunk; H - hybrid
+Interface            Link Speed     Duplex Type PVID Description              
+GE1/0/13             UP   1G(a)     F(a)   T    1    To_I13-HE-SJZLQ-EYCX-SPI8
+<HE-SJZLQ-EYCX-S5554S-EI-D-1>display interface GigabitEthernet1/0/16 brief
+Brief information on interfaces in bridge mode:
+Link: ADM - administratively down; Stby - standby
+Speed: (a) - auto
+Duplex: (a)/A - auto; H - half; F - full
+Type: A - access; T - trunk; H - hybrid
+Interface            Link Speed     Duplex Type PVID Description              
+GE1/0/16             UP   1G(a)     F(a)   T    1    To_I13-HE-SJZLQ-EYCX-SPI8
+<HE-SJZLQ-EYCX-S5554S-EI-D-1>exit
+Connection to 10.126.220.115 closed.
+ji_fang河北衡水和平路机房hs_hepinglu 10.126.220.35
+spawn ssh -o HostKeyAlgorithms=+ssh-rsa -o PubkeyAcceptedKeyTypes=+ssh-rsa weihu@10.126.220.35
+weihu@10.126.220.35's password: 
+******************************************************************************
+* Copyright (c) 2004-2022 New H3C Technologies Co., Ltd. All rights reserved.*
+* Without the owner's prior written consent,                                 *
+* no decompiling or reverse-engineering shall be allowed.                    *
+******************************************************************************
+
+<HE-HSTCQ-EYCX-S5554S-EI-D-1>display interface GigabitEthernet1/0/3 brief
+Brief information on interfaces in bridge mode:
+Link: ADM - administratively down; Stby - standby
+Speed: (a) - auto
+Duplex: (a)/A - auto; H - half; F - full
+Type: A - access; T - trunk; H - hybrid
+Interface            Link Speed     Duplex Type PVID Description              
+GE1/0/3              UP   1G(a)     F(a)   T    1    To_G04-HSTCQ-EYCX-SPI8110
+<HE-HSTCQ-EYCX-S5554S-EI-D-1>display interface GigabitEthernet1/0/9 brief
+Brief information on interfaces in bridge mode:
+Link: ADM - administratively down; Stby - standby
+Speed: (a) - auto
+Duplex: (a)/A - auto; H - half; F - full
+Type: A - access; T - trunk; H - hybrid
+Interface            Link Speed     Duplex Type PVID Description              
+GE1/0/9              UP   1G(a)     F(a)   T    1    To_G04-HSTCQ-EYCX-SPI8110
+<HE-HSTCQ-EYCX-S5554S-EI-D-1>exit
+Connection to 10.126.220.35 closed.
+ji_fang河北衡水人民路机房hs_renminlu 10.126.220.51
+spawn ssh -o HostKeyAlgorithms=+ssh-rsa -o PubkeyAcceptedKeyTypes=+ssh-rsa weihu@10.126.220.51
+weihu@10.126.220.51's password: 
+******************************************************************************
+* Copyright (c) 2004-2022 New H3C Technologies Co., Ltd. All rights reserved.*
+* Without the owner's prior written consent,                                 *
+* no decompiling or reverse-engineering shall be allowed.                    *
+******************************************************************************
+
+<HE-HSRML-EYCX-S5554S-EI-D-1>display interface GigabitEthernet1/0/3 brief
+Brief information on interfaces in bridge mode:
+Link: ADM - administratively down; Stby - standby
+Speed: (a) - auto
+Duplex: (a)/A - auto; H - half; F - full
+Type: A - access; T - trunk; H - hybrid
+Interface            Link Speed     Duplex Type PVID Description              
+GE1/0/3              UP   1G(a)     F(a)   T    1    To_F08-HE-HSRML-EYCX-SPI8
+<HE-HSRML-EYCX-S5554S-EI-D-1>display interface GigabitEthernet1/0/8 brief
+Brief information on interfaces in bridge mode:
+Link: ADM - administratively down; Stby - standby
+Speed: (a) - auto
+Duplex: (a)/A - auto; H - half; F - full
+Type: A - access; T - trunk; H - hybrid
+Interface            Link Speed     Duplex Type PVID Description              
+GE1/0/8              UP   1G(a)     F(a)   T    1    To_F08-HE-HSRML-EYCX-SPI8
+<HE-HSRML-EYCX-S5554S-EI-D-1>exit
+Connection to 10.126.220.51 closed.
+ji_fang河北邯郸全球通机房hd_quanqiutong 10.126.219.69
+spawn ssh -o HostKeyAlgorithms=+ssh-rsa -o PubkeyAcceptedKeyTypes=+ssh-rsa weihu@10.126.219.69
+weihu@10.126.219.69's password: 
+******************************************************************************
+* Copyright (c) 2004-2022 New H3C Technologies Co., Ltd. All rights reserved.*
+* Without the owner's prior written consent,                                 *
+* no decompiling or reverse-engineering shall be allowed.                    *
+******************************************************************************
+
+<HE-HDQQT-EYCX-S5554S-EI-D-1>display interface GigabitEthernet1/0/3 brief
+Brief information on interfaces in bridge mode:
+Link: ADM - administratively down; Stby - standby
+Speed: (a) - auto
+Duplex: (a)/A - auto; H - half; F - full
+Type: A - access; T - trunk; H - hybrid
+Interface            Link Speed     Duplex Type PVID Description              
+GE1/0/3              UP   1G(a)     F(a)   T    1    To_15L9G-HE-HDQQT-EYCX-SP
+<HE-HDQQT-EYCX-S5554S-EI-D-1>display interface GigabitEthernet1/0/6 brief
+Brief information on interfaces in bridge mode:
+Link: ADM - administratively down; Stby - standby
+Speed: (a) - auto
+Duplex: (a)/A - auto; H - half; F - full
+Type: A - access; T - trunk; H - hybrid
+Interface            Link Speed     Duplex Type PVID Description              
+GE1/0/6              UP   1G(a)     F(a)   T    1    To_15L9G-HE-HDQQT-EYCX-SP
+<HE-HDQQT-EYCX-S5554S-EI-D-1>display interface GigabitEthernet1/0/9 brief
+Brief information on interfaces in bridge mode:
+Link: ADM - administratively down; Stby - standby
+Speed: (a) - auto
+Duplex: (a)/A - auto; H - half; F - full
+Type: A - access; T - trunk; H - hybrid
+Interface            Link Speed     Duplex Type PVID Description              
+GE1/0/9              UP   1G(a)     F(a)   T    1    To_15L9G-HE-HDQQT-EYCX-SP
+<HE-HDQQT-EYCX-S5554S-EI-D-1>display interface GigabitEthernet1/0/16 brief
+Brief information on interfaces in bridge mode:
+Link: ADM - administratively down; Stby - standby
+Speed: (a) - auto
+Duplex: (a)/A - auto; H - half; F - full
+Type: A - access; T - trunk; H - hybrid
+Interface            Link Speed     Duplex Type PVID Description              
+GE1/0/16             UP   1G(a)     F(a)   T    1    To_15L9G-HE-HDQQT-EYCX-SP
+<HE-HDQQT-EYCX-S5554S-EI-D-1>exit
+Connection to 10.126.219.69 closed.
+ji_fang河北邯郸yidongdasha机房hd_yidongdasha  10.126.220.19
+spawn ssh -o HostKeyAlgorithms=+ssh-rsa -o PubkeyAcceptedKeyTypes=+ssh-rsa weihu@10.126.220.19
+weihu@10.126.220.19's password: 
+******************************************************************************
+* Copyright (c) 2004-2022 New H3C Technologies Co., Ltd. All rights reserved.*
+* Without the owner's prior written consent,                                 *
+* no decompiling or reverse-engineering shall be allowed.                    *
+******************************************************************************
+
+<HE-HDYDDS-EYCX-S5554S-EI-D-1>display interface GigabitEthernet1/0/3 brief
+Brief information on interfaces in bridge mode:
+Link: ADM - administratively down; Stby - standby
+Speed: (a) - auto
+Duplex: (a)/A - auto; H - half; F - full
+Type: A - access; T - trunk; H - hybrid
+Interface            Link Speed     Duplex Type PVID Description              
+GE1/0/3              UP   1G(a)     F(a)   T    1    To_12L10G-HE-HDYDDS-EYCX-
+<HE-HDYDDS-EYCX-S5554S-EI-D-1>display interface GigabitEthernet1/0/9 brief
+Brief information on interfaces in bridge mode:
+Link: ADM - administratively down; Stby - standby
+Speed: (a) - auto
+Duplex: (a)/A - auto; H - half; F - full
+Type: A - access; T - trunk; H - hybrid
+Interface            Link Speed     Duplex Type PVID Description              
+GE1/0/9              UP   1G(a)     F(a)   T    1    To_12L10G-HE-HDYDDS-EYCX-
+<HE-HDYDDS-EYCX-S5554S-EI-D-1>display interface GigabitEthernet1/0/12 brief
+Brief information on interfaces in bridge mode:
+Link: ADM - administratively down; Stby - standby
+Speed: (a) - auto
+Duplex: (a)/A - auto; H - half; F - full
+Type: A - access; T - trunk; H - hybrid
+Interface            Link Speed     Duplex Type PVID Description              
+GE1/0/12             UP   1G(a)     F(a)   T    1    To_12L10G-HE-HDYDDS-EYCX-
+<HE-HDYDDS-EYCX-S5554S-EI-D-1>exit
+Connection to 10.126.220.19 closed.
+ji_fang河北邢台东环机房xt_donghuan 10.126.220.148
+spawn ssh -o HostKeyAlgorithms=+ssh-rsa -o PubkeyAcceptedKeyTypes=+ssh-rsa weihu@10.126.220.148
+weihu@10.126.220.148's password: 
+******************************************************************************
+* Copyright (c) 2004-2022 New H3C Technologies Co., Ltd. All rights reserved.*
+* Without the owner's prior written consent,                                 *
+* no decompiling or reverse-engineering shall be allowed.                    *
+******************************************************************************
+
+<HE-XTDH-EYCX-S5554S-EI-D-1>display interface GigabitEthernet1/0/3 brief
+Brief information on interfaces in bridge mode:
+Link: ADM - administratively down; Stby - standby
+Speed: (a) - auto
+Duplex: (a)/A - auto; H - half; F - full
+Type: A - access; T - trunk; H - hybrid
+Interface            Link Speed     Duplex Type PVID Description              
+GE1/0/3              UP   1G(a)     F(a)   T    1    To_I10-HE-XTDH-EYCX-SPI81
+<HE-XTDH-EYCX-S5554S-EI-D-1>display interface GigabitEthernet1/0/6 brief
+Brief information on interfaces in bridge mode:
+Link: ADM - administratively down; Stby - standby
+Speed: (a) - auto
+Duplex: (a)/A - auto; H - half; F - full
+Type: A - access; T - trunk; H - hybrid
+Interface            Link Speed     Duplex Type PVID Description              
+GE1/0/6              UP   1G(a)     F(a)   T    1    To_I10-HE-XTDH-EYCX-SPI81
+<HE-XTDH-EYCX-S5554S-EI-D-1>display interface GigabitEthernet1/0/12 brief
+Brief information on interfaces in bridge mode:
+Link: ADM - administratively down; Stby - standby
+Speed: (a) - auto
+Duplex: (a)/A - auto; H - half; F - full
+Type: A - access; T - trunk; H - hybrid
+Interface            Link Speed     Duplex Type PVID Description              
+GE1/0/12             UP   1G(a)     F(a)   T    1    To_I10-HE-XTDH-EYCX-SPI81
+<HE-XTDH-EYCX-S5554S-EI-D-1>exit
+Connection to 10.126.220.148 closed.
+ji_fang河北邢台综合楼机房xt_zonghelou 10.126.220.163
+spawn ssh -o HostKeyAlgorithms=+ssh-rsa -o PubkeyAcceptedKeyTypes=+ssh-rsa weihu@10.126.220.163
+weihu@10.126.220.163's password: 
+******************************************************************************
+* Copyright (c) 2004-2022 New H3C Technologies Co., Ltd. All rights reserved.*
+* Without the owner's prior written consent,                                 *
+* no decompiling or reverse-engineering shall be allowed.                    *
+******************************************************************************
+
+<HE-XTZHL-EYCX-S5554S-EI-D-1>display interface GigabitEthernet1/0/3 brief
+Brief information on interfaces in bridge mode:
+Link: ADM - administratively down; Stby - standby
+Speed: (a) - auto
+Duplex: (a)/A - auto; H - half; F - full
+Type: A - access; T - trunk; H - hybrid
+Interface            Link Speed     Duplex Type PVID Description              
+GE1/0/3              UP   1G(a)     F(a)   T    1    To_E08-HE-XTZHL-EYCX-SPI8
+<HE-XTZHL-EYCX-S5554S-EI-D-1>display interface GigabitEthernet1/0/7 brief
+Brief information on interfaces in bridge mode:
+Link: ADM - administratively down; Stby - standby
+Speed: (a) - auto
+Duplex: (a)/A - auto; H - half; F - full
+Type: A - access; T - trunk; H - hybrid
+Interface            Link Speed     Duplex Type PVID Description              
+GE1/0/7              UP   1G(a)     F(a)   T    1    To_E08-HE-XTZHL-EYCX-SPI8
+<HE-XTZHL-EYCX-S5554S-EI-D-1>display interface GigabitEthernet1/0/10 brief
+Brief information on interfaces in bridge mode:
+Link: ADM - administratively down; Stby - standby
+Speed: (a) - auto
+Duplex: (a)/A - auto; H - half; F - full
+Type: A - access; T - trunk; H - hybrid
+Interface            Link Speed     Duplex Type PVID Description              
+GE1/0/10             UP   1G(a)     F(a)   T    1    To_E08-HE-XTZHL-EYCX-SPI8
+<HE-XTZHL-EYCX-S5554S-EI-D-1>exit
+Connection to 10.126.220.163 closed.
+ji_fang河北沧州移动大楼机房cz_yidongdalou 10.126.219.227
+spawn ssh -o HostKeyAlgorithms=+ssh-rsa -o PubkeyAcceptedKeyTypes=+ssh-rsa weihu@10.126.219.227
+weihu@10.126.219.227's password: 
+******************************************************************************
+* Copyright (c) 2004-2022 New H3C Technologies Co., Ltd. All rights reserved.*
+* Without the owner's prior written consent,                                 *
+* no decompiling or reverse-engineering shall be allowed.                    *
+******************************************************************************
+
+<HE-CZYDDL-EYCX-S5554S-EI-D-1>display interface GigabitEthernet1/0/3 brief
+Brief information on interfaces in bridge mode:
+Link: ADM - administratively down; Stby - standby
+Speed: (a) - auto
+Duplex: (a)/A - auto; H - half; F - full
+Type: A - access; T - trunk; H - hybrid
+Interface            Link Speed     Duplex Type PVID Description              
+GE1/0/3              UP   1G(a)     F(a)   T    1    To_7L4G-HE-CZYDDL-EYCX-SP
+<HE-CZYDDL-EYCX-S5554S-EI-D-1>display interface GigabitEthernet1/0/10 brief
+Brief information on interfaces in bridge mode:
+Link: ADM - administratively down; Stby - standby
+Speed: (a) - auto
+Duplex: (a)/A - auto; H - half; F - full
+Type: A - access; T - trunk; H - hybrid
+Interface            Link Speed     Duplex Type PVID Description              
+GE1/0/10             UP   1G(a)     F(a)   T    1    To_7L4G-HE-CZYDDL-EYCX-SP
+<HE-CZYDDL-EYCX-S5554S-EI-D-1>display interface GigabitEthernet1/0/13 brief
+Brief information on interfaces in bridge mode:
+Link: ADM - administratively down; Stby - standby
+Speed: (a) - auto
+Duplex: (a)/A - auto; H - half; F - full
+Type: A - access; T - trunk; H - hybrid
+Interface            Link Speed     Duplex Type PVID Description              
+GE1/0/13             UP   1G(a)     F(a)   T    1    To_7L4G-HE-CZYDDL-EYCX-SP
+<HE-CZYDDL-EYCX-S5554S-EI-D-1>display interface GigabitEthernet1/0/16 brief
+Brief information on interfaces in bridge mode:
+Link: ADM - administratively down; Stby - standby
+Speed: (a) - auto
+Duplex: (a)/A - auto; H - half; F - full
+Type: A - access; T - trunk; H - hybrid
+Interface            Link Speed     Duplex Type PVID Description              
+GE1/0/16             UP   1G(a)     F(a)   T    1    To_7L4G-HE-CZYDDL-EYCX-SP
+<HE-CZYDDL-EYCX-S5554S-EI-D-1>exit
+Connection to 10.126.219.227 closed.
+ji_fang河北沧州枢纽楼机房cz_shuniulou 10.126.219.211
+spawn ssh -o HostKeyAlgorithms=+ssh-rsa -o PubkeyAcceptedKeyTypes=+ssh-rsa weihu@10.126.219.211
+weihu@10.126.219.211's password: 
+******************************************************************************
+* Copyright (c) 2004-2022 New H3C Technologies Co., Ltd. All rights reserved.*
+* Without the owner's prior written consent,                                 *
+* no decompiling or reverse-engineering shall be allowed.                    *
+******************************************************************************
+
+<HE-CZSNL-EYCX-S5554S-EI-D-1>display interface GigabitEthernet1/0/3 brief
+Brief information on interfaces in bridge mode:
+Link: ADM - administratively down; Stby - standby
+Speed: (a) - auto
+Duplex: (a)/A - auto; H - half; F - full
+Type: A - access; T - trunk; H - hybrid
+Interface            Link Speed     Duplex Type PVID Description              
+GE1/0/3              UP   1G(a)     F(a)   T    1    To_B8L10G-HE-CZSNL-EYCX-S
+<HE-CZSNL-EYCX-S5554S-EI-D-1>display interface GigabitEthernet1/0/9 brief
+Brief information on interfaces in bridge mode:
+Link: ADM - administratively down; Stby - standby
+Speed: (a) - auto
+Duplex: (a)/A - auto; H - half; F - full
+Type: A - access; T - trunk; H - hybrid
+Interface            Link Speed     Duplex Type PVID Description              
+GE1/0/9              UP   1G(a)     F(a)   T    1    To_B8L10G-HE-CZSNL-EYCX-S
+<HE-CZSNL-EYCX-S5554S-EI-D-1>display interface GigabitEthernet1/0/12 brief
+Brief information on interfaces in bridge mode:
+Link: ADM - administratively down; Stby - standby
+Speed: (a) - auto
+Duplex: (a)/A - auto; H - half; F - full
+Type: A - access; T - trunk; H - hybrid
+Interface            Link Speed     Duplex Type PVID Description              
+GE1/0/12             UP   1G(a)     F(a)   T    1    To_B8L10G-HE-CZSNL-EYCX-S
+<HE-CZSNL-EYCX-S5554S-EI-D-1>display interface GigabitEthernet1/0/15 brief
+Brief information on interfaces in bridge mode:
+Link: ADM - administratively down; Stby - standby
+Speed: (a) - auto
+Duplex: (a)/A - auto; H - half; F - full
+Type: A - access; T - trunk; H - hybrid
+Interface            Link Speed     Duplex Type PVID Description              
+GE1/0/15             UP   1G(a)     F(a)   T    1    To_B8L10G-HE-CZSNL-EYCX-S
+<HE-CZSNL-EYCX-S5554S-EI-D-1>display interface GigabitEthernet1/0/18 brief
+Brief information on interfaces in bridge mode:
+Link: ADM - administratively down; Stby - standby
+Speed: (a) - auto
+Duplex: (a)/A - auto; H - half; F - full
+Type: A - access; T - trunk; H - hybrid
+Interface            Link Speed     Duplex Type PVID Description              
+GE1/0/18             UP   1G(a)     F(a)   T    1    To_B8L10G-HE-CZSNL-EYCX-S
+<HE-CZSNL-EYCX-S5554S-EI-D-1>exit
+Connection to 10.126.219.211 closed.
+ji_fang河北保定数据中心机房bd_shujuzhongxin   10.126.219.40
+spawn ssh -o HostKeyAlgorithms=+ssh-rsa -o PubkeyAcceptedKeyTypes=+ssh-rsa weihu@10.126.219.40
+weihu@10.126.219.40's password: 
+******************************************************************************
+* Copyright (c) 2004-2022 New H3C Technologies Co., Ltd. All rights reserved.*
+* Without the owner's prior written consent,                                 *
+* no decompiling or reverse-engineering shall be allowed.                    *
+******************************************************************************
+
+<HE-BDSJZX-EYCX-S5554S-EI-D-1>display interface GigabitEthernet1/0/3 brief
+Brief information on interfaces in bridge mode:
+Link: ADM - administratively down; Stby - standby
+Speed: (a) - auto
+Duplex: (a)/A - auto; H - half; F - full
+Type: A - access; T - trunk; H - hybrid
+Interface            Link Speed     Duplex Type PVID Description              
+GE1/0/3              UP   1G(a)     F(a)   T    1    To_F08-HE-BDSJZX-EYCX-SPI
+<HE-BDSJZX-EYCX-S5554S-EI-D-1>display interface GigabitEthernet1/0/6 brief
+Brief information on interfaces in bridge mode:
+Link: ADM - administratively down; Stby - standby
+Speed: (a) - auto
+Duplex: (a)/A - auto; H - half; F - full
+Type: A - access; T - trunk; H - hybrid
+Interface            Link Speed     Duplex Type PVID Description              
+GE1/0/6              UP   1G(a)     F(a)   T    1    To_F08-HE-BDSJZX-EYCX-SPI
+<HE-BDSJZX-EYCX-S5554S-EI-D-1>display interface GigabitEthernet1/0/9 brief
+Brief information on interfaces in bridge mode:
+Link: ADM - administratively down; Stby - standby
+Speed: (a) - auto
+Duplex: (a)/A - auto; H - half; F - full
+Type: A - access; T - trunk; H - hybrid
+Interface            Link Speed     Duplex Type PVID Description              
+GE1/0/9              UP   1G(a)     F(a)   T    1    To_F08-HE-BDSJZX-EYCX-SPI
+<HE-BDSJZX-EYCX-S5554S-EI-D-1>display interface GigabitEthernet1/0/12 brief
+Brief information on interfaces in bridge mode:
+Link: ADM - administratively down; Stby - standby
+Speed: (a) - auto
+Duplex: (a)/A - auto; H - half; F - full
+Type: A - access; T - trunk; H - hybrid
+Interface            Link Speed     Duplex Type PVID Description              
+GE1/0/12             UP   1G(a)     F(a)   T    1    To_F08-HE-BDSJZX-EYCX-SPI
+<HE-BDSJZX-EYCX-S5554S-EI-D-1>display interface GigabitEthernet1/0/24 brief
+Brief information on interfaces in bridge mode:
+Link: ADM - administratively down; Stby - standby
+Speed: (a) - auto
+Duplex: (a)/A - auto; H - half; F - full
+Type: A - access; T - trunk; H - hybrid
+Interface            Link Speed     Duplex Type PVID Description              
+GE1/0/24             UP   1G(a)     F(a)   T    1    To_F08-HE-BDSJZX-EYCX-SPI
+<HE-BDSJZX-EYCX-S5554S-EI-D-1>exit
+Connection to 10.126.219.40 closed.
+ji_fang河北保定清苑机房bd_qingyuan    10.126.219.6
+spawn ssh -o HostKeyAlgorithms=+ssh-rsa -o PubkeyAcceptedKeyTypes=+ssh-rsa weihu@10.126.219.6
+weihu@10.126.219.6's password: 
+******************************************************************************
+* Copyright (c) 2004-2022 New H3C Technologies Co., Ltd. All rights reserved.*
+* Without the owner's prior written consent,                                 *
+* no decompiling or reverse-engineering shall be allowed.                    *
+******************************************************************************
+
+<HE-BDQY-EYCX-S5554S-EI-D-1>display interface GigabitEthernet1/0/3 brief
+Brief information on interfaces in bridge mode:
+Link: ADM - administratively down; Stby - standby
+Speed: (a) - auto
+Duplex: (a)/A - auto; H - half; F - full
+Type: A - access; T - trunk; H - hybrid
+Interface            Link Speed     Duplex Type PVID Description              
+GE1/0/3              UP   1G(a)     F(a)   T    1    To_C08-HE-BDQY-EYCX-SPI81
+<HE-BDQY-EYCX-S5554S-EI-D-1>display interface GigabitEthernet1/0/6 brief
+Brief information on interfaces in bridge mode:
+Link: ADM - administratively down; Stby - standby
+Speed: (a) - auto
+Duplex: (a)/A - auto; H - half; F - full
+Type: A - access; T - trunk; H - hybrid
+Interface            Link Speed     Duplex Type PVID Description              
+GE1/0/6              UP   1G(a)     F(a)   T    1    To_C08-HE-BDQY-EYCX-SPI81
+<HE-BDQY-EYCX-S5554S-EI-D-1>display interface GigabitEthernet1/0/9 brief
+Brief information on interfaces in bridge mode:
+Link: ADM - administratively down; Stby - standby
+Speed: (a) - auto
+Duplex: (a)/A - auto; H - half; F - full
+Type: A - access; T - trunk; H - hybrid
+Interface            Link Speed     Duplex Type PVID Description              
+GE1/0/9              UP   1G(a)     F(a)   T    1    To_C08-HE-BDQY-EYCX-SPI81
+<HE-BDQY-EYCX-S5554S-EI-D-1>display interface GigabitEthernet1/0/12 brief
+Brief information on interfaces in bridge mode:
+Link: ADM - administratively down; Stby - standby
+Speed: (a) - auto
+Duplex: (a)/A - auto; H - half; F - full
+Type: A - access; T - trunk; H - hybrid
+Interface            Link Speed     Duplex Type PVID Description              
+GE1/0/12             UP   1G(a)     F(a)   T    1    To_C08-HE-BDQY-EYCX-SPI81
+<HE-BDQY-EYCX-S5554S-EI-D-1>display interface GigabitEthernet1/0/19 brief
+Brief information on interfaces in bridge mode:
+Link: ADM - administratively down; Stby - standby
+Speed: (a) - auto
+Duplex: (a)/A - auto; H - half; F - full
+Type: A - access; T - trunk; H - hybrid
+Interface            Link Speed     Duplex Type PVID Description              
+GE1/0/19             UP   1G(a)     F(a)   T    1    To_C08-HE-BDQY-EYCX-SPI81
+<HE-BDQY-EYCX-S5554S-EI-D-1>exit
+Connection to 10.126.219.6 closed.
+ji_fang河北保定金迪路机房bd_jindilu   10.126.219.195
+保定金迪路机房
+spawn ssh -o HostKeyAlgorithms=+ssh-rsa -o PubkeyAcceptedKeyTypes=+ssh-rsa weihu@10.126.219.195
+weihu@10.126.219.195's password: 
+******************************************************************************
+* Copyright (c) 2004-2022 New H3C Technologies Co., Ltd. All rights reserved.*
+* Without the owner's prior written consent,                                 *
+* no decompiling or reverse-engineering shall be allowed.                    *
+******************************************************************************
+
+<HE-BDJDL-EYCX-S5554S-EI-D-1>display interface GigabitEthernet1/0/3 brief
+Brief information on interfaces in bridge mode:
+Link: ADM - administratively down; Stby - standby
+Speed: (a) - auto
+Duplex: (a)/A - auto; H - half; F - full
+Type: A - access; T - trunk; H - hybrid
+Interface            Link Speed     Duplex Type PVID Description              
+GE1/0/3              UP   1G(a)     F(a)   T    1    To_B07-HE-BDJD-EYCX-SPI81
+<HE-BDJDL-EYCX-S5554S-EI-D-1>display interface GigabitEthernet1/0/9 brief
+Brief information on interfaces in bridge mode:
+Link: ADM - administratively down; Stby - standby
+Speed: (a) - auto
+Duplex: (a)/A - auto; H - half; F - full
+Type: A - access; T - trunk; H - hybrid
+Interface            Link Speed     Duplex Type PVID Description              
+GE1/0/9              UP   1G(a)     F(a)   T    1    To_B07-HE-BDJD-EYCX-SPI81
+<HE-BDJDL-EYCX-S5554S-EI-D-1>display interface GigabitEthernet1/0/12 brief
+Brief information on interfaces in bridge mode:
+Link: ADM - administratively down; Stby - standby
+Speed: (a) - auto
+Duplex: (a)/A - auto; H - half; F - full
+Type: A - access; T - trunk; H - hybrid
+Interface            Link Speed     Duplex Type PVID Description              
+GE1/0/12             UP   1G(a)     F(a)   T    1    To_B07-HE-BDJD-EYCX-SPI81
+<HE-BDJDL-EYCX-S5554S-EI-D-1>display interface GigabitEthernet1/0/15 brief
+Brief information on interfaces in bridge mode:
+Link: ADM - administratively down; Stby - standby
+Speed: (a) - auto
+Duplex: (a)/A - auto; H - half; F - full
+Type: A - access; T - trunk; H - hybrid
+Interface            Link Speed     Duplex Type PVID Description              
+GE1/0/15             UP   1G(a)     F(a)   T    1    To_B07-HE-BDJD-EYCX-SPI81
+<HE-BDJDL-EYCX-S5554S-EI-D-1>exit
+Connection to 10.126.219.195 closed.
+ji_fang河北承德开发区机房cd_kaifaqu   10.126.219.243
+spawn ssh -o HostKeyAlgorithms=+ssh-rsa -o PubkeyAcceptedKeyTypes=+ssh-rsa weihu@10.126.219.243
+weihu@10.126.219.243's password: 
+******************************************************************************
+* Copyright (c) 2004-2022 New H3C Technologies Co., Ltd. All rights reserved.*
+* Without the owner's prior written consent,                                 *
+* no decompiling or reverse-engineering shall be allowed.                    *
+******************************************************************************
+
+<HE-CDKFQ-EYCX-S5554S-EI-D-1>display interface GigabitEthernet1/0/3 brief
+Brief information on interfaces in bridge mode:
+Link: ADM - administratively down; Stby - standby
+Speed: (a) - auto
+Duplex: (a)/A - auto; H - half; F - full
+Type: A - access; T - trunk; H - hybrid
+Interface            Link Speed     Duplex Type PVID Description              
+GE1/0/3              UP   1G(a)     F(a)   T    1    To_J2-7-HE-CDKFQ-EYCX-SPI
+<HE-CDKFQ-EYCX-S5554S-EI-D-1>display interface GigabitEthernet1/0/9 brief
+Brief information on interfaces in bridge mode:
+Link: ADM - administratively down; Stby - standby
+Speed: (a) - auto
+Duplex: (a)/A - auto; H - half; F - full
+Type: A - access; T - trunk; H - hybrid
+Interface            Link Speed     Duplex Type PVID Description              
+GE1/0/9              UP   1G(a)     F(a)   T    1    To_J2-7-HE-CDKFQ-EYCX-SPI
+<HE-CDKFQ-EYCX-S5554S-EI-D-1>exit
+Connection to 10.126.219.243 closed.
+ji_fang河北承德武烈路机房cd_wulielu   10.126.220.3
+spawn ssh -o HostKeyAlgorithms=+ssh-rsa -o PubkeyAcceptedKeyTypes=+ssh-rsa weihu@10.126.220.3
+weihu@10.126.220.3's password: 
+******************************************************************************
+* Copyright (c) 2004-2022 New H3C Technologies Co., Ltd. All rights reserved.*
+* Without the owner's prior written consent,                                 *
+* no decompiling or reverse-engineering shall be allowed.                    *
+******************************************************************************
+
+<HE-CDWLL-EYCX-S5554S-EI-D-1>display interface GigabitEthernet1/0/3 brief
+Brief information on interfaces in bridge mode:
+Link: ADM - administratively down; Stby - standby
+Speed: (a) - auto
+Duplex: (a)/A - auto; H - half; F - full
+Type: A - access; T - trunk; H - hybrid
+Interface            Link Speed     Duplex Type PVID Description              
+GE1/0/3              UP   1G(a)     F(a)   T    1    To_H05-HE-CDWLL-EYCX-SPI8
+<HE-CDWLL-EYCX-S5554S-EI-D-1>display interface GigabitEthernet1/0/8 brief
+Brief information on interfaces in bridge mode:
+Link: ADM - administratively down; Stby - standby
+Speed: (a) - auto
+Duplex: (a)/A - auto; H - half; F - full
+Type: A - access; T - trunk; H - hybrid
+Interface            Link Speed     Duplex Type PVID Description              
+GE1/0/8              UP   1G(a)     F(a)   T    1    To_H05-HE-CDWLL-EYCX-SPI8
+<HE-CDWLL-EYCX-S5554S-EI-D-1>exit
+Connection to 10.126.220.3 closed.
+ji_fang河北秦皇岛生产楼机房qhd_shengchanlou 10.126.220.83
+spawn ssh -o HostKeyAlgorithms=+ssh-rsa -o PubkeyAcceptedKeyTypes=+ssh-rsa weihu@10.126.220.83
+weihu@10.126.220.83's password: 
+******************************************************************************
+* Copyright (c) 2004-2022 New H3C Technologies Co., Ltd. All rights reserved.*
+* Without the owner's prior written consent,                                 *
+* no decompiling or reverse-engineering shall be allowed.                    *
+******************************************************************************
+
+<HE-QHDSCL-EYCX-S5554S-EI-D-1>display interface GigabitEthernet1/0/3 brief
+Brief information on interfaces in bridge mode:
+Link: ADM - administratively down; Stby - standby
+Speed: (a) - auto
+Duplex: (a)/A - auto; H - half; F - full
+Type: A - access; T - trunk; H - hybrid
+Interface            Link Speed     Duplex Type PVID Description              
+GE1/0/3              UP   1G(a)     F(a)   T    1    To_D05-HE-QHDSCL-EYCX-SPI
+<HE-QHDSCL-EYCX-S5554S-EI-D-1>display interface GigabitEthernet1/0/9 brief
+Brief information on interfaces in bridge mode:
+Link: ADM - administratively down; Stby - standby
+Speed: (a) - auto
+Duplex: (a)/A - auto; H - half; F - full
+Type: A - access; T - trunk; H - hybrid
+Interface            Link Speed     Duplex Type PVID Description              
+GE1/0/9              UP   1G(a)     F(a)   T    1    To_D05-HE-QHDSCL-EYCX-SPI
+<HE-QHDSCL-EYCX-S5554S-EI-D-1>exit
+Connection to 10.126.220.83 closed.
+ji_fang河北秦皇岛综合楼机房qhd_zonghelou 10.126.220.100
+spawn ssh -o HostKeyAlgorithms=+ssh-rsa -o PubkeyAcceptedKeyTypes=+ssh-rsa weihu@10.126.220.100
+weihu@10.126.220.100's password: 
+******************************************************************************
+* Copyright (c) 2004-2022 New H3C Technologies Co., Ltd. All rights reserved.*
+* Without the owner's prior written consent,                                 *
+* no decompiling or reverse-engineering shall be allowed.                    *
+******************************************************************************
+
+<HE-QHDZHL-EYCX-S5554S-EI-D-1>display interface GigabitEthernet1/0/3 brief
+Brief information on interfaces in bridge mode:
+Link: ADM - administratively down; Stby - standby
+Speed: (a) - auto
+Duplex: (a)/A - auto; H - half; F - full
+Type: A - access; T - trunk; H - hybrid
+Interface            Link Speed     Duplex Type PVID Description              
+GE1/0/3              UP   1G(a)     F(a)   T    1    To_N06-HE-QHDZHL-EYCX-SPI
+<HE-QHDZHL-EYCX-S5554S-EI-D-1>display interface GigabitEthernet1/0/6 brief
+Brief information on interfaces in bridge mode:
+Link: ADM - administratively down; Stby - standby
+Speed: (a) - auto
+Duplex: (a)/A - auto; H - half; F - full
+Type: A - access; T - trunk; H - hybrid
+Interface            Link Speed     Duplex Type PVID Description              
+GE1/0/6              UP   1G(a)     F(a)   T    1    To_N06-HE-QHDZHL-EYCX-SPI
+<HE-QHDZHL-EYCX-S5554S-EI-D-1>exit
+Connection to 10.126.220.100 closed.
+ji_fang河北张家口宝善街机房zjk_baoshanjie 10.126.220.179
+spawn ssh -o HostKeyAlgorithms=+ssh-rsa -o PubkeyAcceptedKeyTypes=+ssh-rsa weihu@10.126.220.179
+weihu@10.126.220.179's password: 
+******************************************************************************
+* Copyright (c) 2004-2022 New H3C Technologies Co., Ltd. All rights reserved.*
+* Without the owner's prior written consent,                                 *
+* no decompiling or reverse-engineering shall be allowed.                    *
+******************************************************************************
+
+<HE-ZJKBSJ-EYCX-S5554S-EI-D-1>display interface GigabitEthernet1/0/3 brief
+Brief information on interfaces in bridge mode:
+Link: ADM - administratively down; Stby - standby
+Speed: (a) - auto
+Duplex: (a)/A - auto; H - half; F - full
+Type: A - access; T - trunk; H - hybrid
+Interface            Link Speed     Duplex Type PVID Description              
+GE1/0/3              UP   1G(a)     F(a)   T    1    To_A07-HE-ZJKBSJ-EYCX-SPI
+<HE-ZJKBSJ-EYCX-S5554S-EI-D-1>display interface GigabitEthernet1/0/7 brief
+Brief information on interfaces in bridge mode:
+Link: ADM - administratively down; Stby - standby
+Speed: (a) - auto
+Duplex: (a)/A - auto; H - half; F - full
+Type: A - access; T - trunk; H - hybrid
+Interface            Link Speed     Duplex Type PVID Description              
+GE1/0/7              UP   1G(a)     F(a)   T    1    To_A07-HE-ZJKBSJ-EYCX-SPI
+<HE-ZJKBSJ-EYCX-S5554S-EI-D-1>exit
+Connection to 10.126.220.179 closed.
+ji_fang河北张家口纬三路机房zjk_weisanlu 10.126.220.196
+spawn ssh -o HostKeyAlgorithms=+ssh-rsa -o PubkeyAcceptedKeyTypes=+ssh-rsa weihu@10.126.220.196
+weihu@10.126.220.196's password: 
+******************************************************************************
+* Copyright (c) 2004-2022 New H3C Technologies Co., Ltd. All rights reserved.*
+* Without the owner's prior written consent,                                 *
+* no decompiling or reverse-engineering shall be allowed.                    *
+******************************************************************************
+
+<HE-ZJKWSL-EYCX-S5554S-EI-D-1>display interface GigabitEthernet1/0/3 brief
+Brief information on interfaces in bridge mode:
+Link: ADM - administratively down; Stby - standby
+Speed: (a) - auto
+Duplex: (a)/A - auto; H - half; F - full
+Type: A - access; T - trunk; H - hybrid
+Interface            Link Speed     Duplex Type PVID Description              
+GE1/0/3              UP   1G(a)     F(a)   T    1    To_BM2-HE-ZJKWSL-EYCX-SPI
+<HE-ZJKWSL-EYCX-S5554S-EI-D-1>display interface GigabitEthernet1/0/6 brief
+Brief information on interfaces in bridge mode:
+Link: ADM - administratively down; Stby - standby
+Speed: (a) - auto
+Duplex: (a)/A - auto; H - half; F - full
+Type: A - access; T - trunk; H - hybrid
+Interface            Link Speed     Duplex Type PVID Description              
+GE1/0/6              UP   1G(a)     F(a)   T    1    To_BM2-HE-ZJKWSL-EYCX-SPI
+<HE-ZJKWSL-EYCX-S5554S-EI-D-1>exit
+Connection to 10.126.220.196 closed.
+ji_fang河北唐山丰南机房ts_fengnan 10.126.219.165
+spawn ssh -o HostKeyAlgorithms=+ssh-rsa -o PubkeyAcceptedKeyTypes=+ssh-rsa weihu@10.126.219.165
+weihu@10.126.219.165's password: 
+******************************************************************************
+* Copyright (c) 2004-2022 New H3C Technologies Co., Ltd. All rights reserved.*
+* Without the owner's prior written consent,                                 *
+* no decompiling or reverse-engineering shall be allowed.                    *
+******************************************************************************
+
+<HE-TSFN-EYCX-S5554S-EI-D-1>display interface GigabitEthernet1/0/3 brief
+Brief information on interfaces in bridge mode:
+Link: ADM - administratively down; Stby - standby
+Speed: (a) - auto
+Duplex: (a)/A - auto; H - half; F - full
+Type: A - access; T - trunk; H - hybrid
+Interface            Link Speed     Duplex Type PVID Description              
+GE1/0/3              UP   1G(a)     F(a)   T    1    To_D7-2-HE-TSFN-EYCX-SPI8
+<HE-TSFN-EYCX-S5554S-EI-D-1>display interface GigabitEthernet1/0/6 brief
+Brief information on interfaces in bridge mode:
+Link: ADM - administratively down; Stby - standby
+Speed: (a) - auto
+Duplex: (a)/A - auto; H - half; F - full
+Type: A - access; T - trunk; H - hybrid
+Interface            Link Speed     Duplex Type PVID Description              
+GE1/0/6              UP   1G(a)     F(a)   T    1    To_D7-2-HE-TSFN-EYCX-SPI8
+<HE-TSFN-EYCX-S5554S-EI-D-1>display interface GigabitEthernet1/0/9 brief
+Brief information on interfaces in bridge mode:
+Link: ADM - administratively down; Stby - standby
+Speed: (a) - auto
+Duplex: (a)/A - auto; H - half; F - full
+Type: A - access; T - trunk; H - hybrid
+Interface            Link Speed     Duplex Type PVID Description              
+GE1/0/9              UP   1G(a)     F(a)   T    1    To_D7-2-HE-TSFN-EYCX-SPI8
+<HE-TSFN-EYCX-S5554S-EI-D-1>exit
+Connection to 10.126.219.165 closed.
+ji_fang河北唐山天元机房ts_tianyuan 10.126.220.132
+spawn ssh -o HostKeyAlgorithms=+ssh-rsa -o PubkeyAcceptedKeyTypes=+ssh-rsa weihu@10.126.220.132
+weihu@10.126.220.132's password: 
+******************************************************************************
+* Copyright (c) 2004-2022 New H3C Technologies Co., Ltd. All rights reserved.*
+* Without the owner's prior written consent,                                 *
+* no decompiling or reverse-engineering shall be allowed.                    *
+******************************************************************************
+
+<HE-TSTY-EYCX-S5554S-EI-D-1>display interface GigabitEthernet1/0/3 brief
+Brief information on interfaces in bridge mode:
+Link: ADM - administratively down; Stby - standby
+Speed: (a) - auto
+Duplex: (a)/A - auto; H - half; F - full
+Type: A - access; T - trunk; H - hybrid
+Interface            Link Speed     Duplex Type PVID Description              
+GE1/0/3              UP   1G(a)     F(a)   T    1    To_B5-3-HE-TSTY-EYCX-SPI8
+<HE-TSTY-EYCX-S5554S-EI-D-1>display interface GigabitEthernet1/0/6 brief
+Brief information on interfaces in bridge mode:
+Link: ADM - administratively down; Stby - standby
+Speed: (a) - auto
+Duplex: (a)/A - auto; H - half; F - full
+Type: A - access; T - trunk; H - hybrid
+Interface            Link Speed     Duplex Type PVID Description              
+GE1/0/6              UP   1G(a)     F(a)   T    1    To_B5-3-HE-TSTY-EYCX-SPI8
+<HE-TSTY-EYCX-S5554S-EI-D-1>display interface GigabitEthernet1/0/12 brief
+Brief information on interfaces in bridge mode:
+Link: ADM - administratively down; Stby - standby
+Speed: (a) - auto
+Duplex: (a)/A - auto; H - half; F - full
+Type: A - access; T - trunk; H - hybrid
+Interface            Link Speed     Duplex Type PVID Description              
+GE1/0/12             UP   1G(a)     F(a)   T    1    To_B5-3-HE-TSTY-EYCX-SPI8
+<HE-TSTY-EYCX-S5554S-EI-D-1>exit
+Connection to 10.126.220.132 closed.
+ji_fang河北廊坊移动大楼机房lf_yidongdalou 10.126.220.67
+spawn ssh -o HostKeyAlgorithms=+ssh-rsa -o PubkeyAcceptedKeyTypes=+ssh-rsa weihu@10.126.220.67
+weihu@10.126.220.67's password: 
+******************************************************************************
+* Copyright (c) 2004-2022 New H3C Technologies Co., Ltd. All rights reserved.*
+* Without the owner's prior written consent,                                 *
+* no decompiling or reverse-engineering shall be allowed.                    *
+******************************************************************************
+
+<HE-LFYDDL-EYCX-S5554S-EI-D-1>display interface GigabitEthernet1/0/3 brief
+Brief information on interfaces in bridge mode:
+Link: ADM - administratively down; Stby - standby
+Speed: (a) - auto
+Duplex: (a)/A - auto; H - half; F - full
+Type: A - access; T - trunk; H - hybrid
+Interface            Link Speed     Duplex Type PVID Description              
+GE1/0/3              UP   1G(a)     F(a)   T    1    To_D5-HE-LFYDDL-EYCX-SPI8
+<HE-LFYDDL-EYCX-S5554S-EI-D-1>display interface GigabitEthernet1/0/8 brief
+Brief information on interfaces in bridge mode:
+Link: ADM - administratively down; Stby - standby
+Speed: (a) - auto
+Duplex: (a)/A - auto; H - half; F - full
+Type: A - access; T - trunk; H - hybrid
+Interface            Link Speed     Duplex Type PVID Description              
+GE1/0/8              UP   1G(a)     F(a)   T    1    To_D5-HE-LFYDDL-EYCX-SPI8
+<HE-LFYDDL-EYCX-S5554S-EI-D-1>display interface GigabitEthernet1/0/11 brief
+Brief information on interfaces in bridge mode:
+Link: ADM - administratively down; Stby - standby
+Speed: (a) - auto
+Duplex: (a)/A - auto; H - half; F - full
+Type: A - access; T - trunk; H - hybrid
+Interface            Link Speed     Duplex Type PVID Description              
+GE1/0/11             UP   1G(a)     F(a)   T    1    To_D5-HE-LFYDDL-EYCX-SPI8
+<HE-LFYDDL-EYCX-S5554S-EI-D-1>exit
+Connection to 10.126.220.67 closed.
+ji_fang河北廊坊数据中心机房lf_shujuzhongxin 10.126.220.213
+spawn ssh -o HostKeyAlgorithms=+ssh-rsa -o PubkeyAcceptedKeyTypes=+ssh-rsa weihu@10.126.220.213
+weihu@10.126.220.213's password: 
+******************************************************************************
+* Copyright (c) 2004-2022 New H3C Technologies Co., Ltd. All rights reserved.*
+* Without the owner's prior written consent,                                 *
+* no decompiling or reverse-engineering shall be allowed.                    *
+******************************************************************************
+
+<HE-LFSJZX-EYCX-S5554S-EI-D-1>display interface GigabitEthernet1/0/3 brief
+Brief information on interfaces in bridge mode:
+Link: ADM - administratively down; Stby - standby
+Speed: (a) - auto
+Duplex: (a)/A - auto; H - half; F - full
+Type: A - access; T - trunk; H - hybrid
+Interface            Link Speed     Duplex Type PVID Description              
+GE1/0/3              UP   1G(a)     F(a)   T    1    To_HE-LFSJZX-EYCX-SPI8110
+<HE-LFSJZX-EYCX-S5554S-EI-D-1>display interface GigabitEthernet1/0/6 brief
+Brief information on interfaces in bridge mode:
+Link: ADM - administratively down; Stby - standby
+Speed: (a) - auto
+Duplex: (a)/A - auto; H - half; F - full
+Type: A - access; T - trunk; H - hybrid
+Interface            Link Speed     Duplex Type PVID Description              
+GE1/0/6              UP   1G(a)     F(a)   T    1    To_HE-LFSJZX-EYCX-SPI8110
+<HE-LFSJZX-EYCX-S5554S-EI-D-1>display interface GigabitEthernet1/0/9 brief
+Brief information on interfaces in bridge mode:
+Link: ADM - administratively down; Stby - standby
+Speed: (a) - auto
+Duplex: (a)/A - auto; H - half; F - full
+Type: A - access; T - trunk; H - hybrid
+Interface            Link Speed     Duplex Type PVID Description              
+GE1/0/9              UP   1G(a)     F(a)   T    1    To_HE-LFSJZX-EYCX-SPI8110
+<HE-LFSJZX-EYCX-S5554S-EI-D-1>exit
+Connection to 10.126.220.213 closed.
+ji_fang河北错误机房验证_无需理会结果  cuowu_yanzheng
+spawn ssh -o HostKeyAlgorithms=+ssh-rsa -o PubkeyAcceptedKeyTypes=+ssh-rsa weihu@10.126.220.19
+weihu@10.126.220.19's password: 
+******************************************************************************
+* Copyright (c) 2004-2022 New H3C Technologies Co., Ltd. All rights reserved.*
+* Without the owner's prior written consent,                                 *
+* no decompiling or reverse-engineering shall be allowed.                    *
+******************************************************************************
+
+<HE-HDYDDS-EYCX-S5554S-EI-D-1>display interface GigabitEthernet1/0/40 brief
+Brief information on interfaces in bridge mode:
+Link: ADM - administratively down; Stby - standby
+Speed: (a) - auto
+Duplex: (a)/A - auto; H - half; F - full
+Type: A - access; T - trunk; H - hybrid
+Interface            Link Speed     Duplex Type PVID Description              
+GE1/0/40             DOWN auto      A      A    3018 
+<HE-HDYDDS-EYCX-S5554S-EI-D-1>display interface GigabitEthernet1/0/400 brief
+                                                ^
+ % Wrong parameter found at '^' position.
+<HE-HDYDDS-EYCX-S5554S-EI-D-1>exit
+Connection to 10.126.220.19 closed.

@@ -1,0 +1,207 @@
+{
+  "recentFiles": [
+    {
+      "basename": "Docker无法pull解决",
+      "path": "00_sync/00网络/Docker无法pull解决/Docker无法pull解决.md"
+    },
+    {
+      "basename": "配置简单代理_和clash",
+      "path": "00_sync/00linux/配置代理/配置简单代理_和clash.md"
+    },
+    {
+      "basename": "00000原始linux需要安装的",
+      "path": "00_sync/00linux/00000原始linux需要安装的/00000原始linux需要安装的.md"
+    },
+    {
+      "basename": "换源",
+      "path": "00_sync/00linux/换源/换源.md"
+    },
+    {
+      "basename": "手动安装docker和docker-compose",
+      "path": "00_sync/00linux/手动安装docker和docker-compose/手动安装docker和docker-compose.md"
+    },
+    {
+      "basename": "如果安全卸载",
+      "path": "00_sync/00linux/如果安全卸载/如果安全卸载.md"
+    },
+    {
+      "basename": "关于各种linux系统的评价",
+      "path": "00_sync/ZZ瞎写/关于各种linux系统的评价/关于各种linux系统的评价.md"
+    },
+    {
+      "basename": "Frp,DDNS,Docker部署,Overlay区域划分",
+      "path": "00_sync/00网络/远程穿透DDNS开机自启Docker/Frp,DDNS,Docker部署,Overlay区域划分.md"
+    },
+    {
+      "basename": "家庭影院第5章【硬解&&转码】",
+      "path": "00_sync/00网络/家庭影院第5章【硬解&&转码】/家庭影院第5章【硬解&&转码】.md"
+    },
+    {
+      "basename": "Linux下安装ffmpeg",
+      "path": "00_sync/00linux/Linux下安装ffmpeg/Linux下安装ffmpeg.md"
+    },
+    {
+      "basename": "Linux和Win下用ffmpeg便捷判断核显_独立显卡是否正常转码",
+      "path": "00_sync/00linux/Linux和Win下用ffmpeg便捷判断核显_独立显卡是否正常转码/Linux和Win下用ffmpeg便捷判断核显_独立显卡是否正常转码.md"
+    },
+    {
+      "basename": "Linux下编译make安装",
+      "path": "00_sync/00linux/Linux下编译make安装/Linux下编译make安装.md"
+    },
+    {
+      "basename": "ffmpeg的命令使用",
+      "path": "00_sync/00图片视频处理/ffmpeg的命令使用/ffmpeg的命令使用.md"
+    },
+    {
+      "basename": "Linux网络排错之断流【修改grub】",
+      "path": "00_sync/00网络/Linux网络排错之断流【修改grub】/Linux网络排错之断流【修改grub】.md"
+    },
+    {
+      "basename": "在Linux摆脱繁琐的解压命令",
+      "path": "00_sync/00linux/在Linux摆脱繁琐的解压命令/在Linux摆脱繁琐的解压命令.md"
+    },
+    {
+      "basename": "Linux安装独立显卡驱动",
+      "path": "00_sync/00linux/Linux安装独立显卡驱动/Linux安装独立显卡驱动.md"
+    },
+    {
+      "basename": "家庭影院第8章【缓存优化】",
+      "path": "00_sync/00网络/家庭影院第8章【缓存优化】/家庭影院第8章【缓存优化】.md"
+    },
+    {
+      "basename": "alist挂载常用网盘",
+      "path": "00_sync/00网络/alist挂载常用网盘/alist挂载常用网盘.md"
+    },
+    {
+      "basename": "家庭影院第3章【挂载云盘&&alist&&rclone】",
+      "path": "00_sync/00网络/家庭影院第3章【挂载云盘&&alist&&rclone】/家庭影院第3章【挂载云盘&&alist&&rclone】.md"
+    },
+    {
+      "basename": "rclone的全部配置",
+      "path": "00_sync/00网络/rclone的全部配置/rclone的全部配置.md"
+    },
+    {
+      "basename": "Linux下使用命令连接wifi的三种方式",
+      "path": "00_sync/00linux/Linux下使用命令连接wifi的三种方式/Linux下使用命令连接wifi的三种方式.md"
+    },
+    {
+      "basename": "字符集&&编码字符集ASCll和GBK和Unicode_UTF-8_UTF-32",
+      "path": "00_sync/00脚本_文本和图片/字符集&&编码字符集ASCll和GBK和Unicode_UTF-8_UTF-32/字符集&&编码字符集ASCll和GBK和Unicode_UTF-8_UTF-32.md"
+    },
+    {
+      "basename": "家庭影院第7章【挂载小雅】",
+      "path": "00_sync/00网络/家庭影院第7章【挂载小雅】/家庭影院第7章【挂载小雅】.md"
+    },
+    {
+      "basename": "Linux一个高级电源管理工具TLP",
+      "path": "00_sync/00linux/Linux一个高级电源管理工具TLP/Linux一个高级电源管理工具TLP.md"
+    },
+    {
+      "basename": "Linux和Win下alias定义别名和export变量",
+      "path": "00_sync/00linux/Linux和Win下alias定义别名和export变量/Linux和Win下alias定义别名和export变量.md"
+    },
+    {
+      "basename": "Linux的六个变量以及shelll以及$PATH",
+      "path": "00_sync/00linux/Linux的六个变量以及shelll以及$PATH/Linux的六个变量以及shelll以及$PATH.md"
+    },
+    {
+      "basename": "在win上挂载wabdav导致资源管理器崩溃",
+      "path": "00_sync/00网络/在win上挂载wabdav导致资源管理器崩溃/在win上挂载wabdav导致资源管理器崩溃.md"
+    },
+    {
+      "basename": "导图-Linux下分配用户及其赋权",
+      "path": "00_sync/00linux/Linux下分配用户及其赋权/导图-Linux下分配用户及其赋权.md"
+    },
+    {
+      "basename": "给一个用户只有home权限",
+      "path": "1自用笔记无上传/给一个用户只有home权限/给一个用户只有home权限.md"
+    },
+    {
+      "basename": "收缩WSL2的大小",
+      "path": "00_sync/00linux/收缩WSL2的大小/收缩WSL2的大小.md"
+    },
+    {
+      "basename": "极其简单的VMware的文字共享",
+      "path": "00_sync/00linux/极其简单的VMware的文字共享/极其简单的VMware的文字共享.md"
+    },
+    {
+      "basename": "linux文件结构",
+      "path": "00_sync/00linux/分区结构和文件系统类型和挂载点和Overlay/linux文件结构.md"
+    },
+    {
+      "basename": "创建删除swap交换",
+      "path": "00_sync/00linux/创建删除swap交换/创建删除swap交换.md"
+    },
+    {
+      "basename": "查看系统温度",
+      "path": "00_sync/00linux/查看系统温度/查看系统温度.md"
+    },
+    {
+      "basename": "Linux下的NTP同步设置",
+      "path": "00_sync/00linux/Linux下的NTP同步设置/Linux下的NTP同步设置.md"
+    },
+    {
+      "basename": "image-2024111151654",
+      "path": "00_sync/00linux/Linux下的NTP同步设置/Linux下的NTP同步设置/image-2024111151654.png"
+    },
+    {
+      "basename": "wifi",
+      "path": "8刷题的/HCIP-821/wifi.md"
+    },
+    {
+      "basename": "Linux_LVM",
+      "path": "2需要放入网站的笔记/Linux_LVM/Linux_LVM.md"
+    },
+    {
+      "basename": "Linux下使用fdisk进行磁盘分区",
+      "path": "00_sync/00linux/Linux下使用fdisk进行磁盘分区/Linux下使用fdisk进行磁盘分区.md"
+    },
+    {
+      "basename": "image-2024755832882",
+      "path": "00_sync/00linux/Linux下使用fdisk进行磁盘分区/Linux下使用fdisk进行磁盘分区/image-2024755832882.png"
+    },
+    {
+      "basename": "image-202475932777.png 2",
+      "path": "3可以放入网站的笔记/Linux下使用fdisk进行磁盘分区/Linux下使用fdisk进行磁盘分区/image-202475932777.png 2.md"
+    },
+    {
+      "basename": "image-202475932777.png 1",
+      "path": "3可以放入网站的笔记/Linux下使用fdisk进行磁盘分区/Linux下使用fdisk进行磁盘分区/image-202475932777.png 1.md"
+    },
+    {
+      "basename": "image-202475932777.png",
+      "path": "3可以放入网站的笔记/Linux下使用fdisk进行磁盘分区/Linux下使用fdisk进行磁盘分区/image-202475932777.png.md"
+    },
+    {
+      "basename": "image-202475188645",
+      "path": "00_sync/00linux/Linux下使用fdisk进行磁盘分区/Linux下使用fdisk进行磁盘分区/image-202475188645.png"
+    },
+    {
+      "basename": "Linux_LVM绘图",
+      "path": "2需要放入网站的笔记/Linux_LVM/Linux_LVM绘图.md"
+    },
+    {
+      "basename": "监测电池电源情况",
+      "path": "00_sync/00linux/监测电池情况/监测电池电源情况.md"
+    },
+    {
+      "basename": "VBA宏固定excel打开csv文件为utf-8",
+      "path": "00_sync/00脚本_文本和图片/VBA宏固定excel打开csv文件为utf-8/VBA宏固定excel打开csv文件为utf-8.md"
+    },
+    {
+      "basename": "设置网卡为静态ip和查看mac",
+      "path": "00_sync/00linux/设置网卡为静态ip和查看mac/设置网卡为静态ip和查看mac.md"
+    },
+    {
+      "basename": "家庭影院第4章【基础错误修复】",
+      "path": "00_sync/00网络/家庭影院第4章【基础错误修复】/家庭影院第4章【基础错误修复】.md"
+    },
+    {
+      "basename": "家庭影院第6章【插件】",
+      "path": "00_sync/00网络/家庭影院第6章【插件】/家庭影院第6章【插件】.md"
+    }
+  ],
+  "omittedPaths": [],
+  "maxLength": null,
+  "openType": "tab"
+}

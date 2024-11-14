@@ -1,0 +1,83 @@
+无论对于win用户还是linux用户,以及mac用户来说,每次连接ssh服务器需要输入密码是很麻烦的,虽然部分ssh连接工具提供了自动输入密码,但是还是强烈建议使用密钥对连接并且关闭密码连接ssh服务器以提高服务器的安全性.
+我们只需要客户端生成私钥和公钥后，将公钥放置到服务器上，在使用SSH连接时，会自动进行匹配验证，并完成登录.
+![y91jd74b12.png](00_sync/00vpn加密/win&linux配置公私钥/win&linux配置公私钥/y91jd74b12.png)
+# SSH用户密码登录
+对于win的用户来说,如果你以前用ssh连接过各种服务器,你的c盘用户里面应该会有一个.ssh文件夹
+![image-20242204058221.png](00_sync/00vpn加密/win&linux配置公私钥/win&linux配置公私钥/image-20242204058221.png)
+而这个文件夹里面的一行就是你说连接的服务器如192.168.3.102的公钥了.
+![image-20242204158268.png](00_sync/00vpn加密/win&linux配置公私钥/win&linux配置公私钥/image-20242204158268.png)
+且随着时间的推移,重度用户肯定早就厌倦了输入密码
+```
+192.168.123.1 ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBJ2uE03UVLdrZ2SoXInBabA2YCBi3juImsEbqCNbnmyLtKGqtrRKyV6yE3dbacP0kBHBAb80/KbOCrpCjHW9S2Y=
+192.168.1.1 ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJlkeSFjoO3XAl4huZKTgSFE+yyaqC6EU7xJd7niabkk
+8.130.108.106 ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIKlsVMxHFofX00x51Ks1qCcgGE+TTUMD87p0bZryo4rl
+8.130.108.106 ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDHuwIXg4suptqyNv+V5EKo9j0FQ95n2abXTRlpMsACSz2Csjb5qALHr93gCP3Eyt+NdwEPxwJJZJGiaWh19T3xtqE61fi98Z6e70OjY+YW+fA3dbijfqI6Ij1PcZ9J2PcNmaQfW0yQS/8eJjDtIUe+7m2WrI3MKBjhjm8NZe7B5M3CPWvAyHriftdka3vr+EVBP2Q97Xq9wZdP8/YTQFEccMuG/vIvgXG7vwBTBU28LzOe88zgljrxyv8n8e48sByHbtfNduj0yLklgiEB81aiYXYUGBMm/7L3NEKR0qUpWudlC4RX5OL753OfgS33n4zvkoWTeq7HbpBJnE69nVk7
+8.130.108.106 ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBON2QKqEZfg1HUQoHTzfOsVpxXgQovKsAcq/IevB4l4HTY9xcUMAsdcpYSDuDn30VioITKARPhVLqHVe6UlNs28=
+gitee.com ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIEKxHSJ7084RmkJ4YdEi5tngynE8aZe2uEoVVsB/OvYN
+10.255.254.73 ecdsa-sha2-nistp521 AAAAE2VjZHNhLXNoYTItbmlzdHA1MjEAAAAIbmlzdHA1MjEAAACFBAGzXwCFn42BH9Wmv85WjmPBCGPeH/aPRWW9I2qu5rlEtBQjodRGJlz0gQRJtCfsI1IS7PLDmicVY7jYppNqOFmGhQE+AD5n3hFkU6LW1BX8g44YZg6/hSezVgD8VSkHILHizF/rJ0RY/75YyVuuJQCi0FV9zFc8ef23OjuS/tbUB9fK5A==
+192.168.5.1 ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIIJ2/oAGnOvpVU69Ztjyx1/PDyRbVAi4fkN8UAEiR+Ev
+192.168.229.131 ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIF2g/cvl0MNcqqMR/sawWXIbdFGm4hagfWCsY30VvJWP
+192.168.229.131 ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQC5LjyN/+TSZZkBBGV1pRZXChkN9Kkx623gMqCkXzO7fKU8dw1i3a/seAredG8LFmKDYxwY6ElzhGLEx/RVjZtSHKKxbEgIjQt7+HHuRWKRGQ1jPd8i0eNDCjo8Gg/Drxs6p/IkrwMyP1pABO0lkrNpDhpMzOMtxX00fVfVCOCt5YcunzQZfKlcJKbqMFNymnUSJvPsBBo4dKKPKKsq8zXEY3tx3r9T0XK2tnF3siMRcOMDDTH2LxHrZMZeOIK4NM03KyXktEo4smk6zSMeuoRfr0zOKrQ3eSMoG7O8SsEyactCWLOsAuiZsoxXoapcZHXG3uSNmL98z7ZkarJR+MyHkym2ZSJlhbBktSXoqsYZRfLM6iJXH3Y/SyTWPbr+jYKMM2EuS+GiNQ72iJKezfgy7H6Rd+ZNNUXQHsk/tfw1V3ywZbZAJHl99YL8xgvNyf807oNqrErHAiLpWSBqtsNaxLBfdLeKf0ASEUYNZKyJUkAgEc1T1vQsWsgLjctFdY8=
+192.168.229.131 ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBPXMeHSICVJjUgMXSm1TD+FsNnyiaSnQ1gw8IK1QFIJLRXII8u7GWk8/atpmLgHlq8zYPBKxplsK6WKhzyDW5a0=
+192.168.3.174 ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIKVAGzdU2gbknwVJlgRR0miJI3yE/AtGcOWSThSBZ/Pw
+192.168.3.174 ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQC4P4TdaZXsY0yTwo7lQmLjaUI3L0SVlGokVitzvkHB6cH1mWo1xetgJZ1X0ZloGMji00TdVfoF06nYQgjqiWB9xv8FE0vvsHk6w2votCflGyAT6NSUSucHIxn2fTIBigBP4nJZvQgVMHdkO4V+sDTazjMSh0R2lC8DfPMd3VdzL6A3upAN2Z8myLn0hmoo7yppTnqWnOXP/B9f0CDJjA3+POkg44KlUf9wDPAavz072hIEq74P8uTQpmqG9iXRpK8isO5YFT0zbsiOwrtQPTV02zFAsYlrZ3OzvNuTNN1pnrK0iCMenb+Ex6i5swk97D3Vbd4b0Y5imV4mMXppCswERK018zXHGd5LjRAH4WR0P7SIxDbr06t/2v7Ck0eCdQJXMrp4X8jjfwFgAi0yNZbG/hO3JTd4BLJc1VCy5gDnj2u7BLGSNNBAlM7pxubpan2ssebj0UpXxVDW5vj6pu5LVkwUbPoijcVyrjn+h0gswfLpZyyhpGUOO94Sv52qc40=
+192.168.3.174 ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBKxnvgEfYz0GJVW9gyyqZRHjpmzgaVnofWcM0eGE1UoYkRk8usQjl0bwDczqUZ9iwh2ECCYl1LokXwgIadZwhyQ=
+192.168.3.166 ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBL0rdgp5aIfldYTJvs+Gfu9P24NrgNbscAaujNlW8Lp+4Xfr8NtLGdvkyTjLuptWunDz5i08yB3kuvD7+uFIY0M=
+192.168.150.132 ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIBaf0LwUlraexH4sNaCRa8W9WkkbMMqkUu/tJLShTw1p
+192.168.150.132 ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQC5y2bl/MQ8nz3eFNY+t87zypMS+pBlHqBEPEfPXNkg8WYkOYf510QpHTRz9ifvi1nK15TAPA/F8fdW67/IVgxyrxr6XaIGD0u+YdT2dIn99HK6SSx1kV672ZhGZYvr1jilSnAvF/LzLUM1kAlW+abjh9qjLx2KK6z7+cO/JJO0fbvvKizfPzMU9/zJmujUgpsEi1vhjKvkqhAAHGAJcTfSG9hYZhSJaRATIpKigYXWVwn54xMlvYEHeLwtMdsLRLTDBFK0bcnkh/gdLh6IJtGoe1yfpOqd4h8ng03g5QMRdjqrUY+B33VvLDEtcTsyxIFgvZbWlugjk7s6aSoN559CvX+isgbki6jDbXK8iivp5PYbZYUQoJmgB3vvhOoXv7wARTr469DtE/Qh7XZ9ZExpsDCfhWscHWMOEh7XclSwGB2jTrLN1JWE2TDBw5BBOqTjkUxzdGwcaOLIdS6+6SLtREQneBi/iEu/OiYvxEziMf/EOeSook88q5WeBTMw9XE=
+192.168.150.132 ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBI1ewRxROL73PSOBmzkI9QAwNNmMtg0xK1+QGcpGxqW7G/ivuAa7W4D9CHJcD9jEbiEf9qj+gLLUKvtWUj2Cux4=
+192.168.3.102 ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIKVAGzdU2gbknwVJlgRR0miJI3yE/AtGcOWSThSBZ/Pw
+1.1.1.1 ssh-ed25519 AAAAC3Nza62+kVVeJpjQISy3f84PPRlk4Kj531
+1.1.1.1 ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDSbeCLK/C045WOlEkPJv06Mf9HECY7gVKltiwcuEv2Defr09obIwbIvHAfjWxZaLQccanY4ifuwRdJsrkO8Y+YaO1s75s+schOpWhKJPLHOLpsmL7CWI1RYyt6SBsK2D5aX+LnzCS2v75DGcNadrIs63TIYTFzgLpuoNx29UvQUiNUIBIvbTkI5QWRAzu4Uv2URcgL8JpnD91PzH5AJsy2Muk+tF5rJZqe+C6KPnnFiXoxnl2l4c5TRPeeCozwqRmef85z/dbYTmH6d0GBzr8ktQYr88NGE0cOx15MOQOx4goDUNO18lCIatPGHwHDWb2huhhLiCmWYflBKTBpCJ4tC22QCOk6+/k6oRAl3naya+yYKm3u/LTWJzn6R3RSczI1gtZODMKvHFEW+l5I4mHfxnXZHncX9zpkkrPrpgcQtBrQexgwakfqp68q+IyCjbbfEkF3eZ6E1KEVmjWUt4iNwo/A4jBuai40=
+1.1.1.1 ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTVKC3c0L2V+6CqYn6vnrhZjz4F7+ZgyZBfmswLKyDydHGjT1N4AA83XZkI0wXbBnQQ=
+```
+而对于Linux来说,也是一样的道理
+![image-20242204452333.png](00_sync/00vpn加密/win&linux配置公私钥/win&linux配置公私钥/image-20242204452333.png)
+![image-20242204655555.png](00_sync/00vpn加密/win&linux配置公私钥/win&linux配置公私钥/image-20242204655555.png)
+那有人肯定要问了,这个公钥有什么意义呢,有没有使用,其实还有有一些作用的.
+1. **安全性：** `known_hosts` 文件存储了你连接过的远程主机的公钥。当你尝试连接到一个远程主机时，SSH 客户端会检查该主机的公钥是否存在于 `known_hosts` 文件中。如果存在，它会验证远程主机发送的公钥是否与存储在文件中的相匹配。这个过程可以防止中间人攻击，确保你连接的是你想要连接的远程主机。
+2. **连接性：** `known_hosts` 文件可以加快连接过程。如果你连接过一个主机，客户端会记录它的公钥。这样，在将来的连接中，SSH 客户端就不需要再次询问你是否接受远程主机的公钥，而是直接进行验证，加快了连接的速度。 ![image-20242205725300.png](00_sync/00vpn加密/win&linux配置公私钥/win&linux配置公私钥/image-20242205725300.png)
+4. **识别远程主机：** 通过 `known_hosts` 文件，你可以识别你连接过的远程主机。文件中的条目通常包含主机名或 IP 地址，这有助于你了解你曾经连接过哪些主机以及它们的身份信息。
+还有一个细节,就是我这两张图片会发现win是有IP的(已打码),然后Linux上的Ubuntu是没有IP的,每个设备上的 `known_hosts` 文件都是独立的，它们存储了该设备连接过的远程主机的信息,注意,这个不是真正的公钥!!!因为我服务端根本就没有创建公钥.
+# 生成客户端密钥对
+公钥可以被公开分享，而私钥必须保持私密
+```
+ssh-keygen
+```
+## Linux
+passphrase 是二级密![image-2024220358654.png](00_sync/00vpn加密/win&linux配置公私钥/win&linux配置公私钥/image-2024220358654.png)
+可以看到我生成了一个RSA的公钥
+![image-20242203810576.png](00_sync/00vpn加密/win&linux配置公私钥/win&linux配置公私钥/image-20242203810576.png)
+但是我的用户是ubuntu用户,所以我需要切root用户才可以访问列表,或者你也可以直接向上面一样调用root权限cat也可以.
+![image-20242204124531.png](00_sync/00vpn加密/win&linux配置公私钥/win&linux配置公私钥/image-20242204124531.png)
+复制生成的公钥.
+![image-20242204227530.png](00_sync/00vpn加密/win&linux配置公私钥/win&linux配置公私钥/image-20242204227530.png)
+## Win
+![image-20242203316332.png](00_sync/00vpn加密/win&linux配置公私钥/win&linux配置公私钥/image-20242203316332.png)
+也是一样复制id_rsa.pub的公钥对
+
+# 服务端
+通过ssh或者任何连接方式,找到同样是用户目录下的
+```
+cd ~/.ssh
+sudo vim authorized_keys  #没有的需要创建一个跟我一样
+```
+![image-20242202512312.png](00_sync/00vpn加密/win&linux配置公私钥/win&linux配置公私钥/image-20242202512312.png)
+公钥粘贴过来并且保存这样我的服务器就存储了两台电脑的公钥了
+![image-20242203514417.png](00_sync/00vpn加密/win&linux配置公私钥/win&linux配置公私钥/image-20242203514417.png)
+建议给与600权限使得所有者可以读写.
+![image-20242202942316.png](00_sync/00vpn加密/win&linux配置公私钥/win&linux配置公私钥/image-20242202942316.png)
+然后编辑
+```
+sudo vim /etc/ssh/sshd_config
+```
+![image-20242204841745.png](00_sync/00vpn加密/win&linux配置公私钥/win&linux配置公私钥/image-20242204841745.png)
+	取消注释
+![image-20242204917247.png](00_sync/00vpn加密/win&linux配置公私钥/win&linux配置公私钥/image-20242204917247.png)
+```
+sudo service ssh reload
+sudo systemctl reload sshd
+```
+可以看到并没有提示需要输入密码
+![image-20242204216225.png](00_sync/00vpn加密/win&linux配置公私钥/win&linux配置公私钥/image-20242204216225.png)
+![image-20242204748862.png](00_sync/00vpn加密/win&linux配置公私钥/win&linux配置公私钥/image-20242204748862.png)

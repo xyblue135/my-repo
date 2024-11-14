@@ -1,0 +1,369 @@
+{
+  "main": {
+    "id": "0095bed5c614fcf7",
+    "type": "split",
+    "children": [
+      {
+        "id": "c031c520d062f70f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6ec5f370d950df12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_sync/00网络/家庭影院第5章【硬解&&转码】/家庭影院第5章【硬解&&转码】.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "家庭影院第5章【硬解&&转码】"
+            }
+          },
+          {
+            "id": "9181ea366a66ff9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_sync/00图片视频处理/ffmpeg的命令使用/ffmpeg的命令使用.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ffmpeg的命令使用"
+            }
+          },
+          {
+            "id": "c21efa3a082a42b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_sync/00linux/Linux和Win下用ffmpeg便捷判断核显_独立显卡是否正常转码/Linux和Win下用ffmpeg便捷判断核显_独立显卡是否正常转码.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Linux和Win下用ffmpeg便捷判断核显_独立显卡是否正常转码"
+            }
+          },
+          {
+            "id": "812d26b9c825ddaf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_sync/00网络/家庭影院第5章【硬解&&转码】/家庭影院第5章【硬解&&转码】.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "家庭影院第5章【硬解&&转码】"
+            }
+          },
+          {
+            "id": "bab0ae352d363427",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_sync/ZZ瞎写/关于各种linux系统的评价/关于各种linux系统的评价.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "关于各种linux系统的评价"
+            }
+          },
+          {
+            "id": "73ac09d5512a7239",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_sync/00linux/换源/换源.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "换源"
+            }
+          },
+          {
+            "id": "7b8507f13390a619",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_sync/00网络/Docker无法pull解决/Docker无法pull解决.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Docker无法pull解决"
+            }
+          },
+          {
+            "id": "e2892320cdb71349",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_sync/00linux/如果安全卸载/如果安全卸载.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "如果安全卸载"
+            }
+          },
+          {
+            "id": "db6acd8b57c7efa6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_sync/00网络/Docker无法pull解决/Docker无法pull解决.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Docker无法pull解决"
+            }
+          }
+        ],
+        "currentTab": 8
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e4413a3ac72b381b",
+    "type": "split",
+    "children": [
+      {
+        "id": "34712ce6a3a00d8d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f866d99026af759",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          },
+          {
+            "id": "dc187ab21f8333d6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabeticalReverse"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "e8e297cbbed5d775",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "pull",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "e7012ce170d9869e",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          },
+          {
+            "id": "4eeb4f4984c4122f",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 257.5004348754883
+  },
+  "right": {
+    "id": "84552388188fd319",
+    "type": "split",
+    "children": [
+      {
+        "id": "6846bea0edc08296",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b10054a24cca00e2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "00_sync/00网络/smb_ftp_nfs_WebDav共享/smb_ftp_nfs_WebDav共享.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "smb_ftp_nfs_WebDav共享 的反向链接列表"
+            }
+          },
+          {
+            "id": "f10b86ee12c35a5e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "00_sync/00网络/smb_ftp_nfs_WebDav共享/smb_ftp_nfs_WebDav共享.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "smb_ftp_nfs_WebDav共享 的出链列表"
+            }
+          },
+          {
+            "id": "da0c6b70a00f2afc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "457a90eb61b74b72",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "插件不再活动"
+            }
+          },
+          {
+            "id": "90d407bc3a616fd5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "00_sync/00网络/Docker无法pull解决/Docker无法pull解决.md"
+              },
+              "icon": "lucide-list",
+              "title": "Docker无法pull解决 的大纲"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 201.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "zk-prefixer:创建时间戳笔记": false,
+      "audio-recorder:开始/结束录音": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "obsidian-rich-links:Rich Links": false
+    }
+  },
+  "active": "db6acd8b57c7efa6",
+  "lastOpenFiles": [
+    "00_sync/00linux/配置代理/配置简单代理_和clash.md",
+    "00_sync/00linux/配置代理/配置简单代理_和clash/image-202411153234284.png",
+    "00_sync/00linux/00000原始linux需要安装的/00000原始linux需要安装的.md",
+    "00_sync/00网络/Docker无法pull解决/Docker无法pull解决.md",
+    "00_sync/00linux/换源/换源.md",
+    "00_sync/00linux/手动安装docker和docker-compose/手动安装docker和docker-compose.md",
+    "00_sync/00linux/手动安装docker和docker-compose/手动安装docker和docker-compose/image-20241114655737.png",
+    "00_sync/00linux/如果安全卸载/如果安全卸载.md",
+    "00_sync/00linux/如果安全卸载/如果安全卸载/image-20241114413296.png",
+    "00_sync/00linux/如果安全卸载/如果安全卸载",
+    "00_sync/00linux/如果安全卸载/如果安全卸载/image-20241114325601.png",
+    "00_sync/00linux/如果安全卸载",
+    "00_sync/00linux/手动安装docker和docker-compose/手动安装docker和docker-compose/image-202411142946293.png",
+    "00_sync/ZZ瞎写/关于各种linux系统的评价/关于各种linux系统的评价.md",
+    "00_sync/00网络/远程穿透DDNS开机自启Docker/Frp,DDNS,Docker部署,Overlay区域划分.md",
+    "00_sync/ZZ瞎写/关于各种linux系统的评价/关于各种linux系统的评价/image-20241114319528.png",
+    "00_sync/ZZ瞎写/关于各种linux系统的评价/关于各种linux系统的评价",
+    "00_sync/ZZ瞎写/关于各种linux系统的评价/关于各种linux系统的评价/image-20241114257742.png",
+    "00_sync/ZZ瞎写/关于各种linux系统的评价",
+    "00_sync/00网络/家庭影院第5章【硬解&&转码】/家庭影院第5章【硬解&&转码】.md",
+    "00_sync/00linux/Linux下安装ffmpeg/Linux下安装ffmpeg.md",
+    "00_sync/00linux/Linux和Win下用ffmpeg便捷判断核显_独立显卡是否正常转码/Linux和Win下用ffmpeg便捷判断核显_独立显卡是否正常转码.md",
+    "00_sync/00linux/Linux下编译make安装/Linux下编译make安装.md",
+    "00_sync/00网络/家庭影院第5章【硬解&&转码】/家庭影院第5章【硬解&&转码】/image-20241114344335.png",
+    "00_sync/00linux/Linux下编译make安装/Linux下编译make安装/image-20241114302962.png",
+    "00_sync/00网络/家庭影院第5章【硬解&&转码】/家庭影院第5章【硬解&&转码】/image-20241114211557.png",
+    "00_sync/00图片视频处理/ffmpeg的命令使用/ffmpeg的命令使用.md",
+    "00_sync/00网络/Linux网络排错之断流【修改grub】/Linux网络排错之断流【修改grub】.md",
+    "00_sync/00linux/在Linux摆脱繁琐的解压命令/在Linux摆脱繁琐的解压命令.md",
+    "00_sync/00图片视频处理/ffmpeg的命令使用/ffmpeg的命令使用",
+    "00_sync/00图片视频处理/ffmpeg的命令使用",
+    "00_sync/00linux/Linux安装独立显卡驱动/Linux安装独立显卡驱动.md",
+    "00_sync/00网络/家庭影院第8章【缓存优化】/家庭影院第8章【缓存优化】.md",
+    "00_sync/00网络/家庭影院第8章【缓存优化】/家庭影院第8章【缓存优化】",
+    "00_sync/00网络/家庭影院第8章【缓存优化】",
+    "00_sync/家庭影院第8章【缓存优化】",
+    "00_sync/00网络/alist挂载常用网盘/alist挂载常用网盘.md",
+    "00_sync/00网络/alist挂载常用网盘/alist挂载常用网盘",
+    "00_sync/00网络/家庭影院第3章【挂载云盘&&alist&&rclone】/家庭影院第3章【挂载云盘&&alist&&rclone】.md",
+    "00_sync/00网络/rclone的全部配置/rclone的全部配置.md",
+    "00_sync/00linux/Linux下使用命令连接wifi的三种方式/Linux下使用命令连接wifi的三种方式.md",
+    "00_sync/00脚本_文本和图片/字符集&&编码字符集ASCll和GBK和Unicode_UTF-8_UTF-32/字符集&&编码字符集ASCll和GBK和Unicode_UTF-8_UTF-32.md",
+    "00_sync/00网络/家庭影院第7章【挂载小雅】/家庭影院第7章【挂载小雅】.md",
+    "00_sync/00linux/Linux一个高级电源管理工具TLP/Linux一个高级电源管理工具TLP.md",
+    "00_sync/00linux/Linux和Win下alias定义别名和export变量/Linux和Win下alias定义别名和export变量.md",
+    "1自用笔记无上传/位图转为矢量图/图像处理.canvas",
+    "python/未命名.canvas",
+    "需要放入网站的笔记/未命名.canvas",
+    "未命名 2.canvas",
+    "未命名 3.canvas",
+    "未命名 1.canvas",
+    "未命名/未命名.canvas"
+  ]
+}

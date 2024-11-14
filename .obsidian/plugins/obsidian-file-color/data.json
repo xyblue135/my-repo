@@ -1,0 +1,59 @@
+{
+  "cascadeColors": false,
+  "colorBackground": true,
+  "palette": [
+    {
+      "id": "ns8wQfNkATtR2rr1fs164",
+      "name": "",
+      "value": "#ffffff"
+    },
+    {
+      "id": "vGKFmmM8Rex44UX5ZrhwE",
+      "name": "",
+      "value": "#8bd818"
+    },
+    {
+      "id": "JbwpXCTeqix1jHzAdJOeO",
+      "name": "",
+      "value": "#ff0000"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "2需要放入网站的笔记",
+      "color": "vGKFmmM8Rex44UX5ZrhwE"
+    },
+    {
+      "path": "6视频思路/最全攻略.md",
+      "color": "vGKFmmM8Rex44UX5ZrhwE"
+    },
+    {
+      "path": "00_sync",
+      "color": "vGKFmmM8Rex44UX5ZrhwE"
+    },
+    {
+      "path": "5搁置的网站上传项目/linux常用指令(收藏夹)",
+      "color": "JbwpXCTeqix1jHzAdJOeO"
+    },
+    {
+      "path": "3可以放入网站的笔记",
+      "color": "vGKFmmM8Rex44UX5ZrhwE"
+    },
+    {
+      "path": "1自用笔记无上传",
+      "color": "vGKFmmM8Rex44UX5ZrhwE"
+    },
+    {
+      "path": "7_8ENSP实验配置",
+      "color": "JbwpXCTeqix1jHzAdJOeO"
+    },
+    {
+      "path": "8刷题的/HCIP-821",
+      "color": "vGKFmmM8Rex44UX5ZrhwE"
+    },
+    {
+      "path": "8刷题的",
+      "color": "JbwpXCTeqix1jHzAdJOeO"
+    }
+  ]
+}

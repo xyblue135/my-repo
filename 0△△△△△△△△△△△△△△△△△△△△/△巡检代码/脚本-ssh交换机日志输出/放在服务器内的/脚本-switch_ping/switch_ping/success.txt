@@ -1,0 +1,1446 @@
+Successful Pings:
+Host: 192.168.250.9
+ (IP: 192.168.250.9)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 0.795/0.795/0.795/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.250.10
+ (IP: 192.168.250.10)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.443/2.443/2.443/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8005:2801:3B00:5::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 1.996/1.996/1.996/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8005:2801:3B00:5::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 3.383/3.383/3.383/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.102.25
+ (IP: 192.168.102.25)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 1.150/1.150/1.150/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.102.26
+ (IP: 192.168.102.26)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.402/2.402/2.402/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8005:2801:300:2::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 1.710/1.710/1.710/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8005:2801:300:2::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 5.301/5.301/5.301/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.5.1
+ (IP: 192.168.5.1)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 3.516/3.516/3.516/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.5.2
+ (IP: 192.168.5.2)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 4.628/4.628/4.628/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8005:2A01:1900:101::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.310/2.310/2.310/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8005:2A01:1900:101::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.921/2.921/2.921/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.4.1
+ (IP: 192.168.4.1)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 3.988/3.988/3.988/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.4.2
+ (IP: 192.168.4.2)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 3.141/3.141/3.141/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8004:2810:1050::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 1.860/1.860/1.860/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8004:2810:1050::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 3.102/3.102/3.102/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.2.33
+ (IP: 192.168.2.33)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 3.790/3.790/3.790/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.2.34
+ (IP: 192.168.2.34)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.443/2.443/2.443/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8004:2811:1010::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.131/2.131/2.131/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8004:2811:1010::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 3.954/3.954/3.954/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.4.5
+ (IP: 192.168.4.5)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 0.996/0.996/0.996/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.4.6
+ (IP: 192.168.4.6)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.558/2.558/2.558/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8004:2810:1030::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.057/2.057/2.057/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8004:2810:1030::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 3.993/3.993/3.993/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.4.9
+ (IP: 192.168.4.9)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 0.932/0.932/0.932/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.4.10
+ (IP: 192.168.4.10)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.229/2.229/2.229/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8004:2810:1010::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.097/2.097/2.097/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8004:2810:1010::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 3.673/3.673/3.673/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.205.9
+ (IP: 192.168.205.9)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 0.950/0.950/0.950/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.205.10
+ (IP: 192.168.205.10)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.372/2.372/2.372/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8004:2801:30::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 1.901/1.901/1.901/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8004:2801:30::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 3.472/3.472/3.472/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.100.1
+ (IP: 192.168.100.1)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 1.040/1.040/1.040/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.100.2
+ (IP: 192.168.100.2)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 6.243/6.243/6.243/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8004:2810:1040::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.136/2.136/2.136/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8004:2810:1040::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 3.391/3.391/3.391/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.5.5
+ (IP: 192.168.5.5)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 1.095/1.095/1.095/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.5.6
+ (IP: 192.168.5.6)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.328/2.328/2.328/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8005:2A01:1900:103::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.101/2.101/2.101/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8005:2A01:1900:103::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 3.361/3.361/3.361/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.205.1
+ (IP: 192.168.205.1)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 0.985/0.985/0.985/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.205.2
+ (IP: 192.168.205.2)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.082/2.082/2.082/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8005:2801:900:3::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 1.655/1.655/1.655/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8005:2801:900:3::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 5.996/5.996/5.996/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.205.5
+ (IP: 192.168.205.5)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 1.032/1.032/1.032/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.205.6
+ (IP: 192.168.205.6)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 3.427/3.427/3.427/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8005:2801:900:7::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.060/2.060/2.060/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8005:2801:900:7::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 3.696/3.696/3.696/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.205.65
+ (IP: 192.168.205.65)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 0.822/0.822/0.822/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.205.66
+ (IP: 192.168.205.66)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 1.879/1.879/1.879/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8005:2805:900:1::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.002/2.002/2.002/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8005:2805:900:1::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 5.881/5.881/5.881/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.230.1
+ (IP: 192.168.230.1)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 3.794/3.794/3.794/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.230.2
+ (IP: 192.168.230.2)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 3.498/3.498/3.498/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8004:5a06:5005:104::2)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.577/2.577/2.577/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8004:5a06:5005:104::3)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 5.671/5.671/5.671/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.205.73
+ (IP: 192.168.205.73)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 1.022/1.022/1.022/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.205.74
+ (IP: 192.168.205.74)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.166/2.166/2.166/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8005:2805:10::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 3.024/3.024/3.024/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8005:2805:10::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 5.678/5.678/5.678/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.205.69
+ (IP: 192.168.205.69)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 3.895/3.895/3.895/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.205.70
+ (IP: 192.168.205.70)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.652/2.652/2.652/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8005:2805:900:3::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.168/2.168/2.168/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.205.77
+ (IP: 192.168.205.77)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 3.909/3.909/3.909/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.205.78
+ (IP: 192.168.205.78)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 4.659/4.659/4.659/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8005:2805:30::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 3.252/3.252/3.252/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8005:2805:30::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 7.672/7.672/7.672/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.205.61
+ (IP: 192.168.205.61)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 1.044/1.044/1.044/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.205.62
+ (IP: 192.168.205.62)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.351/2.351/2.351/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8005:2810:900:3::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.011/2.011/2.011/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8005:2810:900:3::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 5.650/5.650/5.650/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.205.169
+ (IP: 192.168.205.169)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 1.185/1.185/1.185/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.205.170
+ (IP: 192.168.205.170)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.809/2.809/2.809/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8005:2810:900:7::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.025/2.025/2.025/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8005:2810:900:7::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 4.209/4.209/4.209/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.4.25
+ (IP: 192.168.4.25)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 1.047/1.047/1.047/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.4.26
+ (IP: 192.168.4.26)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 4.937/4.937/4.937/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8004:2820:1030::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.457/2.457/2.457/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8004:2820:1030::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 3.401/3.401/3.401/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.205.53
+ (IP: 192.168.205.53)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 3.833/3.833/3.833/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.205.54
+ (IP: 192.168.205.54)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 3.432/3.432/3.432/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8005:2810:900:1::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.078/2.078/2.078/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8005:2810:900:1::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 5.474/5.474/5.474/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.205.57
+ (IP: 192.168.205.57)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 0.864/0.864/0.864/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.205.58
+ (IP: 192.168.205.58)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 6.049/6.049/6.049/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8005:2810:900:5::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.044/2.044/2.044/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8005:2810:900:5::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 3.198/3.198/3.198/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.200.1
+ (IP: 192.168.200.1)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 1.029/1.029/1.029/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.200.2
+ (IP: 192.168.200.2)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.215/2.215/2.215/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: FC00:2000::2)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 1.855/1.855/1.855/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: FC00:2000::3)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.756/2.756/2.756/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.4.21
+ (IP: 192.168.4.21)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 0.770/0.770/0.770/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.4.22
+ (IP: 192.168.4.22)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 7.015/7.015/7.015/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8004:2820:1010::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.035/2.035/2.035/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8004:2820:1010::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 4.537/4.537/4.537/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.205.45
+ (IP: 192.168.205.45)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 0.969/0.969/0.969/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.205.46
+ (IP: 192.168.205.46)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 1.942/1.942/1.942/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8005:2803:900:3::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.190/2.190/2.190/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8005:2803:900:3::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 5.977/5.977/5.977/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.205.49
+ (IP: 192.168.205.49)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.096/2.096/2.096/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.205.50
+ (IP: 192.168.205.50)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 1.919/1.919/1.919/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8004:2803:10::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 1.994/1.994/1.994/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8004:2803:10::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 4.801/4.801/4.801/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.254.1
+ (IP: 192.168.254.1)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 0.863/0.863/0.863/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.254.2
+ (IP: 192.168.254.2)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.263/2.263/2.263/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: FC00:1000::2)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.945/2.945/2.945/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: FC00:1000::3)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.826/2.826/2.826/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.205.41
+ (IP: 192.168.205.41)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 3.850/3.850/3.850/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.205.42
+ (IP: 192.168.205.42)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 1.984/1.984/1.984/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8005:2803:900:1::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.124/2.124/2.124/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8005:2803:900:1::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 5.158/5.158/5.158/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.206.9
+ (IP: 192.168.206.9)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 3.435/3.435/3.435/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.206.10
+ (IP: 192.168.206.10)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 17.820/17.820/17.820/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8005:2A04:0900:604::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.145/2.145/2.145/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8005:2A04:0900:604::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 4.207/4.207/4.207/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.205.85
+ (IP: 192.168.205.85)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 1.157/1.157/1.157/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.205.86
+ (IP: 192.168.205.86)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.457/2.457/2.457/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8005:2804:900:3::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 1.792/1.792/1.792/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8005:2804:900:3::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 5.700/5.700/5.700/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.205.89
+ (IP: 192.168.205.89)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.004/2.004/2.004/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.205.90
+ (IP: 192.168.205.90)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.323/2.323/2.323/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8005:2804:900:5::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.047/2.047/2.047/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8005:2804:900:5::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 5.340/5.340/5.340/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.205.93
+ (IP: 192.168.205.93)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 0.781/0.781/0.781/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.205.94
+ (IP: 192.168.205.94)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 3.549/3.549/3.549/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8005:2804:900:7::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 1.540/1.540/1.540/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8005:2804:900:7::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 3.648/3.648/3.648/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.250.1
+ (IP: 192.168.250.1)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 0.722/0.722/0.722/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.250.2
+ (IP: 192.168.250.2)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 6.401/6.401/6.401/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8004:2842:1020::102)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.059/2.059/2.059/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8004:2842:1020::103)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 3.665/3.665/3.665/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.207.9
+ (IP: 192.168.207.9)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 1.238/1.238/1.238/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.207.10
+ (IP: 192.168.207.10)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.648/2.648/2.648/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8005:2A04:0900:808::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 3.007/3.007/3.007/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8005:2A04:0900:808::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 4.422/4.422/4.422/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.205.81
+ (IP: 192.168.205.81)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 1.109/1.109/1.109/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.205.82
+ (IP: 192.168.205.82)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.163/2.163/2.163/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8005:2804:900:1::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 1.771/1.771/1.771/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8005:2804:900:1::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 5.553/5.553/5.553/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.205.97
+ (IP: 192.168.205.97)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 1.012/1.012/1.012/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.205.98
+ (IP: 192.168.205.98)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.597/2.597/2.597/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8005:2804:900:9::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 3.156/3.156/3.156/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8005:2804:900:9::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 3.926/3.926/3.926/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.205.101
+ (IP: 192.168.205.101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 0.653/0.653/0.653/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.205.102
+ (IP: 192.168.205.102)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.423/2.423/2.423/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8004:2804:10::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.029/2.029/2.029/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8004:2804:10::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 4.148/4.148/4.148/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.250.9
+ (IP: 192.168.250.9)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 1.919/1.919/1.919/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.250.10
+ (IP: 192.168.250.10)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 5.230/5.230/5.230/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8004:2842:1020::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.108/2.108/2.108/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8004:2842:1020::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 4.028/4.028/4.028/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.205.13
+ (IP: 192.168.205.13)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 1.218/1.218/1.218/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.205.14
+ (IP: 192.168.205.14)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.357/2.357/2.357/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8005:2806:900:5::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.076/2.076/2.076/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8005:2806:900:5::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 3.521/3.521/3.521/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.102.29
+ (IP: 192.168.102.29)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 1.056/1.056/1.056/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.102.30
+ (IP: 192.168.102.30)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 1.896/1.896/1.896/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8005:2801:300:2::200)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.008/2.008/2.008/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8005:2801:300:2::201)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 3.589/3.589/3.589/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.205.17
+ (IP: 192.168.205.17)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 0.699/0.699/0.699/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.205.18
+ (IP: 192.168.205.18)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.348/2.348/2.348/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8004:2806:50::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.092/2.092/2.092/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8004:2806:50::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 3.275/3.275/3.275/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.205.21
+ (IP: 192.168.205.21)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 0.860/0.860/0.860/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.205.22
+ (IP: 192.168.205.22)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 4.096/4.096/4.096/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8004:2806:50::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 1.245/1.245/1.245/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8004:2806:50::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.695/2.695/2.695/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.4.13
+ (IP: 192.168.4.13)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 3.675/3.675/3.675/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.4.14
+ (IP: 192.168.4.14)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.501/2.501/2.501/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8004:2860:1030::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.004/2.004/2.004/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8004:2860:1030::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 3.455/3.455/3.455/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.205.33
+ (IP: 192.168.205.33)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 4.295/4.295/4.295/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.205.34
+ (IP: 192.168.205.34)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.331/2.331/2.331/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8005:2806:900:3::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.111/2.111/2.111/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8005:2806:900:3::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 3.269/3.269/3.269/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.255.249
+ (IP: 192.168.255.249)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 0.983/0.983/0.983/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.255.250
+ (IP: 192.168.255.250)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 3.692/3.692/3.692/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8005:2A06:1900:103::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.464/2.464/2.464/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8005:2A06:1900:103::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.986/2.986/2.986/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.102.33
+ (IP: 192.168.102.33)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 1.170/1.170/1.170/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.102.34
+ (IP: 192.168.102.34)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.116/2.116/2.116/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8005:2801:300:2::300)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.370/2.370/2.370/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8005:2801:300:2::301)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 3.555/3.555/3.555/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.205.37
+ (IP: 192.168.205.37)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 1.080/1.080/1.080/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.205.38
+ (IP: 192.168.205.38)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 4.647/4.647/4.647/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8004:2806:70::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.109/2.109/2.109/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8004:2806:70::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 3.334/3.334/3.334/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.4.17
+ (IP: 192.168.4.17)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 3.918/3.918/3.918/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.4.18
+ (IP: 192.168.4.18)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 6.499/6.499/6.499/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8004:2860:1010::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 3.046/3.046/3.046/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8004:2860:1010::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 3.569/3.569/3.569/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.205.25
+ (IP: 192.168.205.25)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 1.052/1.052/1.052/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.205.26
+ (IP: 192.168.205.26)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.340/2.340/2.340/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8005:2806:900:1::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.060/2.060/2.060/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8005:2806:900:1::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 3.166/3.166/3.166/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.255.253
+ (IP: 192.168.255.253)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 0.994/0.994/0.994/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.255.254
+ (IP: 192.168.255.254)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 4.694/4.694/4.694/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8005:2A06:1900:101::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 1.960/1.960/1.960/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8005:2A06:1900:101::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 0.871/0.871/0.871/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.205.29
+ (IP: 192.168.205.29)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 1.010/1.010/1.010/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.205.30
+ (IP: 192.168.205.30)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.418/2.418/2.418/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8005:2806:900:7::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.168/2.168/2.168/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8005:2806:900:7::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 3.028/3.028/3.028/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.205.153
+ (IP: 192.168.205.153)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 3.626/3.626/3.626/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.205.154
+ (IP: 192.168.205.154)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 4.709/4.709/4.709/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8005:2810:900:1::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 1.732/1.732/1.732/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8005:2810:900:1::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 5.723/5.723/5.723/0.000 ms
+--------------------------------------------------------------------------------
+Host: 172.16.1.1
+ (IP: 172.16.1.1)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 0.964/0.964/0.964/0.000 ms
+--------------------------------------------------------------------------------
+Host: 172.16.1.2
+ (IP: 172.16.1.2)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.337/2.337/2.337/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.205.165
+ (IP: 192.168.205.165)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 1.264/1.264/1.264/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.205.166
+ (IP: 192.168.205.166)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 1.933/1.933/1.933/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8005:2810:30::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 1.995/1.995/1.995/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8005:2810:30::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 5.918/5.918/5.918/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.205.157
+ (IP: 192.168.205.157)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 0.719/0.719/0.719/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.205.158
+ (IP: 192.168.205.158)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.255/2.255/2.255/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8005:2810:900:3::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.372/2.372/2.372/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8005:2810:900:3::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 3.685/3.685/3.685/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.205.161
+ (IP: 192.168.205.161)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 0.902/0.902/0.902/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.205.162
+ (IP: 192.168.205.162)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.250/2.250/2.250/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8005:2810:10::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 1.825/1.825/1.825/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8005:2810:10::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 7.105/7.105/7.105/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.205.145
+ (IP: 192.168.205.145)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 3.527/3.527/3.527/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.205.146
+ (IP: 192.168.205.146)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.215/2.215/2.215/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8005:2809:900:1::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.074/2.074/2.074/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8005:2809:900:1::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 6.010/6.010/6.010/0.000 ms
+--------------------------------------------------------------------------------
+Host: 172.22.0.1
+ (IP: 172.22.0.1)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 1.082/1.082/1.082/0.000 ms
+--------------------------------------------------------------------------------
+Host: 172.22.0.2
+ (IP: 172.22.0.2)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 3.268/3.268/3.268/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8005:2A09:0900:1::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 1.749/1.749/1.749/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8005:2A09:0900:1::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 4.987/4.987/4.987/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.205.137
+ (IP: 192.168.205.137)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 0.766/0.766/0.766/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.205.138
+ (IP: 192.168.205.138)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 4.753/4.753/4.753/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8005:2809:10::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 1.919/1.919/1.919/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8005:2809:10::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 6.850/6.850/6.850/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.205.149
+ (IP: 192.168.205.149)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 1.221/1.221/1.221/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.205.150
+ (IP: 192.168.205.150)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.402/2.402/2.402/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8005:2809:900:3::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.825/2.825/2.825/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8005:2809:900:3::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 5.873/5.873/5.873/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.205.141
+ (IP: 192.168.205.141)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 1.065/1.065/1.065/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.205.142
+ (IP: 192.168.205.142)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.197/2.197/2.197/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8005:2809:30::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 3.085/3.085/3.085/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8005:2809:30::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 8.529/8.529/8.529/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.205.129
+ (IP: 192.168.205.129)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 1.054/1.054/1.054/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.205.130
+ (IP: 192.168.205.130)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.724/2.724/2.724/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8005:2811:10::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.249/2.249/2.249/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8005:2811:10::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 5.179/5.179/5.179/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.205.125
+ (IP: 192.168.205.125)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.178/2.178/2.178/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.205.126
+ (IP: 192.168.205.126)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 4.553/4.553/4.553/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8005:2811:900:1::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 1.705/1.705/1.705/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8005:2811:900:1::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 5.356/5.356/5.356/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.150.1
+ (IP: 192.168.150.1)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 1.165/1.165/1.165/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.150.2
+ (IP: 192.168.150.2)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 3.435/3.435/3.435/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8005:2A0B:0900:1::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.069/2.069/2.069/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8005:2A0B:0900:1::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 4.765/4.765/4.765/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.205.133
+ (IP: 192.168.205.133)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 0.958/0.958/0.958/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.205.134
+ (IP: 192.168.205.134)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.276/2.276/2.276/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8005:2811:30::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.015/2.015/2.015/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8005:2811:30::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 8.979/8.979/8.979/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.205.109
+ (IP: 192.168.205.109)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 1.335/1.335/1.335/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.205.110
+ (IP: 192.168.205.110)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 5.080/5.080/5.080/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8005:2808:900:1::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.249/2.249/2.249/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8005:2808:900:1::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 5.655/5.655/5.655/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.2.1
+ (IP: 192.168.2.1)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 3.842/3.842/3.842/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.2.2
+ (IP: 192.168.2.2)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 3.458/3.458/3.458/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8005:2A08:1A00:101::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.025/2.025/2.025/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8005:2A08:1A00:101::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 3.238/3.238/3.238/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.205.117
+ (IP: 192.168.205.117)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 0.946/0.946/0.946/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.205.118
+ (IP: 192.168.205.118)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.491/2.491/2.491/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8005:2808:900:5::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.053/2.053/2.053/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8005:2808:900:5::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 4.115/4.115/4.115/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.250.17
+ (IP: 192.168.250.17)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 0.957/0.957/0.957/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.250.18
+ (IP: 192.168.250.18)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 4.094/4.094/4.094/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8004:2882:10B0::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.148/2.148/2.148/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8004:2882:10B0::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 3.957/3.957/3.957/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.205.121
+ (IP: 192.168.205.121)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 3.683/3.683/3.683/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.205.122
+ (IP: 192.168.205.122)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.401/2.401/2.401/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8005:2808:900:7::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 1.754/1.754/1.754/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8005:2808:900:7::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 3.631/3.631/3.631/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.2.5
+ (IP: 192.168.2.5)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 1.443/1.443/1.443/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.2.6
+ (IP: 192.168.2.6)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 4.387/4.387/4.387/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8005:2A08:1A00:103::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.114/2.114/2.114/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8005:2A08:1A00:103::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 3.270/3.270/3.270/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.205.113
+ (IP: 192.168.205.113)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 1.008/1.008/1.008/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.205.114
+ (IP: 192.168.205.114)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.645/2.645/2.645/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8005:2808:900:3::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 3.218/3.218/3.218/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8005:2808:900:3::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 5.601/5.601/5.601/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.250.25
+ (IP: 192.168.250.25)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 1.031/1.031/1.031/0.000 ms
+--------------------------------------------------------------------------------
+Host: 192.168.250.26
+ (IP: 192.168.250.26)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.813/2.813/2.813/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8004:2882:1010::100)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 2.103/2.103/2.103/0.000 ms
+--------------------------------------------------------------------------------
+Host: ipv6
+ (IP: 2409:8004:2882:1010::101)
+Packets: 1 transmitted, 1 received, 0.0% packet loss
+Round-trip min/avg/max/std-dev = 3.857/3.857/3.857/0.000 ms
+--------------------------------------------------------------------------------

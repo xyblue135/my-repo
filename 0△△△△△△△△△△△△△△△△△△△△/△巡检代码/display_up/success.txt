@@ -1,0 +1,103 @@
+2024-06-17 14:15:02
+Line 2: ji_fang河北石家庄开发区机房sjz_kaifaqu 10.126.219.132
+Line 32: GE1/0/3              UP   1G(a)     F(a)   T    1    To_L02-HE-SJZKFQ-EYCX-SPI
+Line 48: GE1/0/6              UP   1G(a)     F(a)   T    1    To_L02-HE-SJZKFQ-EYCX-SPI
+Line 64: GE1/0/9              UP   1G(a)     F(a)   T    1    To_L03-HE-SJZKFQ-EYCX-SPI
+Line 80: GE1/0/12             UP   1G(a)     F(a)   T    1    To_L06-HE-SJZKFQ-EYCX-SPI
+Line 96: GE1/0/15             UP   1G(a)     F(a)   T    1    To_L07-HE-SJZKFQ-EYCX-SPI
+Line 102: ji_fang河北石家庄东风路机房sjz_dongfenglu 10.126.219.101
+Line 132: GE1/0/3              UP   1G(a)     F(a)   T    1    To_L08-SJZDFL-EYCX-SPI811
+Line 148: GE1/0/6              UP   1G(a)     F(a)   T    1    To_L08-SJZDFL-EYCX-SPI811
+Line 164: GE1/0/9              UP   1G(a)     F(a)   T    1    To_L08-SJZDFL-EYCX-SPI811
+Line 170: ji_fang河北石家庄鹿泉机房sjz_luquan 10.126.220.115
+Line 200: GE1/0/3              UP   1G(a)     F(a)   T    1    To_I13-HE-SJZLQ-EYCX-SPI8
+Line 216: GE1/0/10             UP   1G(a)     F(a)   T    1    To_I13-HE-SJZLQ-EYCX-SPI8
+Line 232: GE1/0/13             UP   1G(a)     F(a)   T    1    To_I13-HE-SJZLQ-EYCX-SPI8
+Line 248: GE1/0/16             UP   1G(a)     F(a)   T    1    To_I13-HE-SJZLQ-EYCX-SPI8
+Line 254: ji_fang河北衡水和平路机房hs_hepinglu 10.126.220.35
+Line 284: GE1/0/3              UP   1G(a)     F(a)   T    1    To_G04-HSTCQ-EYCX-SPI8110
+Line 300: GE1/0/9              UP   1G(a)     F(a)   T    1    To_G04-HSTCQ-EYCX-SPI8110
+Line 306: ji_fang河北衡水人民路机房hs_renminlu 10.126.220.51
+Line 336: GE1/0/3              UP   1G(a)     F(a)   T    1    To_F08-HE-HSRML-EYCX-SPI8
+Line 352: GE1/0/8              UP   1G(a)     F(a)   T    1    To_F08-HE-HSRML-EYCX-SPI8
+Line 358: ji_fang河北邯郸全球通机房hd_quanqiutong 10.126.219.69
+Line 388: GE1/0/3              UP   1G(a)     F(a)   T    1    To_15L9G-HE-HDQQT-EYCX-SP
+Line 404: GE1/0/6              UP   1G(a)     F(a)   T    1    To_15L9G-HE-HDQQT-EYCX-SP
+Line 420: GE1/0/9              UP   1G(a)     F(a)   T    1    To_15L9G-HE-HDQQT-EYCX-SP
+Line 436: GE1/0/16             UP   1G(a)     F(a)   T    1    To_15L9G-HE-HDQQT-EYCX-SP
+Line 442: ji_fang河北邯郸yidongdasha机房hd_yidongdasha  10.126.220.19
+Line 472: GE1/0/3              UP   1G(a)     F(a)   T    1    To_12L10G-HE-HDYDDS-EYCX-
+Line 488: GE1/0/9              UP   1G(a)     F(a)   T    1    To_12L10G-HE-HDYDDS-EYCX-
+Line 504: GE1/0/12             UP   1G(a)     F(a)   T    1    To_12L10G-HE-HDYDDS-EYCX-
+Line 510: ji_fang河北邢台东环机房xt_donghuan 10.126.220.148
+Line 540: GE1/0/3              UP   1G(a)     F(a)   T    1    To_I10-HE-XTDH-EYCX-SPI81
+Line 556: GE1/0/6              UP   1G(a)     F(a)   T    1    To_I10-HE-XTDH-EYCX-SPI81
+Line 572: GE1/0/12             UP   1G(a)     F(a)   T    1    To_I10-HE-XTDH-EYCX-SPI81
+Line 578: ji_fang河北邢台综合楼机房xt_zonghelou 10.126.220.163
+Line 608: GE1/0/3              UP   1G(a)     F(a)   T    1    To_E08-HE-XTZHL-EYCX-SPI8
+Line 624: GE1/0/7              UP   1G(a)     F(a)   T    1    To_E08-HE-XTZHL-EYCX-SPI8
+Line 640: GE1/0/10             UP   1G(a)     F(a)   T    1    To_E08-HE-XTZHL-EYCX-SPI8
+Line 646: ji_fang河北沧州移动大楼机房cz_yidongdalou 10.126.219.227
+Line 676: GE1/0/3              UP   1G(a)     F(a)   T    1    To_7L4G-HE-CZYDDL-EYCX-SP
+Line 692: GE1/0/10             UP   1G(a)     F(a)   T    1    To_7L4G-HE-CZYDDL-EYCX-SP
+Line 708: GE1/0/13             UP   1G(a)     F(a)   T    1    To_7L4G-HE-CZYDDL-EYCX-SP
+Line 724: GE1/0/16             UP   1G(a)     F(a)   T    1    To_7L4G-HE-CZYDDL-EYCX-SP
+Line 730: ji_fang河北沧州枢纽楼机房cz_shuniulou 10.126.219.211
+Line 760: GE1/0/3              UP   1G(a)     F(a)   T    1    To_B8L10G-HE-CZSNL-EYCX-S
+Line 776: GE1/0/9              UP   1G(a)     F(a)   T    1    To_B8L10G-HE-CZSNL-EYCX-S
+Line 792: GE1/0/12             UP   1G(a)     F(a)   T    1    To_B8L10G-HE-CZSNL-EYCX-S
+Line 808: GE1/0/15             UP   1G(a)     F(a)   T    1    To_B8L10G-HE-CZSNL-EYCX-S
+Line 824: GE1/0/18             UP   1G(a)     F(a)   T    1    To_B8L10G-HE-CZSNL-EYCX-S
+Line 830: ji_fang河北保定数据中心机房bd_shujuzhongxin   10.126.219.40
+Line 860: GE1/0/3              UP   1G(a)     F(a)   T    1    To_F08-HE-BDSJZX-EYCX-SPI
+Line 876: GE1/0/6              UP   1G(a)     F(a)   T    1    To_F08-HE-BDSJZX-EYCX-SPI
+Line 892: GE1/0/9              UP   1G(a)     F(a)   T    1    To_F08-HE-BDSJZX-EYCX-SPI
+Line 908: GE1/0/12             UP   1G(a)     F(a)   T    1    To_F08-HE-BDSJZX-EYCX-SPI
+Line 924: GE1/0/24             UP   1G(a)     F(a)   T    1    To_F08-HE-BDSJZX-EYCX-SPI
+Line 930: ji_fang河北保定清苑机房bd_qingyuan    10.126.219.6
+Line 960: GE1/0/3              UP   1G(a)     F(a)   T    1    To_C08-HE-BDQY-EYCX-SPI81
+Line 976: GE1/0/6              UP   1G(a)     F(a)   T    1    To_C08-HE-BDQY-EYCX-SPI81
+Line 992: GE1/0/9              UP   1G(a)     F(a)   T    1    To_C08-HE-BDQY-EYCX-SPI81
+Line 1008: GE1/0/12             UP   1G(a)     F(a)   T    1    To_C08-HE-BDQY-EYCX-SPI81
+Line 1024: GE1/0/19             UP   1G(a)     F(a)   T    1    To_C08-HE-BDQY-EYCX-SPI81
+Line 1030: ji_fang河北保定金迪路机房bd_jindilu   10.126.219.195
+Line 1061: GE1/0/3              UP   1G(a)     F(a)   T    1    To_B07-HE-BDJD-EYCX-SPI81
+Line 1077: GE1/0/9              UP   1G(a)     F(a)   T    1    To_B07-HE-BDJD-EYCX-SPI81
+Line 1093: GE1/0/12             UP   1G(a)     F(a)   T    1    To_B07-HE-BDJD-EYCX-SPI81
+Line 1109: GE1/0/15             UP   1G(a)     F(a)   T    1    To_B07-HE-BDJD-EYCX-SPI81
+Line 1115: ji_fang河北承德开发区机房cd_kaifaqu   10.126.219.243
+Line 1145: GE1/0/3              UP   1G(a)     F(a)   T    1    To_J2-7-HE-CDKFQ-EYCX-SPI
+Line 1161: GE1/0/9              UP   1G(a)     F(a)   T    1    To_J2-7-HE-CDKFQ-EYCX-SPI
+Line 1167: ji_fang河北承德武烈路机房cd_wulielu   10.126.220.3
+Line 1197: GE1/0/3              UP   1G(a)     F(a)   T    1    To_H05-HE-CDWLL-EYCX-SPI8
+Line 1213: GE1/0/8              UP   1G(a)     F(a)   T    1    To_H05-HE-CDWLL-EYCX-SPI8
+Line 1219: ji_fang河北秦皇岛生产楼机房qhd_shengchanlou 10.126.220.83
+Line 1249: GE1/0/3              UP   1G(a)     F(a)   T    1    To_D05-HE-QHDSCL-EYCX-SPI
+Line 1265: GE1/0/9              UP   1G(a)     F(a)   T    1    To_D05-HE-QHDSCL-EYCX-SPI
+Line 1271: ji_fang河北秦皇岛综合楼机房qhd_zonghelou 10.126.220.100
+Line 1301: GE1/0/3              UP   1G(a)     F(a)   T    1    To_N06-HE-QHDZHL-EYCX-SPI
+Line 1317: GE1/0/6              UP   1G(a)     F(a)   T    1    To_N06-HE-QHDZHL-EYCX-SPI
+Line 1323: ji_fang河北张家口宝善街机房zjk_baoshanjie 10.126.220.179
+Line 1353: GE1/0/3              UP   1G(a)     F(a)   T    1    To_A07-HE-ZJKBSJ-EYCX-SPI
+Line 1369: GE1/0/7              UP   1G(a)     F(a)   T    1    To_A07-HE-ZJKBSJ-EYCX-SPI
+Line 1375: ji_fang河北张家口纬三路机房zjk_weisanlu 10.126.220.196
+Line 1405: GE1/0/3              UP   1G(a)     F(a)   T    1    To_BM2-HE-ZJKWSL-EYCX-SPI
+Line 1421: GE1/0/6              UP   1G(a)     F(a)   T    1    To_BM2-HE-ZJKWSL-EYCX-SPI
+Line 1427: ji_fang河北唐山丰南机房ts_fengnan 10.126.219.165
+Line 1457: GE1/0/3              UP   1G(a)     F(a)   T    1    To_D7-2-HE-TSFN-EYCX-SPI8
+Line 1473: GE1/0/6              UP   1G(a)     F(a)   T    1    To_D7-2-HE-TSFN-EYCX-SPI8
+Line 1489: GE1/0/9              UP   1G(a)     F(a)   T    1    To_D7-2-HE-TSFN-EYCX-SPI8
+Line 1495: ji_fang河北唐山天元机房ts_tianyuan 10.126.220.132
+Line 1525: GE1/0/3              UP   1G(a)     F(a)   T    1    To_B5-3-HE-TSTY-EYCX-SPI8
+Line 1541: GE1/0/6              UP   1G(a)     F(a)   T    1    To_B5-3-HE-TSTY-EYCX-SPI8
+Line 1557: GE1/0/12             UP   1G(a)     F(a)   T    1    To_B5-3-HE-TSTY-EYCX-SPI8
+Line 1563: ji_fang河北廊坊移动大楼机房lf_yidongdalou 10.126.220.67
+Line 1593: GE1/0/3              UP   1G(a)     F(a)   T    1    To_D5-HE-LFYDDL-EYCX-SPI8
+Line 1609: GE1/0/8              UP   1G(a)     F(a)   T    1    To_D5-HE-LFYDDL-EYCX-SPI8
+Line 1625: GE1/0/11             UP   1G(a)     F(a)   T    1    To_D5-HE-LFYDDL-EYCX-SPI8
+Line 1631: ji_fang河北廊坊数据中心机房lf_shujuzhongxin 10.126.220.213
+Line 1661: GE1/0/3              UP   1G(a)     F(a)   T    1    To_HE-LFSJZX-EYCX-SPI8110
+Line 1677: GE1/0/6              UP   1G(a)     F(a)   T    1    To_HE-LFSJZX-EYCX-SPI8110
+Line 1693: GE1/0/9              UP   1G(a)     F(a)   T    1    To_HE-LFSJZX-EYCX-SPI8110
+Line 1699: ji_fang河北错误机房验证_无需理会结果  cuowu_yanzheng
+2024-06-17 14:15:02
